@@ -22,3 +22,6 @@ class TemplateRecord:
     # String method
     def __str__(self):
         return f"{self.election},{self.state},{self.county},{self.precinct},{self.jurisdiction},{self.office},{self.candidate},{self.party},{self.vote_mode},{self.votes},{self.writein},{self.result_status}"
+
+    def header(self):
+        return f"election,state,county,precinct,jurisdiction,office,candidate,party,vote_mode,votes,writein,result_status"
