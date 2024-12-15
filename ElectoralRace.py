@@ -2,7 +2,7 @@
 # Stanza of results for a single race
 #
 class ElectoralRace:
-    def __init__(self, url, filename, usState, county, precinct, status, pageNumber, id):
+    def __init__(self, url, filename, usState, county, precinct, status, pageNumber, dateTime):
         self.source_url = url
         self.filename = filename
         self.state = usState
@@ -10,7 +10,7 @@ class ElectoralRace:
         self.precinct = precinct
         self.resultStatus = status
         self.page = pageNumber
-        self.id = id
+        self.dateTime = dateTime
         self.officeName = 'UNKNOWN'
         self.candidates = []
         self.startIndex = 0 # Index into text of entire section
