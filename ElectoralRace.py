@@ -2,7 +2,9 @@
 # Stanza of results for a single race
 #
 class ElectoralRace:
-    def __init__(self, usState, county, precinct, status, pageNumber, id):
+    def __init__(self, url, filename, usState, county, precinct, status, pageNumber, id):
+        self.source_url = url
+        self.filename = filename
         self.state = usState
         self.county = county
         self.precinct = precinct
