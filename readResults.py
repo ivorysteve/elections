@@ -4,22 +4,28 @@ from pypdf import PdfReader
 from Candidate import Candidate
 from ElectoralRace import ElectoralRace
 from TemplateRecord import TemplateRecord
+from FileUrlEntry import FileUrlEntry
+from urllib.parse import urlparse, unquote
 
-# constants
+# election constants
 ELECTION = '2024 GENERAL'
 STATE = 'PENNSYLVANIA'
 COUNTY = 'FULTON COUNTY'
-PRECINCT = 'AYR TOWNSHIP'
 RESULT_STATUS = "OFFICIAL RESULTS"
 DATETIME_RETRIEVED = "11/05/2024 11:30 PM"
-COUNTY_URL = 'https://www.co.fulton.pa.us/files/elections/live-results/2024/General%20Election/Ayr%20Township.pdf'
-COUNTY_FILENAME = 'Ayr Township.pdf'
 
+URL_LIST_FILENAME = "URL_List.txt"
+
+# Modes of vote result
 MODE_ELECTION_DAY = 'ELECTION DAY'
 MODE_MAIL_IN = 'MAIL-IN'
 MODE_PROVISIONAL = 'PROVISIONAL'
 MODE_TOTAL = 'TOTAL'
 
+
+"""
+Fulton County Specific constants
+"""
 OFFICE_RANKING = [
 	'PRESIDENTIAL ELECTORS',
 	'UNITED STATES SENATOR',
@@ -68,6 +74,41 @@ def votesToInt(strVotes):
 	str2 = strVotes.replace(',', '') # Remove any commas
 	return int(str2)
 
+def readLinksFile(resultsDir):
+	"""
+	The URL Links file is developer-created.  It must be in the county directory with a fixed name.
+	"""
+	filePath = os.path.join(resultsDir, URL_LIST_FILENAME)
+	urlList = []
+	f = open(filePath, "r")
+	for line in f:
+		urlList.append(line.replace('\n', ''))
+	return urlList
+
+def createFileUrlDict(filePaths, urls):
+	"""
+	Create a list that allows us to get the source URL, given a filename.
+	"""
+	entryList = []
+	for url in urls:
+		urlUnquoted = unquote(url).replace('\n', '')
+		for f in filePaths:
+			filename = os.path.basename(f)
+			if urlUnquoted.endswith(filename):
+				entry = FileUrlEntry(filename, url)
+				entryList.append(entry)
+	return entryList
+
+def findUrl(entryList, filename):
+	"""
+	Seach through list of FileUrlEntry items for one with matching filename.  Return its URL.
+	"""
+	f = os.path.basename(filename)
+	for entry in entryList:
+		if entry.filename == f:
+			return entry.url
+	return 'UNKNOWN_URL'
+
 def createRecord(race, candidate, votes, vote_mode, is_writein):
 	"""
 	Create record suitable for printing CSV
@@ -85,8 +126,8 @@ def createRecord(race, candidate, votes, vote_mode, is_writein):
 	t.votes = votes
 	t.writein = is_writein
 	t.result_status = race.resultStatus
-	t.source_url = COUNTY_URL
-	t.source_filename = COUNTY_FILENAME
+	t.source_url = race.source_url
+	t.source_filename = race.filename
 	t.datetime_retrieved = DATETIME_RETRIEVED
 	return t
 
@@ -128,11 +169,13 @@ def parseRace(raceDef):
 		raceDef.candidates.append(c)
 		candidateOffset += candidateColumnCount
 
-def parseFile(usState, county, status, filename):
+def parseFile(usState, county, status, filePath, fileUrlList):
 	""" 
 	parse all pages in vote results PDF file. 
 	"""
-	reader = PdfReader(filename)
+	filename = os.path.basename(filePath)
+	url = findUrl(fileUrlList, filePath)
+	reader = PdfReader(filePath)
 	total = len(reader.pages)
 	precinct = 'UNKNOWN'
 
@@ -146,7 +189,7 @@ def parseFile(usState, county, status, filename):
 			precinct = extractPrecinctName(pageTxt)
 		i = 0
 		sectionID = 1
-		currentRace = ElectoralRace(usState, county, precinct, status, i, sectionID)
+		currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, sectionID)
 		for line in pageTxt:
 			# Find the offices
 			for rank in OFFICE_RANKING:
@@ -161,7 +204,7 @@ def parseFile(usState, county, status, filename):
 				currentRace.endOfDataIndex = i
 				races.append(currentRace)
 				sectionID += 1
-				currentRace = ElectoralRace(usState, county, precinct, status, i, sectionID)
+				currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, sectionID)
 
 			# Bump line number
 			i += 1
@@ -213,13 +256,15 @@ def printAll(races):
 #		MAIN
 ###########################
 
-inputPath = 'PA/Huntingdon/Final-Count-Precinct-Summary-(11-8-24).pdf'
-# inputPath = 'PA/Fulton/Results_PDF'
+# inputPath = 'PA/Huntingdon/Final-Count-Precinct-Summary-(11-8-24).pdf'
+inputPath = 'PA/Fulton/Results_PDF'
 inputFilePaths = getFiles(inputPath)
+urlLinks = readLinksFile(inputPath)
+fileUrlList = createFileUrlDict(inputFilePaths, urlLinks)
 
 allRaces = []
 for filePath in inputFilePaths:
-	races = parseFile(STATE, COUNTY, RESULT_STATUS, filePath)
+	races = parseFile(STATE, COUNTY, RESULT_STATUS, filePath, fileUrlList)
 
 	for race in races:
 		parseRace(race)
