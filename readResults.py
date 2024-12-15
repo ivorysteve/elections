@@ -41,6 +41,8 @@ END_OF_OFFICE_MARKER = 'Cast Votes'
 COLUMN_COUNT = 10
 # Number of fields from office to first candidate name.
 HEADER_FIELD_COUNT = 7
+INDEX_DATE = 16
+INDEX_TIME = 15
 
 INDEX_PRECINCT_NAME = 0
 INDEX_FIRST_CANDIDATE = 24
@@ -63,6 +65,11 @@ def extractCandidateName(listedName):
 def extractPrecinctName(txt):
 	""" Here, precinct name in all caps is first string in page."""
 	return txt[0]
+
+def extractDateTime(txt):
+	d = txt[INDEX_DATE]
+	t = txt[INDEX_TIME]
+	return f"{d} {t}"
 
 def determineIfPresidential(rank):
 	if rank == 'PRESIDENTIAL ELECTORS':
@@ -128,7 +135,7 @@ def createRecord(race, candidate, votes, vote_mode, is_writein):
 	t.result_status = race.resultStatus
 	t.source_url = race.source_url
 	t.source_filename = race.filename
-	t.datetime_retrieved = DATETIME_RETRIEVED
+	t.datetime_retrieved = race.dateTime
 	return t
 
 
@@ -178,6 +185,7 @@ def parseFile(usState, county, status, filePath, fileUrlList):
 	reader = PdfReader(filePath)
 	total = len(reader.pages)
 	precinct = 'UNKNOWN'
+	dateTime = 'UNKNOWN'
 
 	races = []
 	# creating a page object
@@ -187,9 +195,9 @@ def parseFile(usState, county, status, filePath, fileUrlList):
 		# Take precinct name from the first page.
 		if pageNo == 0:
 			precinct = extractPrecinctName(pageTxt)
+			dateTime = extractDateTime(pageTxt)
 		i = 0
-		sectionID = 1
-		currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, sectionID)
+		currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, dateTime)
 		for line in pageTxt:
 			# Find the offices
 			for rank in OFFICE_RANKING:
@@ -203,8 +211,7 @@ def parseFile(usState, county, status, filePath, fileUrlList):
 			if line.startswith(END_OF_OFFICE_MARKER):
 				currentRace.endOfDataIndex = i
 				races.append(currentRace)
-				sectionID += 1
-				currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, sectionID)
+				currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, dateTime)
 
 			# Bump line number
 			i += 1
