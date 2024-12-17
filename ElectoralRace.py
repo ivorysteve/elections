@@ -7,7 +7,7 @@ class ElectoralRace:
         self.filename = filename
         self.state = usState
         self.stateAbbrev = usStateAbbrev
-        self.county = county
+        self.county = county.upper()
         self.precinct = precinct
         self.resultStatus = status
         self.page = pageNumber
