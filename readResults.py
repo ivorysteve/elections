@@ -6,15 +6,12 @@ from ElectoralRace import ElectoralRace
 from TemplateRecord import TemplateRecord
 from FileUrlEntry import FileUrlEntry
 from urllib.parse import urlparse, unquote
+from ElectionGlobals import Globals
 
 # election constants
-ELECTION = '2024 GENERAL'
-STATE = 'PENNSYLVANIA'
 COUNTY = 'FULTON COUNTY'
 RESULT_STATUS = "OFFICIAL RESULTS"
 DATETIME_RETRIEVED = "11/05/2024 11:30 PM"
-
-URL_LIST_FILENAME = "URL_List.txt"
 
 # Modes of vote result
 MODE_ELECTION_DAY = 'ELECTION DAY'
@@ -85,7 +82,7 @@ def readLinksFile(resultsDir):
 	"""
 	The URL Links file is developer-created.  It must be in the county directory with a fixed name.
 	"""
-	filePath = os.path.join(resultsDir, URL_LIST_FILENAME)
+	filePath = os.path.join(resultsDir, Globals.URL_LIST_FILENAME)
 	urlList = []
 	f = open(filePath, "r")
 	for line in f:
@@ -121,7 +118,7 @@ def createRecord(race, candidate, votes, vote_mode, is_writein):
 	Create record suitable for printing CSV
 	"""
 	t = TemplateRecord()
-	t.election = ELECTION
+	t.election = Globals.ELECTION
 	t.state = race.state
 	t.county = race.county
 	t.jurisdiction = race.county
@@ -176,7 +173,7 @@ def parseRace(raceDef):
 		raceDef.candidates.append(c)
 		candidateOffset += candidateColumnCount
 
-def parseFile(usState, county, status, filePath, fileUrlList):
+def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
 	""" 
 	parse all pages in vote results PDF file. 
 	"""
@@ -197,7 +194,7 @@ def parseFile(usState, county, status, filePath, fileUrlList):
 			precinct = extractPrecinctName(pageTxt)
 			dateTime = extractDateTime(pageTxt)
 		i = 0
-		currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, dateTime)
+		currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
 		for line in pageTxt:
 			# Find the offices
 			for rank in OFFICE_RANKING:
@@ -211,7 +208,7 @@ def parseFile(usState, county, status, filePath, fileUrlList):
 			if line.startswith(END_OF_OFFICE_MARKER):
 				currentRace.endOfDataIndex = i
 				races.append(currentRace)
-				currentRace = ElectoralRace(url, filename, usState, county, precinct, status, i, dateTime)
+				currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
 
 			# Bump line number
 			i += 1
@@ -263,20 +260,20 @@ def printAll(races):
 #		MAIN
 ###########################
 
-# inputPath = 'PA/Huntingdon/Final-Count-Precinct-Summary-(11-8-24).pdf'
-inputPath = 'PA/Fulton/Results_PDF'
-inputFilePaths = getFiles(inputPath)
-urlLinks = readLinksFile(inputPath)
-fileUrlList = createFileUrlDict(inputFilePaths, urlLinks)
+def readCountyResults(usState, usStateAbbrev, county):
+	inputPath = os.path.join(usStateAbbrev, county, Globals.RESULTS_DIR)
+	inputFilePaths = getFiles(inputPath)
+	urlLinks = readLinksFile(inputPath)
+	fileUrlList = createFileUrlDict(inputFilePaths, urlLinks)
 
-allRaces = []
-for filePath in inputFilePaths:
-	races = parseFile(STATE, COUNTY, RESULT_STATUS, filePath, fileUrlList)
+	allRaces = []
+	for filePath in inputFilePaths:
+		races = parseFile(usState, usStateAbbrev, county, RESULT_STATUS, filePath, fileUrlList)
 
-	for race in races:
-		parseRace(race)
-		allRaces.append(race)
+		for race in races:
+			parseRace(race)
+			allRaces.append(race)
 
-printAll(allRaces)
+	printAll(allRaces)
 
 # DONE
