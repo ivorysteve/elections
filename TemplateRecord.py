@@ -2,6 +2,8 @@
 #
 # Reference: https://docs.google.com/spreadsheets/d/13IMTlAxVFoon8_DfyJBP58-r2n9kmHLlKdBbI2kDQVQ/edit?gid=272640954#gid=272640954
 #
+from ElectionGlobals import Globals
+
 class TemplateRecord:
     def __init__(self):
         election = ''
@@ -19,6 +21,33 @@ class TemplateRecord:
         source_url = ''
         source_filename = ''
         datetime_retrieved = ''
+
+
+    def createRecord(race, candidate, votes, vote_mode, is_writein):
+        """
+        Create record suitable for printing CSV
+        @param race ElectoralRace
+        @param candidate Candidate
+        @param votes count of votes for this vote mode
+        @param vote_mod ElectionGlobals.MODE_*
+        """
+        t = TemplateRecord()
+        t.election = Globals.ELECTION
+        t.state = race.state
+        t.county = race.county + ' COUNTY'
+        t.jurisdiction = race.county + ' COUNTY'
+        t.precinct = race.precinct
+        t.office = candidate.office
+        t.candidate = candidate.name
+        t.party = candidate.party
+        t.vote_mode = vote_mode
+        t.votes = votes
+        t.writein = is_writein
+        t.result_status = race.resultStatus
+        t.source_url = race.source_url
+        t.source_filename = race.filename
+        t.datetime_retrieved = race.dateTime
+        return t
 
     # String method
     def __str__(self):

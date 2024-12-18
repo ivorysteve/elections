@@ -1,4 +1,6 @@
-# importing required classes
+"""
+This file parses PDF election results that are contained in multiple files.
+"""
 import os
 from pypdf import PdfReader
 from Candidate import Candidate
@@ -9,19 +11,11 @@ from urllib.parse import urlparse, unquote
 from ElectionGlobals import Globals
 
 # election constants
-COUNTY = 'FULTON COUNTY'
 RESULT_STATUS = "OFFICIAL RESULTS"
 DATETIME_RETRIEVED = "11/05/2024 11:30 PM"
 
-# Modes of vote result
-MODE_ELECTION_DAY = 'ELECTION DAY'
-MODE_MAIL_IN = 'MAIL-IN'
-MODE_PROVISIONAL = 'PROVISIONAL'
-MODE_TOTAL = 'TOTAL'
-
-
 """
-Fulton County Specific constants
+County-specific constants
 """
 OFFICE_RANKING = [
 	'PRESIDENTIAL ELECTORS',
@@ -113,29 +107,6 @@ def findUrl(entryList, filename):
 			return entry.url
 	return 'UNKNOWN_URL'
 
-def createRecord(race, candidate, votes, vote_mode, is_writein):
-	"""
-	Create record suitable for printing CSV
-	"""
-	t = TemplateRecord()
-	t.election = Globals.ELECTION
-	t.state = race.state
-	t.county = race.county
-	t.jurisdiction = race.county
-	t.precinct = race.precinct
-	t.office = candidate.office
-	t.candidate = candidate.name
-	t.party = candidate.party
-	t.vote_mode = vote_mode
-	t.votes = votes
-	t.writein = is_writein
-	t.result_status = race.resultStatus
-	t.source_url = race.source_url
-	t.source_filename = race.filename
-	t.datetime_retrieved = race.dateTime
-	return t
-
-
 # Parse the choices for a section representing a single race.
 def parseRace(raceDef):
 	"""
@@ -194,21 +165,21 @@ def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
 			precinct = extractPrecinctName(pageTxt)
 			dateTime = extractDateTime(pageTxt)
 		i = 0
-		currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
 		for line in pageTxt:
 			# Find the offices
 			for rank in OFFICE_RANKING:
 				if line.startswith(rank):
+					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
 					currentRace.pageText = pageTxt
 					currentRace.startIndex = i
-					currentRace.officeName = rank
+					currentRace.page = pageNo
+					currentRace.officeName = rank  # We take the whole line in the singleDoc version
 					currentRace.isPresidential = determineIfPresidential(rank)
 					currentRace.candidateStartIndex = i + HEADER_FIELD_COUNT
 			# Find end of section
 			if line.startswith(END_OF_OFFICE_MARKER):
 				currentRace.endOfDataIndex = i
 				races.append(currentRace)
-				currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
 
 			# Bump line number
 			i += 1
@@ -247,10 +218,10 @@ def printAll(races):
 	rows = []
 	for race in races:
 		for c in race.candidates:
-			rows.append(createRecord(race, c, c.votes_ed, MODE_ELECTION_DAY, 0))
-			rows.append(createRecord(race, c, c.votes_prov, MODE_PROVISIONAL, 0))
-			rows.append(createRecord(race, c, c.votes_mail, MODE_MAIL_IN, 0))
-			rows.append(createRecord(race, c, c.votes_total, MODE_TOTAL, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_ed, Globals.MODE_ELECTION_DAY, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_prov, Globals.MODE_PROVISIONAL, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_mail, Globals.MODE_MAIL_IN, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_total, Globals.MODE_TOTAL, 0))
 
 	print(rows[0].header())
 	for row in rows:
