@@ -1,4 +1,8 @@
-# importing required classes
+"""
+This file parses PDF election results that are collated into a single file.
+Typically, the bottom of the page may say 'Report generated with Electionware'.
+It may have one or several races per page.
+"""
 import os
 from pypdf import PdfReader
 from Candidate import Candidate
@@ -8,14 +12,8 @@ from FileUrlEntry import FileUrlEntry
 from ElectionGlobals import Globals
 from urllib.parse import urlparse, unquote
 
-# Modes of vote result
-MODE_ELECTION_DAY = 'ELECTION DAY'
-MODE_MAIL_IN = 'MAIL-IN'
-MODE_PROVISIONAL = 'PROVISIONAL'
-MODE_TOTAL = 'TOTAL'
-
 """
-County Specific constants
+County-specific constants
 """
 OFFICE_RANKING = [
 	'PRESIDENTIAL ELECTORS',
@@ -24,7 +22,9 @@ OFFICE_RANKING = [
 	'AUDITOR GENERAL',
 	'STATE TREASURER',
 	'REPRESENTATIVE IN CONGRESS',
-	'REPRESENTATIVE IN THE GENERAL ASSEMBLY'
+	'REPRESENTATIVE IN THE',
+	'REPRESENTATIVE in the',
+	'REPRESENTATIVEin the' # Misspelling in one of the counties
 ]
 END_OF_OFFICE_MARKER = 'Write-In Totals'
 DATETIME_SEARCH_STRING = 'Precinct Summary - '
@@ -79,7 +79,7 @@ def determineIfPresidential(rank):
 def getHeaderFieldCount(county):
 	""" HUGE TEMP HACK: this should be in a format spec """
 	""" Returns Number of fields from office to first candidate name. """
-	if county == 'Huntingdon':
+	if county == 'Huntingdon' or county == 'Lebanon':
 		return 8
 	if county == 'Juniata':
 		return 5
@@ -143,28 +143,6 @@ def findUrl(entryList, filename):
 			return entry.url
 	return 'UNKNOWN_URL'
 
-def createRecord(race, candidate, votes, vote_mode, is_writein):
-	"""
-	Create record suitable for printing CSV
-	"""
-	t = TemplateRecord()
-	t.election = Globals.ELECTION
-	t.state = race.state
-	t.county = race.county + ' COUNTY'
-	t.jurisdiction = race.county + ' COUNTY'
-	t.precinct = race.precinct
-	t.office = candidate.office
-	t.candidate = candidate.name
-	t.party = candidate.party
-	t.vote_mode = vote_mode
-	t.votes = votes
-	t.writein = is_writein
-	t.result_status = race.resultStatus
-	t.source_url = race.source_url
-	t.source_filename = race.filename
-	t.datetime_retrieved = race.dateTime
-	return t
-
 
 # Parse the choices for a section representing a single race.
 def parseRace(raceDef):
@@ -224,11 +202,11 @@ def parseFile(usState, usStateAbbrev, county, filePath, fileUrlList):
 		dateTime = extractDateTime(pageTxt)
 		resultStatus = extractResultsType(pageTxt)
 		i = 0
-		currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, resultStatus, i, dateTime)
 		for line in pageTxt:
 			# Find the offices
 			for rank in OFFICE_RANKING:
 				if line.startswith(rank):
+					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, resultStatus, i, dateTime)
 					currentRace.pageText = pageTxt
 					currentRace.page = pageNo
 					currentRace.startIndex = i
@@ -239,7 +217,6 @@ def parseFile(usState, usStateAbbrev, county, filePath, fileUrlList):
 			if line.startswith(END_OF_OFFICE_MARKER):
 				currentRace.endOfDataIndex = i
 				races.append(currentRace)
-				currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, resultStatus, i, dateTime)
 
 			# Bump line number
 			i += 1
@@ -281,10 +258,10 @@ def printAll(races):
 		return
 	for race in races:
 		for c in race.candidates:
-			rows.append(createRecord(race, c, c.votes_ed, MODE_ELECTION_DAY, 0))
-			rows.append(createRecord(race, c, c.votes_prov, MODE_PROVISIONAL, 0))
-			rows.append(createRecord(race, c, c.votes_mail, MODE_MAIL_IN, 0))
-			rows.append(createRecord(race, c, c.votes_total, MODE_TOTAL, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_ed, Globals.MODE_ELECTION_DAY, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_prov, Globals.MODE_PROVISIONAL, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_mail, Globals.MODE_MAIL_IN, 0))
+			rows.append(TemplateRecord.createRecord(race, c, c.votes_total, Globals.MODE_TOTAL, 0))
 
 	print(rows[0].header())
 	for row in rows:
