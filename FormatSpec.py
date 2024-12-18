@@ -1,5 +1,6 @@
-# Spec that defines specifics of how to parse a county results file.
-
+"""
+ Spec that defines specifics of how to parse a county results file.
+"""
 class LineSpec:
     def __init__(self):
         ''' Spec for a line of a candidate in a race. '''
