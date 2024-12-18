@@ -1,5 +1,9 @@
 from readSingleDoc import readCountyResults
 from ElectionGlobals import Globals
+from FormatSpec import FormatSpec
 
-readCountyResults(Globals.STATE, Globals.STATE_ABBREV, 'Huntingdon')
+fmtSpec = FormatSpec('Huntingdon')
+fmtSpec.header_field_count = 8
+
+readCountyResults(Globals.STATE, Globals.STATE_ABBREV, fmtSpec)
 

@@ -9,6 +9,7 @@ from Candidate import Candidate
 from ElectoralRace import ElectoralRace
 from TemplateRecord import TemplateRecord
 from FileUrlEntry import FileUrlEntry
+from FormatSpec import FormatSpec
 from ElectionGlobals import Globals
 from urllib.parse import urlparse, unquote
 
@@ -26,14 +27,15 @@ OFFICE_RANKING = [
 	'REPRESENTATIVE in the',
 	'REPRESENTATIVEin the' # Misspelling in one of the counties
 ]
-END_OF_OFFICE_MARKER = 'Write-In Totals'
+END_OF_OFFICE_MARKER = 'WRITE-IN'
 DATETIME_SEARCH_STRING = 'Precinct Summary - '
 # Indices for each page
 INDEX_PRECINCT = 5
+PRECINCT_PREFIX = 'Precinct '
 # Indices of fields starting from candidate name
 COLUMN_COUNT = 10
-INDEX_DATE = 16
-INDEX_TIME = 15
+INDEX_DATE = 6
+INDEX_TIME = 7
 INDEX_RESULTS_TYPE = 3
 INDEX_PRECINCT_NAME = 0
 INDEX_FIRST_CANDIDATE = 24
@@ -54,11 +56,18 @@ def extractCandidateName(listedName):
 		return listedName[:end]
 	return listedName
 
-def extractPrecinctName(txt):
+def extractPrecinctName(county, txt):
+	""" HACK: This should be a format spec """
+	if county == 'Lycoming':
+		return txt[14]
 	return txt[INDEX_PRECINCT]
 
-def extractDateTime(txt):
+def extractDateTime(formatSpec, txt):
 	""" The date/time is often on a line like: 'Precinct Summary - 11/21/2024 10:39 AM """
+	if formatSpec.date_index > 0:
+		d = txt[formatSpec.date_index]
+		t = txt[formatSpec.time_index]
+		return f"{d} {t}"
 	for line in txt:
 		if line.startswith(DATETIME_SEARCH_STRING):
 			rtnLine = line.replace(DATETIME_SEARCH_STRING, '')
@@ -68,7 +77,10 @@ def extractDateTime(txt):
 			return rtnLine
 	return 'UNKNOWN'
 
-def extractResultsType(txt):
+def extractResultsType(county, txt):
+	if county == 'Lycoming':
+		""" HACK: Should be part of format spec """
+		return txt[0]
 	return txt[INDEX_RESULTS_TYPE]
 
 def determineIfPresidential(rank):
@@ -76,14 +88,9 @@ def determineIfPresidential(rank):
 		return True
 	return False
 
-def getHeaderFieldCount(county):
-	""" HUGE TEMP HACK: this should be in a format spec """
+def getHeaderFieldCount(fmtSpec):
 	""" Returns Number of fields from office to first candidate name. """
-	if county == 'Huntingdon' or county == 'Lebanon':
-		return 8
-	if county == 'Juniata':
-		return 5
-	return 0
+	return fmtSpec.header_field_count
 
 def votesToInt(strVotes):
 	""" Convert string to integer. """
@@ -156,7 +163,7 @@ def parseRace(raceDef):
 	# Go through all lines in a section (race)
 	for line in range(0, 100):
 		dataStart = candidateOffset
-		if dataStart >= raceDef.endOfDataIndex:
+		if dataStart >= raceDef.raceIndexEnd:
 			# We are done with this section.
 			return
 		# Start parsing:
@@ -180,7 +187,7 @@ def parseRace(raceDef):
 		raceDef.candidates.append(c)
 		candidateOffset += 1   # All vote counts for a candidate are in a single line, so just bump by 1.
 
-def parseFile(usState, usStateAbbrev, county, filePath, fileUrlList):
+def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 	""" 
 	parse all pages in vote results PDF file. 
 	"""
@@ -190,7 +197,8 @@ def parseFile(usState, usStateAbbrev, county, filePath, fileUrlList):
 	total = len(reader.pages)
 	precinct = 'UNKNOWN'
 	dateTime = 'UNKNOWN'
-	headerFieldCount = getHeaderFieldCount(county)
+	county = formatSpec.county
+	headerFieldCount = getHeaderFieldCount(formatSpec)
 
 	races = []
 	# creating a page object
@@ -198,25 +206,30 @@ def parseFile(usState, usStateAbbrev, county, filePath, fileUrlList):
 		page = reader.pages[pageNo]
 		pageTxt = page.extract_text().splitlines()
 		# Take precinct name from each page.
-		precinct = extractPrecinctName(pageTxt)
-		dateTime = extractDateTime(pageTxt)
-		resultStatus = extractResultsType(pageTxt)
+		precinct = extractPrecinctName(county, pageTxt)
+		if precinct.startswith(PRECINCT_PREFIX):
+			precinct = precinct.replace(PRECINCT_PREFIX, '')
+		dateTime = extractDateTime(formatSpec, pageTxt)
+		resultStatus = extractResultsType(county, pageTxt)
+		if pageNo == 39:
+			print("stop")
 		i = 0
 		for line in pageTxt:
 			# Find the offices
 			for rank in OFFICE_RANKING:
-				if line.startswith(rank):
-					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, resultStatus, i, dateTime)
+				if line.upper().startswith(rank):
+					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, formatSpec, precinct, resultStatus, i, dateTime)
 					currentRace.pageText = pageTxt
 					currentRace.page = pageNo
-					currentRace.startIndex = i
+					currentRace.raceStartIndex = i
 					currentRace.officeName = line
 					currentRace.isPresidential = determineIfPresidential(rank)
 					currentRace.candidateStartIndex = i + headerFieldCount
 			# Find end of section
-			if line.startswith(END_OF_OFFICE_MARKER):
-				currentRace.endOfDataIndex = i
-				races.append(currentRace)
+			else:
+				if line.upper().startswith(END_OF_OFFICE_MARKER):
+					currentRace.raceIndexEnd = i
+					races.append(currentRace)
 
 			# Bump line number
 			i += 1
@@ -271,15 +284,15 @@ def printAll(races):
 #		MAIN
 ###########################
 
-def readCountyResults(usState, usStateAbbrev, county):
-	inputPath = os.path.join(usStateAbbrev, county, Globals.RESULTS_DIR)
+def readCountyResults(usState, usStateAbbrev, fmtSpec):
+	inputPath = os.path.join(usStateAbbrev, fmtSpec.county, Globals.RESULTS_DIR)
 	inputFilePaths = getFiles(inputPath)
 	urlLinks = readLinksFile(inputPath)
 	fileUrlList = createFileUrlDict(inputFilePaths, urlLinks)
 
 	allRaces = []
 	for filePath in inputFilePaths:
-		races = parseFile(usState, usStateAbbrev, county, filePath, fileUrlList)
+		races = parseFile(usState, usStateAbbrev, fmtSpec, filePath, fileUrlList)
 
 		for race in races:
 			parseRace(race)
