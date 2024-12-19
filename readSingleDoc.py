@@ -28,13 +28,6 @@ INDEX_TIME = 7
 INDEX_RESULTS_TYPE = 3
 INDEX_PRECINCT_NAME = 0
 INDEX_FIRST_CANDIDATE = 24
-# Indices on a candidate line.
-INDEX_PARTY = 0
-INDEX_CANDIDATE_NAME = 1
-INDEX_VOTES_MAIL = 2
-INDEX_VOTES_ED = 1
-INDEX_VOTES_PROV = 3
-INDEX_VOTES_TOTAL = 0
 
 def extractPrecinctName(county, txt):
 	""" HACK: This should be a format spec """
@@ -198,6 +191,7 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 					currentRace.officeName = extractOfficeName(line)
 					currentRace.isPresidential = determineIfPresidential(rank)
 					currentRace.candidateStartIndex = i + headerFieldCount
+					break
 			# Find end of section
 			else:
 				if line.upper().startswith(END_OF_OFFICE_MARKER):

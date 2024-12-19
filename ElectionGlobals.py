@@ -15,6 +15,7 @@ class Globals:
     MODE_PROVISIONAL = 'PROVISIONAL'
     MODE_TOTAL = 'TOTAL'
 
+    # All possible names of offices,  in upper case.
     OFFICE_RANKINGS = [
         'PRESIDENTIAL ELECTORS',
         'UNITED STATES SENATOR',
