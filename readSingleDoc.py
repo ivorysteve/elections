@@ -24,8 +24,7 @@ OFFICE_RANKING = [
 	'STATE TREASURER',
 	'REPRESENTATIVE IN CONGRESS',
 	'REPRESENTATIVE IN THE',
-	'REPRESENTATIVE in the',
-	'REPRESENTATIVEin the' # Misspelling in one of the counties
+	'REPRESENTATIVEIN THE' # Misspelling in one of the counties
 ]
 END_OF_OFFICE_MARKER = 'WRITE-IN'
 DATETIME_SEARCH_STRING = 'Precinct Summary - '
@@ -211,8 +210,7 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 			precinct = precinct.replace(PRECINCT_PREFIX, '')
 		dateTime = extractDateTime(formatSpec, pageTxt)
 		resultStatus = extractResultsType(county, pageTxt)
-		if pageNo == 39:
-			print("stop")
+		
 		i = 0
 		for line in pageTxt:
 			# Find the offices
