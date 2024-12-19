@@ -1,4 +1,7 @@
 from readMultiDoc import readCountyResults
 from ElectionGlobals import Globals
+from FormatSpec import FormatSpec
 
-readCountyResults(Globals.STATE, Globals.STATE_ABBREV, 'Fulton')
+fmtSpec = FormatSpec('Fulton')
+
+readCountyResults(Globals.STATE, Globals.STATE_ABBREV, fmtSpec)

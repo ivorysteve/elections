@@ -16,16 +16,6 @@ from urllib.parse import urlparse, unquote
 """
 County-specific constants
 """
-OFFICE_RANKING = [
-	'PRESIDENTIAL ELECTORS',
-	'UNITED STATES SENATOR',
-	'ATTORNEY GENERAL',
-	'AUDITOR GENERAL',
-	'STATE TREASURER',
-	'REPRESENTATIVE IN CONGRESS',
-	'REPRESENTATIVE IN THE',
-	'REPRESENTATIVEIN THE' # Misspelling in one of the counties
-]
 END_OF_OFFICE_MARKER = 'WRITE-IN'
 DATETIME_SEARCH_STRING = 'Precinct Summary - '
 # Indices for each page
@@ -38,22 +28,13 @@ INDEX_TIME = 7
 INDEX_RESULTS_TYPE = 3
 INDEX_PRECINCT_NAME = 0
 INDEX_FIRST_CANDIDATE = 24
+# Indices on a candidate line.
 INDEX_PARTY = 0
 INDEX_CANDIDATE_NAME = 1
 INDEX_VOTES_MAIL = 2
 INDEX_VOTES_ED = 1
 INDEX_VOTES_PROV = 3
 INDEX_VOTES_TOTAL = 0
-
-def extractCandidateName(listedName):
-	"""
-	Presidential candidates have " - presidential candidate" after their name.
-	Return name with this removed, else, name unchanged.
-	"""
-	if " - " in listedName:
-		end = listedName.find(" - ")
-		return listedName[:end]
-	return listedName
 
 def extractPrecinctName(county, txt):
 	""" HACK: This should be a format spec """
@@ -81,6 +62,14 @@ def extractResultsType(county, txt):
 		""" HACK: Should be part of format spec """
 		return txt[0]
 	return txt[INDEX_RESULTS_TYPE]
+
+def extractOfficeName(name):
+	""" Office names sometimes have a '(Vote for 1)...' suffix.  Ugh.  """
+	VOTE_FOR_ONE = '(Vote for 1)'
+	indx = name.find(VOTE_FOR_ONE)
+	if indx > 0:
+		name = name[0:indx]
+	return name
 
 def determineIfPresidential(rank):
 	if rank == 'PRESIDENTIAL ELECTORS':
@@ -156,10 +145,11 @@ def parseRace(raceDef):
 	Parse a single race (section) of the vote results.
 	"""
 	txt = raceDef.pageText
+	fmtSpec = raceDef.formatSpec
 	candidateOffset = raceDef.candidateStartIndex
 	office = raceDef.officeName
 
-	# Go through all lines in a section (race)
+	# Go through all lines in a section (race) 
 	for line in range(0, 100):
 		dataStart = candidateOffset
 		if dataStart >= raceDef.raceIndexEnd:
@@ -167,24 +157,9 @@ def parseRace(raceDef):
 			return
 		# Start parsing:
 		candidateLine = txt[candidateOffset]
-		fields = candidateLine.replace(',', '').split(' ')
-		party = fields[INDEX_PARTY]
-		candidateName = fields[INDEX_CANDIDATE_NAME]
-		countStartIndex = findFirstNumber(fields)
-		candidateName = normalizeCandidateName(countStartIndex, candidateName, fields)
-		votes_mail = fields[INDEX_VOTES_MAIL + countStartIndex]
-		votes_ed = fields[INDEX_VOTES_ED + countStartIndex]
-		votes_prov = fields[INDEX_VOTES_PROV + countStartIndex]
-		votes_total = fields[INDEX_VOTES_TOTAL + countStartIndex]
-		c = Candidate(office)
-		c.name = candidateName
-		c.party = party
-		c.votes_ed = votesToInt(votes_ed)
-		c.votes_mail = votesToInt(votes_mail)
-		c.votes_prov = votesToInt(votes_prov)
-		c.votes_total = votesToInt(votes_total)
+		c = fmtSpec.parseLineFn(office, candidateLine, txt, candidateOffset, fmtSpec.lineSpec)
 		raceDef.candidates.append(c)
-		candidateOffset += 1   # All vote counts for a candidate are in a single line, so just bump by 1.
+		candidateOffset += fmtSpec.candidate_col_count   # All vote counts for a candidate are in a single line, so just bump by 1.
 
 def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 	""" 
@@ -214,13 +189,13 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 		i = 0
 		for line in pageTxt:
 			# Find the offices
-			for rank in OFFICE_RANKING:
+			for rank in Globals.OFFICE_RANKINGS:
 				if line.upper().startswith(rank):
 					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, formatSpec, precinct, resultStatus, i, dateTime)
 					currentRace.pageText = pageTxt
 					currentRace.page = pageNo
 					currentRace.raceStartIndex = i
-					currentRace.officeName = line
+					currentRace.officeName = extractOfficeName(line)
 					currentRace.isPresidential = determineIfPresidential(rank)
 					currentRace.candidateStartIndex = i + headerFieldCount
 			# Find end of section

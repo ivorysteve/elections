@@ -17,15 +17,6 @@ DATETIME_RETRIEVED = "11/05/2024 11:30 PM"
 """
 County-specific constants
 """
-OFFICE_RANKING = [
-	'PRESIDENTIAL ELECTORS',
-	'UNITED STATES SENATOR',
-	'ATTORNEY GENERAL',
-	'AUDITOR GENERAL',
-	'STATE TREASURER',
-	'REPRESENTATIVE IN CONGRESS',
-	'REPRESENTATIVE IN THE GENERAL ASSEMBLY'
-]
 END_OF_OFFICE_MARKER = 'Cast Votes'
 
 # Indices of fields starting from candidate name
@@ -144,7 +135,7 @@ def parseRace(raceDef):
 		raceDef.candidates.append(c)
 		candidateOffset += candidateColumnCount
 
-def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
+def parseFile(usState, usStateAbbrev, fmtSpec, status, filePath, fileUrlList):
 	""" 
 	parse all pages in vote results PDF file. 
 	"""
@@ -167,9 +158,9 @@ def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
 		i = 0
 		for line in pageTxt:
 			# Find the offices
-			for rank in OFFICE_RANKING:
+			for rank in Globals.OFFICE_RANKINGS:
 				if line.startswith(rank):
-					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
+					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, fmtSpec, precinct, status, i, dateTime)
 					currentRace.pageText = pageTxt
 					currentRace.startIndex = i
 					currentRace.page = pageNo
@@ -231,15 +222,15 @@ def printAll(races):
 #		MAIN
 ###########################
 
-def readCountyResults(usState, usStateAbbrev, county):
-	inputPath = os.path.join(usStateAbbrev, county, Globals.RESULTS_DIR)
+def readCountyResults(usState, usStateAbbrev, fmtSpec):
+	inputPath = os.path.join(usStateAbbrev, fmtSpec.county, Globals.RESULTS_DIR)
 	inputFilePaths = getFiles(inputPath)
 	urlLinks = readLinksFile(inputPath)
 	fileUrlList = createFileUrlDict(inputFilePaths, urlLinks)
 
 	allRaces = []
 	for filePath in inputFilePaths:
-		races = parseFile(usState, usStateAbbrev, county, RESULT_STATUS, filePath, fileUrlList)
+		races = parseFile(usState, usStateAbbrev, fmtSpec, RESULT_STATUS, filePath, fileUrlList)
 
 		for race in races:
 			parseRace(race)

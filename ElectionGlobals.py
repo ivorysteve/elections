@@ -14,3 +14,15 @@ class Globals:
     MODE_MAIL_IN = 'MAIL-IN'
     MODE_PROVISIONAL = 'PROVISIONAL'
     MODE_TOTAL = 'TOTAL'
+
+    OFFICE_RANKINGS = [
+        'PRESIDENTIAL ELECTORS',
+        'UNITED STATES SENATOR',
+        'ATTORNEY GENERAL',
+        'AUDITOR GENERAL',
+        'STATE TREASURER',
+        'SENATOR IN THE',
+        'REPRESENTATIVE IN CONGRESS',
+        'REPRESENTATIVE IN THE',
+        'REPRESENTATIVEIN THE' # Misspelling in one of the counties
+    ]
