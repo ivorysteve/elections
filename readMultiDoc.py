@@ -17,15 +17,6 @@ DATETIME_RETRIEVED = "11/05/2024 11:30 PM"
 """
 County-specific constants
 """
-OFFICE_RANKING = [
-	'PRESIDENTIAL ELECTORS',
-	'UNITED STATES SENATOR',
-	'ATTORNEY GENERAL',
-	'AUDITOR GENERAL',
-	'STATE TREASURER',
-	'REPRESENTATIVE IN CONGRESS',
-	'REPRESENTATIVE IN THE GENERAL ASSEMBLY'
-]
 END_OF_OFFICE_MARKER = 'Cast Votes'
 
 # Indices of fields starting from candidate name
@@ -167,8 +158,8 @@ def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
 		i = 0
 		for line in pageTxt:
 			# Find the offices
-			for rank in OFFICE_RANKING:
-				if line.startswith(rank):
+			for rank in Globals.OFFICE_RANKING:
+				if line.upper().startswith(rank):
 					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
 					currentRace.pageText = pageTxt
 					currentRace.startIndex = i

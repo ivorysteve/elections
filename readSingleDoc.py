@@ -16,19 +16,8 @@ from urllib.parse import urlparse, unquote
 """
 County-specific constants
 """
-OFFICE_RANKING = [
-	'PRESIDENTIAL ELECTORS',
-	'UNITED STATES SENATOR',
-	'ATTORNEY GENERAL',
-	'AUDITOR GENERAL',
-	'STATE TREASURER',
-	'REPRESENTATIVE IN CONGRESS',
-	'REPRESENTATIVE IN THE',
-	'REPRESENTATIVE in the',
-	'REPRESENTATIVEin the' # Misspelling in one of the counties
-]
+
 END_OF_OFFICE_MARKER = 'WRITE-IN'
-DATETIME_SEARCH_STRING = 'Precinct Summary - '
 # Indices for each page
 INDEX_PRECINCT = 5
 PRECINCT_PREFIX = 'Precinct '
@@ -36,7 +25,7 @@ PRECINCT_PREFIX = 'Precinct '
 COLUMN_COUNT = 10
 INDEX_DATE = 6
 INDEX_TIME = 7
-INDEX_RESULTS_TYPE = 3
+
 INDEX_PRECINCT_NAME = 0
 INDEX_FIRST_CANDIDATE = 24
 INDEX_PARTY = 0
@@ -56,11 +45,8 @@ def extractCandidateName(listedName):
 		return listedName[:end]
 	return listedName
 
-def extractPrecinctName(county, txt):
-	""" HACK: This should be a format spec """
-	if county == 'Lycoming':
-		return txt[14]
-	return txt[INDEX_PRECINCT]
+def extractPrecinctName(formatSpec, txt):
+	return txt[formatSpec.precinct_name_index]
 
 def extractDateTime(formatSpec, txt):
 	""" The date/time is often on a line like: 'Precinct Summary - 11/21/2024 10:39 AM """
@@ -69,19 +55,17 @@ def extractDateTime(formatSpec, txt):
 		t = txt[formatSpec.time_index]
 		return f"{d} {t}"
 	for line in txt:
-		if line.startswith(DATETIME_SEARCH_STRING):
-			rtnLine = line.replace(DATETIME_SEARCH_STRING, '')
+		indx = line.find(formatSpec.datetime_search_string)
+		if indx > 0:
+			rtnLine = line[indx + len(formatSpec.datetime_search_string):len(line)]
 			pgIndex = rtnLine.find('Page')
 			if pgIndex > 0:
 				rtnLine = rtnLine[0:pgIndex] #  Remove any page number after the date/time
 			return rtnLine
 	return 'UNKNOWN'
 
-def extractResultsType(county, txt):
-	if county == 'Lycoming':
-		""" HACK: Should be part of format spec """
-		return txt[0]
-	return txt[INDEX_RESULTS_TYPE]
+def extractResultsType(formatSpec, txt):
+	return txt[formatSpec.results_type_index]
 
 def determineIfPresidential(rank):
 	if rank == 'PRESIDENTIAL ELECTORS':
@@ -131,6 +115,13 @@ def createFileUrlDict(filePaths, urls):
 	Create a list that allows us to get the source URL, given a filename.
 	"""
 	entryList = []
+	# Special case a single entry
+	if len(urls) == 1 and len(filePaths) == 1:
+		filename = os.path.basename(filePaths[0])
+		entry = FileUrlEntry(filename, urls[0])
+		entryList.append(entry)
+		return entryList
+	# Multiple lists
 	for url in urls:
 		urlUnquoted = unquote(url).replace('\n', '')
 		for f in filePaths:
@@ -206,17 +197,17 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 		page = reader.pages[pageNo]
 		pageTxt = page.extract_text().splitlines()
 		# Take precinct name from each page.
-		precinct = extractPrecinctName(county, pageTxt)
+		precinct = extractPrecinctName(formatSpec, pageTxt)
 		if precinct.startswith(PRECINCT_PREFIX):
 			precinct = precinct.replace(PRECINCT_PREFIX, '')
 		dateTime = extractDateTime(formatSpec, pageTxt)
-		resultStatus = extractResultsType(county, pageTxt)
-		if pageNo == 39:
+		resultStatus = extractResultsType(formatSpec, pageTxt)
+		if pageNo == 122:
 			print("stop")
 		i = 0
 		for line in pageTxt:
 			# Find the offices
-			for rank in OFFICE_RANKING:
+			for rank in Globals.OFFICE_RANKING:
 				if line.upper().startswith(rank):
 					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, formatSpec, precinct, resultStatus, i, dateTime)
 					currentRace.pageText = pageTxt
@@ -225,11 +216,11 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 					currentRace.officeName = line
 					currentRace.isPresidential = determineIfPresidential(rank)
 					currentRace.candidateStartIndex = i + headerFieldCount
+					break
 			# Find end of section
-			else:
-				if line.upper().startswith(END_OF_OFFICE_MARKER):
-					currentRace.raceIndexEnd = i
-					races.append(currentRace)
+			if line.upper().startswith(END_OF_OFFICE_MARKER):
+				currentRace.raceIndexEnd = i
+				races.append(currentRace)
 
 			# Bump line number
 			i += 1
