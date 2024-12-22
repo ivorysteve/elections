@@ -19,7 +19,6 @@ County-specific constants
 
 END_OF_OFFICE_MARKER = 'WRITE-IN'
 # Indices for each page
-INDEX_PRECINCT = 5
 PRECINCT_PREFIX = 'Precinct '
 # Indices of fields starting from candidate name
 COLUMN_COUNT = 10
@@ -28,12 +27,7 @@ INDEX_TIME = 7
 
 INDEX_PRECINCT_NAME = 0
 INDEX_FIRST_CANDIDATE = 24
-INDEX_PARTY = 0
 INDEX_CANDIDATE_NAME = 1
-INDEX_VOTES_MAIL = 2
-INDEX_VOTES_ED = 1
-INDEX_VOTES_PROV = 3
-INDEX_VOTES_TOTAL = 0
 
 def extractCandidateName(listedName):
 	"""
@@ -46,7 +40,10 @@ def extractCandidateName(listedName):
 	return listedName
 
 def extractPrecinctName(formatSpec, txt):
-	return txt[formatSpec.precinct_name_index]
+	p = txt[formatSpec.precinct_name_index]
+	if p.startswith(PRECINCT_PREFIX):
+		p = p.replace(PRECINCT_PREFIX, '')
+	return p
 
 def extractDateTime(formatSpec, txt):
 	""" The date/time is often on a line like: 'Precinct Summary - 11/21/2024 10:39 AM """
@@ -56,7 +53,7 @@ def extractDateTime(formatSpec, txt):
 		return f"{d} {t}"
 	for line in txt:
 		indx = line.find(formatSpec.datetime_search_string)
-		if indx > 0:
+		if indx >= 0:
 			rtnLine = line[indx + len(formatSpec.datetime_search_string):len(line)]
 			pgIndex = rtnLine.find('Page')
 			if pgIndex > 0:
@@ -150,6 +147,7 @@ def parseRace(raceDef):
 	txt = raceDef.pageText
 	candidateOffset = raceDef.candidateStartIndex
 	office = raceDef.officeName
+	lineSpec = raceDef.formatSpec.lineSpec
 
 	# Go through all lines in a section (race)
 	for line in range(0, 100):
@@ -160,14 +158,14 @@ def parseRace(raceDef):
 		# Start parsing:
 		candidateLine = txt[candidateOffset]
 		fields = candidateLine.replace(',', '').split(' ')
-		party = fields[INDEX_PARTY]
+		party = fields[lineSpec.party_index]
 		candidateName = fields[INDEX_CANDIDATE_NAME]
 		countStartIndex = findFirstNumber(fields)
 		candidateName = normalizeCandidateName(countStartIndex, candidateName, fields)
-		votes_mail = fields[INDEX_VOTES_MAIL + countStartIndex]
-		votes_ed = fields[INDEX_VOTES_ED + countStartIndex]
-		votes_prov = fields[INDEX_VOTES_PROV + countStartIndex]
-		votes_total = fields[INDEX_VOTES_TOTAL + countStartIndex]
+		votes_mail = fields[lineSpec.votes_mail_index + countStartIndex]
+		votes_ed = fields[lineSpec.votes_ed_index + countStartIndex]
+		votes_prov = fields[lineSpec.votes_prov_index + countStartIndex]
+		votes_total = fields[lineSpec.votes_total_index + countStartIndex]
 		c = Candidate(office)
 		c.name = candidateName
 		c.party = party
@@ -188,7 +186,6 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 	total = len(reader.pages)
 	precinct = 'UNKNOWN'
 	dateTime = 'UNKNOWN'
-	county = formatSpec.county
 	headerFieldCount = getHeaderFieldCount(formatSpec)
 
 	races = []
@@ -198,12 +195,9 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 		pageTxt = page.extract_text().splitlines()
 		# Take precinct name from each page.
 		precinct = extractPrecinctName(formatSpec, pageTxt)
-		if precinct.startswith(PRECINCT_PREFIX):
-			precinct = precinct.replace(PRECINCT_PREFIX, '')
 		dateTime = extractDateTime(formatSpec, pageTxt)
 		resultStatus = extractResultsType(formatSpec, pageTxt)
-		if pageNo == 122:
-			print("stop")
+
 		i = 0
 		for line in pageTxt:
 			# Find the offices
