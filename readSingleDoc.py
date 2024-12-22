@@ -51,6 +51,9 @@ def extractDateTime(formatSpec, txt):
 		d = txt[formatSpec.date_index]
 		t = txt[formatSpec.time_index]
 		return f"{d} {t}"
+	if len(formatSpec.datetime_value) > 0:
+		# Hard-wired value
+		return formatSpec.datetime_value
 	for line in txt:
 		indx = line.find(formatSpec.datetime_search_string)
 		if indx >= 0:
