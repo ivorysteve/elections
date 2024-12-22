@@ -1,14 +1,22 @@
 # Spec that defines specifics of how to parse a county results file.
 
+# Default value for single line.
+INDEX_PARTY = 0
+# Default values for single line columns after candidate.
+INDEX_VOTES_ED = 1
+INDEX_VOTES_MAIL = 2
+INDEX_VOTES_PROV = 3
+INDEX_VOTES_TOTAL = 0
+
 class LineSpec:
     def __init__(self):
         ''' Spec for a line of a candidate in a race. '''
         self.candidate_name_index = 0
         self.party_index = 0
-        self.votes_ed_index = 0
-        self.votes_mail_index = 0
-        self.votes_prov_index = 0
-        self.votes_total_index = 0
+        self.votes_ed_index = INDEX_VOTES_ED
+        self.votes_mail_index = INDEX_VOTES_MAIL
+        self.votes_prov_index = INDEX_VOTES_PROV
+        self.votes_total_index = INDEX_VOTES_TOTAL
         self.parse_line_lambda = lambda a : { a }
         
 class FormatSpec:
@@ -21,4 +29,4 @@ class FormatSpec:
         self.datetime_search_string = 'Precinct Summary - '
         self.header_field_count = 0  # Field count from office title to first candidate
         self.end_of_office_marker = ''
-        self.line = LineSpec()
+        self.lineSpec = LineSpec()
