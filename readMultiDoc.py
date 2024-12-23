@@ -34,6 +34,13 @@ INDEX_VOTES_ED = 4
 INDEX_VOTES_PROV = 6
 INDEX_VOTES_TOTAL = 8
 
+def extractOfficeName(oname):
+	""" Office name may have a 'Vote for 1' prefix; remove it. """
+	indx = oname.upper().find(' - VOTE')
+	if indx > 0:
+		return oname[0:indx]
+	return oname
+
 def extractCandidateName(listedName):
 	"""
 	Presidential candidates have " - presidential candidate" after their name.
@@ -135,7 +142,7 @@ def parseRace(raceDef):
 		raceDef.candidates.append(c)
 		candidateOffset += candidateColumnCount
 
-def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
+def parseFile(usState, usStateAbbrev, fmtSpec, status, filePath, fileUrlList):
 	""" 
 	parse all pages in vote results PDF file. 
 	"""
@@ -145,6 +152,7 @@ def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
 	total = len(reader.pages)
 	precinct = 'UNKNOWN'
 	dateTime = 'UNKNOWN'
+	county = fmtSpec.county
 
 	races = []
 	# creating a page object
@@ -160,11 +168,11 @@ def parseFile(usState, usStateAbbrev, county, status, filePath, fileUrlList):
 			# Find the offices
 			for rank in Globals.OFFICE_RANKING:
 				if line.upper().startswith(rank):
-					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, county, precinct, status, i, dateTime)
+					currentRace = ElectoralRace(url, filename, usState, usStateAbbrev, fmtSpec, precinct, status, i, dateTime)
 					currentRace.pageText = pageTxt
 					currentRace.startIndex = i
 					currentRace.page = pageNo
-					currentRace.officeName = rank  # We take the whole line in the singleDoc version
+					currentRace.officeName = extractOfficeName(line)
 					currentRace.isPresidential = determineIfPresidential(rank)
 					currentRace.candidateStartIndex = i + HEADER_FIELD_COUNT
 			# Find end of section
@@ -222,15 +230,15 @@ def printAll(races):
 #		MAIN
 ###########################
 
-def readCountyResults(usState, usStateAbbrev, county):
-	inputPath = os.path.join(usStateAbbrev, county, Globals.RESULTS_DIR)
+def readCountyResults(usState, usStateAbbrev, fmtSpec):
+	inputPath = os.path.join(usStateAbbrev, fmtSpec.county, Globals.RESULTS_DIR)
 	inputFilePaths = getFiles(inputPath)
 	urlLinks = readLinksFile(inputPath)
 	fileUrlList = createFileUrlDict(inputFilePaths, urlLinks)
 
 	allRaces = []
 	for filePath in inputFilePaths:
-		races = parseFile(usState, usStateAbbrev, county, RESULT_STATUS, filePath, fileUrlList)
+		races = parseFile(usState, usStateAbbrev, fmtSpec, RESULT_STATUS, filePath, fileUrlList)
 
 		for race in races:
 			parseRace(race)
