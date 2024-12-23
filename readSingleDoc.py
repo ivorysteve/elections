@@ -40,13 +40,15 @@ def extractCandidateName(listedName):
 	return listedName
 
 def extractPrecinctName(formatSpec, txt):
+	""" Precinct is at a fixed index in page.  It may start with a prefix, so remove it. """
 	p = txt[formatSpec.precinct_name_index]
 	if p.startswith(PRECINCT_PREFIX):
 		p = p.replace(PRECINCT_PREFIX, '')
 	return p
 
 def extractDateTime(formatSpec, txt):
-	""" The date/time is often on a line like: 'Precinct Summary - 11/21/2024 10:39 AM """
+	""" The date/time sometimes at an index, but is often on a line like: 'Precinct Summary - 11/21/2024 10:39 AM """
+	""" However, sometimes it is just easier to set the value up front rather than try to parse it from the doc. """
 	if formatSpec.date_index > 0:
 		d = txt[formatSpec.date_index]
 		t = txt[formatSpec.time_index]
@@ -67,11 +69,6 @@ def extractDateTime(formatSpec, txt):
 def extractResultsType(formatSpec, txt):
 	return txt[formatSpec.results_type_index]
 
-def determineIfPresidential(rank):
-	if rank == 'PRESIDENTIAL ELECTORS':
-		return True
-	return False
-
 def getHeaderFieldCount(fmtSpec):
 	""" Returns Number of fields from office to first candidate name. """
 	return fmtSpec.header_field_count
@@ -91,6 +88,7 @@ def findFirstNumber(strArray):
 	return -1
 
 def normalizeCandidateName(indexToCounts, name, fields):
+	""" Gather up all tokens up to first number.  Remove VP if starts with '/'.  """
 	n = name
 	if (indexToCounts > 1):
 		for j in range(2, indexToCounts):
@@ -142,7 +140,6 @@ def findUrl(entryList, filename):
 	return 'UNKNOWN_URL'
 
 
-# Parse the choices for a section representing a single race.
 def parseRace(raceDef):
 	"""
 	Parse a single race (section) of the vote results.
@@ -211,7 +208,6 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 					currentRace.page = pageNo
 					currentRace.raceStartIndex = i
 					currentRace.officeName = line
-					currentRace.isPresidential = determineIfPresidential(rank)
 					currentRace.candidateStartIndex = i + headerFieldCount
 					break
 			# Find end of section
@@ -273,6 +269,9 @@ def printAll(races):
 ###########################
 
 def readCountyResults(usState, usStateAbbrev, fmtSpec):
+	""" 
+	Read all races in a county, given a format spec.
+	"""
 	inputPath = os.path.join(usStateAbbrev, fmtSpec.county, Globals.RESULTS_DIR)
 	inputFilePaths = getFiles(inputPath)
 	urlLinks = readLinksFile(inputPath)

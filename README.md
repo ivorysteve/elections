@@ -11,4 +11,6 @@ python3 readFulton.py
 python3 readHuntingdon.py
 python3 readJuniata.py
 python3 readLebanon.py
+python3 readLackawanna.py
+python3 readMcKean.py
 ```
