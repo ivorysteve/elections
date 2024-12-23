@@ -4,7 +4,7 @@ from FormatSpec import FormatSpec
 
 fmtSpec = FormatSpec('Lackawanna')
 fmtSpec.header_field_count = 6
-fmtSpec.datetime_search_string = 'LACKAWANNA PRECINCT - '
+fmtSpec.datetime_value = '11/26/2024 01:16 PM'
 fmtSpec.results_type_index = 1
 fmtSpec.precinct_name_index = 0
 fmtSpec.lineSpec.votes_total_index = 0
