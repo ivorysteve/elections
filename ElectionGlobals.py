@@ -24,5 +24,6 @@ class Globals:
         'SENATOR IN THE',
         'REPRESENTATIVE IN CONGRESS',
         'REPRESENTATIVE IN THE',
-        'REPRESENTATIVEIN THE' # Misspelling in one of the counties
+        'REPRESENTATIVEIN THE', # Misspelling in one of the counties
+        'CHARTER REVIEW COMMISSION'
     ]

@@ -13,4 +13,14 @@ python3 readJuniata.py
 python3 readLebanon.py
 python3 readLackawanna.py
 python3 readMcKean.py
+python3 readMercer.py
+```
+
+## Testing
+A regression test checks that any changes to common files (e.g., `readSingleDoc.py`) still generates the same results in all checked-in CSV files.
+
+To run the test on a command line:
+
+```
+sh regression-test.sh
 ```
