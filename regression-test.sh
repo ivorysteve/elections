@@ -2,13 +2,15 @@
 # Rerun each county, making sure results are the same as what is stored in CSV directory.
 #
 LIST="\
-Cumberland \
+Cumberland 
+Fulton \
 Huntingdon \
 Juniata \
 Lackawanna \
 Lebanon \
 McKean \
-Mercer "
+Mercer \
+Snyder "
 
 # Not yet working
 # Fulton
