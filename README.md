@@ -14,6 +14,7 @@ python3 readLebanon.py
 python3 readLackawanna.py
 python3 readMcKean.py
 python3 readMercer.py
+python3 readSnyder.py
 ```
 
 ## Testing
