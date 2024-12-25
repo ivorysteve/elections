@@ -191,6 +191,8 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 	races = []
 	# creating a page object
 	for pageNo in range(0, total):
+		if formatSpec.skip_to_page > 0 and pageNo < formatSpec.skip_to_page:
+			continue
 		page = reader.pages[pageNo]
 		pageTxt = page.extract_text().splitlines()
 		# Take precinct name from each page.
