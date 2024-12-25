@@ -201,6 +201,7 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 		resultStatus = extractResultsType(formatSpec, pageTxt)
 
 		i = 0
+		startedRace = False
 		for line in pageTxt:
 			# Find the offices
 			for rank in Globals.OFFICE_RANKING:
@@ -211,11 +212,16 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 					currentRace.raceStartIndex = i
 					currentRace.officeName = line
 					currentRace.candidateStartIndex = i + headerFieldCount
+					startedRace = True
 					break
+			# End rank for loop
 			# Find end of section
 			if line.upper().startswith(END_OF_OFFICE_MARKER):
-				currentRace.raceIndexEnd = i
-				races.append(currentRace)
+				if startedRace is True:
+					# We may encounter multiple Write-in lines in a race.  Keep going until we get to the next race.
+					currentRace.raceIndexEnd = i
+					startedRace = False
+					races.append(currentRace)
 
 			# Bump line number
 			i += 1
