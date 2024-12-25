@@ -12,9 +12,11 @@ python3 readHuntingdon.py
 python3 readJuniata.py
 python3 readLebanon.py
 python3 readLackawanna.py
+python3 readLebanon.py
 python3 readMcKean.py
 python3 readMercer.py
 python3 readSnyder.py
+python3 readTioga.py
 ```
 
 ## Testing
