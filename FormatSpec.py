@@ -30,4 +30,5 @@ class FormatSpec:
         self.results_type_index = 3
         self.header_field_count = 0  # Field count from office title to first candidate
         self.end_of_office_marker = ''
+        self.skip_to_page = 0
         self.lineSpec = LineSpec()

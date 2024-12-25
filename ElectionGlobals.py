@@ -22,8 +22,11 @@ class Globals:
         'AUDITOR GENERAL',
         'STATE TREASURER',
         'SENATOR IN THE',
+        'SEN IN THE GEN ASSEM',
         'REPRESENTATIVE IN CONGRESS',
+        'REP IN CONGRESS',
         'REPRESENTATIVE IN THE',
         'REPRESENTATIVEIN THE', # Misspelling in one of the counties
+        'REP IN THE GEN ASSEM',
         'CHARTER REVIEW COMMISSION'
     ]
