@@ -148,11 +148,14 @@ def parseRace(raceDef):
 	candidateOffset = raceDef.candidateStartIndex
 	office = raceDef.officeName
 	lineSpec = raceDef.formatSpec.lineSpec
+	if raceDef.hasOnlyWriteIns == True:
+		# Nothing to do here
+		return
 
 	# Go through all lines in a section (race)
 	for line in range(0, 100):
 		dataStart = candidateOffset
-		if dataStart >= raceDef.raceIndexEnd:
+		if dataStart >= raceDef.raceEndIndex:
 			# We are done with this section.
 			return
 		# Start parsing:
@@ -189,6 +192,7 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 	headerFieldCount = getHeaderFieldCount(formatSpec)
 
 	races = []
+	currentRace = {}
 	# creating a page object
 	for pageNo in range(0, total):
 		if formatSpec.skip_to_page > 0 and pageNo < formatSpec.skip_to_page:
@@ -219,7 +223,10 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 			if line.upper().startswith(END_OF_OFFICE_MARKER):
 				if startedRace is True:
 					# We may encounter multiple Write-in lines in a race.  Keep going until we get to the next race.
-					currentRace.raceIndexEnd = i
+					currentRace.raceEndIndex = i
+					if currentRace.raceEndIndex == currentRace.raceStartIndex:
+						# Start and end are same.  This can happen if there are only write-in votes in this race on this page.
+						currentRace.hasOnlyWriteIns = True
 					startedRace = False
 					races.append(currentRace)
 

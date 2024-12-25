@@ -15,11 +15,12 @@ class ElectoralRace:
         self.dateTime = dateTime
         self.officeName = 'UNKNOWN'
         self.candidates = []
-        self.startIndex = 0 # Index into text of entire section
+        self.raceStartIndex = 0 # Index into text of start of section
+        self.raceEndIndex = 0 # Index into text when section ends
         self.candidateStartIndex = 0 # Index into text of first candidate
         self.isPresidential = False
-        self.endOfDataIndex = 0 # Index into text when section ends
         self.pageText = ''
+        self.hasOnlyWriteIns = False
 
     # String method
     def __str__(self):
