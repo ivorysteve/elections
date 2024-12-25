@@ -5,7 +5,7 @@ Developed using Python 3.
 
 Requires installing 'pypdf' package: `pip3 install pypdf`
 
-## How to generate CSV results:
+## How to generate CSV results for a specific county:
 ```
 python3 readFulton.py
 python3 readHuntingdon.py
@@ -17,6 +17,7 @@ python3 readMcKean.py
 python3 readMercer.py
 python3 readSnyder.py
 python3 readTioga.py
+python3 readVenango.py
 ```
 
 ## Testing

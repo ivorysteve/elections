@@ -11,10 +11,10 @@ Lebanon \
 McKean \
 Mercer \
 Snyder \
-Tioga"
+Tioga \
+Venango"
 
 # Not yet working
-# Fulton
 # Lycoming
 
 for c in $LIST
