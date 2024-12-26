@@ -29,6 +29,19 @@ INDEX_PRECINCT_NAME = 0
 INDEX_FIRST_CANDIDATE = 24
 INDEX_CANDIDATE_NAME = 1
 
+def extractMultiLineRace(fmtSpec, txt, startIndex):
+	fields = []
+	for i in range(0, fmtSpec.multiline_race_field_len):
+		fields.append(txt[startIndex + i])
+	return fields
+
+def extractOfficeName(oname):
+	""" Office name may have a '(Vote for 1)' prefix; remove it. """
+	indx = oname.upper().find('(VOTE ')
+	if indx > 0:
+		return oname[0:indx].strip()
+	return oname
+
 def extractCandidateName(listedName):
 	"""
 	Presidential candidates have " - presidential candidate" after their name.
@@ -67,6 +80,9 @@ def extractDateTime(formatSpec, txt):
 	return 'UNKNOWN'
 
 def extractResultsType(formatSpec, txt):
+	""" If value is set, use that; otherwise, default to index. """
+	if len(formatSpec.results_type_value) > 0:
+		return formatSpec.results_type_value
 	return txt[formatSpec.results_type_index]
 
 def getHeaderFieldCount(fmtSpec):
@@ -158,11 +174,18 @@ def parseRace(raceDef):
 		if dataStart >= raceDef.raceEndIndex:
 			# We are done with this section.
 			return
+		
 		# Start parsing:
-		candidateLine = txt[candidateOffset]
-		fields = candidateLine.replace(',', '').split(' ')
+		if raceDef.formatSpec.multiline_race_field_len > 0:
+			# Multi-line format
+			fields = extractMultiLineRace(raceDef.formatSpec, txt, candidateOffset)
+			candidateOffset += (raceDef.formatSpec.multiline_race_field_len - 1)  # advance offset to line before next candidate.
+		else:
+			# Single line format
+			candidateLine = txt[candidateOffset]
+			fields = candidateLine.replace(',', '').split(' ')
 		party = fields[lineSpec.party_index]
-		candidateName = fields[INDEX_CANDIDATE_NAME]
+		candidateName = fields[lineSpec.candidate_name_index]
 		countStartIndex = findFirstNumber(fields)
 		candidateName = normalizeCandidateName(countStartIndex, candidateName, fields)
 		votes_mail = fields[lineSpec.votes_mail_index + countStartIndex]
@@ -214,7 +237,7 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 					currentRace.pageText = pageTxt
 					currentRace.page = pageNo
 					currentRace.raceStartIndex = i
-					currentRace.officeName = line
+					currentRace.officeName = extractOfficeName(line)
 					currentRace.candidateStartIndex = i + headerFieldCount
 					startedRace = True
 					break
