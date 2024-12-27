@@ -8,6 +8,8 @@ class Globals:
     RESULTS_DIR = 'Results_PDF'
     # Per-count list of URLs corresponding to this county
     URL_LIST_FILENAME = "URL_List.txt"
+    # Use this to indicate the end of useful data in a race.  We ignore all write-ins.
+    END_OF_OFFICE_MARKER = 'WRITE-IN'
 
     # Modes of vote result
     MODE_ELECTION_DAY = 'ELECTION DAY'

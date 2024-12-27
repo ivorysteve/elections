@@ -33,5 +33,6 @@ class FormatSpec:
         self.header_field_count = 0  # Field count from office title to first candidate
         self.end_of_office_marker = ''
         self.skip_to_page = 0
+        self.page_header_len = 0
         self.multiline_race_field_len = 0 # If race is multiple lines (instead of fields in single line), count of lines (incl name).
         self.lineSpec = LineSpec()
