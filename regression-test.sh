@@ -10,9 +10,11 @@ Lackawanna \
 Lebanon \
 McKean \
 Mercer \
+Potter \
 Snyder \
 Tioga \
-Venango"
+Venango \
+Wayne"
 
 # Not yet working
 # Lycoming

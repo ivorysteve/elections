@@ -7,17 +7,10 @@ Requires installing 'pypdf' package: `pip3 install pypdf`
 
 ## How to generate CSV results for a specific county:
 ```
-python3 readFulton.py
-python3 readHuntingdon.py
-python3 readJuniata.py
-python3 readLebanon.py
-python3 readLackawanna.py
-python3 readLebanon.py
-python3 readMcKean.py
-python3 readMercer.py
-python3 readSnyder.py
-python3 readTioga.py
-python3 readVenango.py
+python3 bin/readFulton.py
+python3 bin/readHuntingdon.py
+python3 bin/readJuniata.py
+...
 ```
 
 ## Testing
@@ -28,3 +21,19 @@ To run the test on a command line:
 ```
 sh regression-test.sh
 ```
+
+## Data Organization
+
+Data for all counties are organized the same way:
+
+```
+<Stage_Abbreviation>/<County_Name>/<County_Data>
+```
+
+The County Data consists of the following (mandatory) organization:
+
+* `Results_PDF`: A directory containing 1 or more original PDF files from the county website.  Only files with a `.pdf` suffix are read.
+* `Results_PDF/URL_List.txt`: A text file containing a list of URLs from which the PDFs were fetched.  The filecomponent of the URL MUST match that of the corresponding file in the `Results_PDF` directory.
+* `CSV`: A directory containing a single normalized CSV file for the county.  It must use a `.csv` suffix.
+
+For example, the CSV file for `Juniata` county in Pennsylvania is: `PA/Juniata/CSV/juniata.csv`.
