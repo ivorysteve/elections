@@ -10,9 +10,11 @@ Lackawanna \
 Lebanon \
 McKean \
 Mercer \
+Potter \
 Snyder \
 Tioga \
-Venango"
+Venango \
+Wayne"
 
 # Not yet working
 # Lycoming
@@ -21,7 +23,7 @@ for c in $LIST
 do
 	f="read${c}.py"
 	echo $f
-	python3 $f > foo.csv
+	python3 "bin/${f}" > foo.csv
 	diff -i foo.csv PA/$c/CSV/*csv > /dev/null
 	if test "$?" != "0"
 	then
