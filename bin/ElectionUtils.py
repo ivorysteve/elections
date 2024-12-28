@@ -133,6 +133,15 @@ def extractMultiLineRace(fmtSpec, txtArray, startIndex):
 		fields.append(txtArray[startIndex + i])
 	return fields
 
+def extractFirstCandidateName(listedName):
+	"""
+	Presidential candidates have " - presidential candidate" after their name.
+	Return name with this removed, else, name unchanged.
+	"""
+	if " - " in listedName:
+		end = listedName.find(" - ")
+		return listedName[:end]
+	return listedName
 
 def normalizeCandidateName(indexToCounts, name, fields):
 	""" Gather up all tokens up to first number.  Remove VP if starts with '/'.  """
