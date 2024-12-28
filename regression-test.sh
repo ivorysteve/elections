@@ -2,9 +2,11 @@
 # Rerun each county, making sure results are the same as what is stored in CSV directory.
 #
 LIST="\
-Cumberland 
+Cumberland \
+Elk \
 Fulton \
 Huntingdon \
+Indiana \
 Juniata \
 Lackawanna \
 Lebanon \
