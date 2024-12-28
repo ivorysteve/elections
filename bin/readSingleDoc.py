@@ -11,8 +11,8 @@ from TemplateRecord import TemplateRecord
 from FileUrlEntry import FileUrlEntry
 from FormatSpec import FormatSpec
 from ElectionGlobals import Globals
-from ElectionUtils import extractDateTime, extractResultsType, normalizeCandidateName, extractOfficeName, extractMultiLineRace, getHeaderFieldCount
-from ElectionUtils import readLinksFile, getPdfFiles, findUrl, createFileUrlDict, findFirstNumber, votesToInt
+from ElectionUtils import extractDateTime, extractResultsType, normalizeCandidateName, extractFirstCandidateName, extractOfficeName, extractMultiLineRace
+from ElectionUtils import readLinksFile, getPdfFiles, getHeaderFieldCount, findUrl, createFileUrlDict, findFirstNumber, votesToInt
 from ElectionUtils import printAllRaces
 from urllib.parse import unquote
 
@@ -24,16 +24,6 @@ County-specific constants
 PRECINCT_PREFIX = 'Precinct '
 # Indices of fields starting from candidate name
 COLUMN_COUNT = 10
-
-def extractCandidateName(listedName):
-	"""
-	Presidential candidates have " - presidential candidate" after their name.
-	Return name with this removed, else, name unchanged.
-	"""
-	if " - " in listedName:
-		end = listedName.find(" - ")
-		return listedName[:end]
-	return listedName
 
 def extractPrecinctName(formatSpec, txt):
 	""" Precinct is at a fixed index in page.  It may start with a prefix, so remove it. """
@@ -74,7 +64,7 @@ def parseRace(raceDef):
 		party = fields[lineSpec.party_index]
 		candidateName = fields[lineSpec.candidate_name_index]
 		countStartIndex = findFirstNumber(fields)
-		candidateName = normalizeCandidateName(countStartIndex, candidateName, fields)
+		candidateName = extractFirstCandidateName(normalizeCandidateName(countStartIndex, candidateName, fields))
 		votes_mail = fields[lineSpec.votes_mail_index + countStartIndex]
 		votes_ed = fields[lineSpec.votes_ed_index + countStartIndex]
 		votes_prov = fields[lineSpec.votes_prov_index + countStartIndex]

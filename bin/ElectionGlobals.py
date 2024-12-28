@@ -25,10 +25,14 @@ class Globals:
         'STATE TREASURER',
         'SENATOR IN THE',
         'SEN IN THE GEN ASSEM',
+        'SENATOR GENERAL',
+        'SENATOR  GENERAL',
         'REPRESENTATIVE IN CONGRESS',
         'REP IN CONGRESS',
+        'REP CONGRESS',
         'REPRESENTATIVE IN THE',
         'REPRESENTATIVEIN THE', # Misspelling in one of the counties
         'REP IN THE GEN ASSEM',
+        'REP IN THE GENERAL',
         'CHARTER REVIEW COMMISSION'
     ]
