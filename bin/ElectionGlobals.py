@@ -17,8 +17,10 @@ class Globals:
     MODE_PROVISIONAL = 'PROVISIONAL'
     MODE_TOTAL = 'TOTAL'
 
+    # All the ways an office may be indicated in a results doc.
     OFFICE_RANKING = [
         'PRESIDENTIAL ELECTORS',
+        'PRESIDENT OF THE UNITED STATES',
         'UNITED STATES SENATOR',
         'ATTORNEY GENERAL',
         'AUDITOR GENERAL',
@@ -35,4 +37,39 @@ class Globals:
         'REP IN THE GEN ASSEM',
         'REP IN THE GENERAL',
         'CHARTER REVIEW COMMISSION'
+    ]
+
+    """ If there is no party listed for a candidate, as a last-ditch effort, we use this last-name-to-party table. """
+    """ Note: this only has state-wide offices. """
+    CANDIDATE_PARTY_LIST = [
+        # President
+        ("HARRIS", "DEM"),
+        ("TRUMP", "REP"),
+        ("STEIN", "GRN"),
+        ("OLIVER", "LIB"),
+        # US Senator
+        ("CASEY", "DEM"),
+        ("MCCORMICK", "REP"),
+        ("THOMAS", "LIB"),
+        ("HAZOU", "GRN"),
+        ("SELKER", "CST"),
+        # Attorney General
+        ("DEPASQUALE", "DEM"),
+        ("SUNDAY", "REP"),
+        ("COWBURN", "LIB"),
+        ("WEISS", "GRN"),
+        ("MAGILL", "CST"),
+        ("SETTLE", "FWD"),
+        # Auditor General
+        ("KENYATTA", "DEM"),
+        ("DEFOOR", "REP"),
+        ("SMITH", "LIB"),
+        ("ANTON", "ASP"),
+        ("GOODRICH", "CST"),
+        # State Treasurer
+        ("MCCLELLAND", "DEM"),
+        ("GARRITY", "REP"),
+        ("CIESIELSKI", "LIB"),
+        ("BOWMAN", "CST"),
+        ("FOSTER", "FWD")
     ]
