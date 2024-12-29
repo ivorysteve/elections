@@ -11,7 +11,7 @@ from FileUrlEntry import FileUrlEntry
 from FormatSpec import FormatSpec
 from ElectionGlobals import Globals
 from ElectionUtils import extractDateTime, extractResultsType, extractFirstCandidateName, normalizeCandidateName, extractOfficeName, extractMultiLineRace, getHeaderFieldCount
-from ElectionUtils import readLinksFile, getPdfFiles, findUrl, createFileUrlDict, findFirstNumber, votesToInt
+from ElectionUtils import readLinksFile, getPdfFiles, findUrl, createFileUrlDict, findFirstNumber, findCandidateParty, votesToInt
 from ElectionUtils import printAllRaces
 
 """
@@ -94,12 +94,14 @@ def parseRace(raceDef):
 			# Single line format
 			candidateLine = txt[candidateOffset]
 			fields = candidateLine.replace(',', '').split(' ')
-		party = 'UNKNOWN'
-		if lineSpec.party_index > 0:
-			party = fields[lineSpec.party_index]
 		candidateName = fields[lineSpec.candidate_name_index]
 		countStartIndex = findFirstNumber(fields)
 		candidateName = extractFirstCandidateName(normalizeCandidateName(countStartIndex, candidateName, fields))
+		party = 'UNKNOWN'
+		if lineSpec.party_index > 0:
+			party = fields[lineSpec.party_index]
+		else:
+			party = findCandidateParty(candidateName)
 		votes_mail = fields[lineSpec.votes_mail_index + countStartIndex]
 		votes_ed = fields[lineSpec.votes_ed_index + countStartIndex]
 		votes_prov = fields[lineSpec.votes_prov_index + countStartIndex]

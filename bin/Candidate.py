@@ -8,7 +8,8 @@ class Candidate:
         self.votes_ed = 0
         self.votes_mail = 0
         self.votes_prov = 0
-        self.votes_total = 0;
+        self.votes_total = 0
+        self.party = 'UNKNOWN'
 
     # String method
     def __str__(self):

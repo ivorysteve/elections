@@ -174,6 +174,14 @@ def votesToInt(strVotes):
 	str2 = strVotes.replace(',', '') # Remove any commas
 	return int(str2)
 
+def findCandidateParty(name):
+	""" Find candidate last name in our hard-wired candidate/party dictionary. Return corresponding party. """
+	for candidate in Globals.CANDIDATE_PARTY_LIST:
+		lastName = candidate[0]
+		if name.upper().find(lastName) >= 0:
+			return candidate[1]
+	return 'UNKNOWN'
+
 """
 Printing
 """
@@ -195,3 +203,11 @@ def printAllRaces(races):
 	print(rows[0].header())
 	for row in rows:
 		print(row)
+
+def printAllCandidateParties(races):
+	if len(races) == 0:
+		print("No races found!")
+		return
+	for race in races:
+		for c in race.candidates:
+			print(f"(\"{c.name}\", \"{c.party}\")")

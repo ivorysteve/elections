@@ -12,8 +12,8 @@ from FileUrlEntry import FileUrlEntry
 from FormatSpec import FormatSpec
 from ElectionGlobals import Globals
 from ElectionUtils import extractDateTime, extractResultsType, normalizeCandidateName, extractFirstCandidateName, extractOfficeName, extractMultiLineRace
-from ElectionUtils import readLinksFile, getPdfFiles, getHeaderFieldCount, findUrl, createFileUrlDict, findFirstNumber, votesToInt
-from ElectionUtils import printAllRaces
+from ElectionUtils import readLinksFile, getPdfFiles, getHeaderFieldCount, findUrl, createFileUrlDict, findFirstNumber, findCandidateParty, votesToInt
+from ElectionUtils import printAllRaces, printAllCandidateParties
 from urllib.parse import unquote
 
 """
