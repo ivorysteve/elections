@@ -37,3 +37,10 @@ The County Data consists of the following (mandatory) organization:
 * `CSV`: A directory containing a single normalized CSV file for the county.  It must use a `.csv` suffix.
 
 For example, the CSV file for `Juniata` county in Pennsylvania is: `PA/Juniata/CSV/juniata.csv`.
+
+## Miscellaneous
+
+Some counties were hand collated by others:
+
+* Crawford
+* Lycoming
