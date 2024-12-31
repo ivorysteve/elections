@@ -12,6 +12,7 @@ Lackawanna \
 Lebanon \
 McKean \
 Mercer \
+Mifflin \
 Perry \
 Potter \
 Snyder \
@@ -19,8 +20,10 @@ Tioga \
 Venango \
 Wayne"
 
-# Not yet working
+# Submitted by Nicole, not these programs:
+# Crawford
 # Lycoming
+# Somerset
 
 for c in $LIST
 do
