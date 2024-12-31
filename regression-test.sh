@@ -9,6 +9,7 @@ Huntingdon \
 Indiana \
 Juniata \
 Lackawanna \
+Lawrence \
 Lebanon \
 McKean \
 Mercer \

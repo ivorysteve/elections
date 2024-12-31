@@ -40,7 +40,8 @@ def parseRace(raceDef):
 	txt = raceDef.pageText
 	candidateOffset = raceDef.candidateStartIndex
 	office = raceDef.officeName
-	lineSpec = raceDef.formatSpec.lineSpec
+	fmtSpec = raceDef.formatSpec
+	lineSpec = fmtSpec.lineSpec
 	if raceDef.hasOnlyWriteIns == True:
 		# Nothing to do here
 		return
@@ -61,6 +62,10 @@ def parseRace(raceDef):
 			# Single line format
 			candidateLine = txt[candidateOffset]
 			fields = candidateLine.replace(',', '').split(' ')
+		if len(candidateLine.strip()) == 0:
+			# Weird issue where there are spaces between last candidate and Write-In.  Ignore these.
+			candidateOffset += 1
+			continue
 		party = fields[lineSpec.party_index]
 		candidateName = fields[lineSpec.candidate_name_index]
 		countStartIndex = findFirstNumber(fields)
@@ -77,7 +82,7 @@ def parseRace(raceDef):
 		c.votes_prov = votesToInt(votes_prov)
 		c.votes_total = votesToInt(votes_total)
 		raceDef.candidates.append(c)
-		candidateOffset += 1   # All vote counts for a candidate are in a single line, so just bump by 1.
+		candidateOffset += fmtSpec.candidate_line_increment   # All vote counts for a candidate are in a single line (usually), so just bump by 1.
 
 def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 	""" 
@@ -120,7 +125,7 @@ def parseFile(usState, usStateAbbrev, formatSpec, filePath, fileUrlList):
 					break
 			# End rank for loop
 			# Find end of section
-			if line.upper().startswith(Globals.END_OF_OFFICE_MARKER):
+			if line.upper().find(Globals.END_OF_OFFICE_MARKER) >= 0:
 				if startedRace is True:
 					# We may encounter multiple Write-in lines in a race.  Keep going until we get to the next race.
 					currentRace.raceEndIndex = i

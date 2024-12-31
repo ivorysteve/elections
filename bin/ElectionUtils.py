@@ -110,7 +110,7 @@ def extractDateTime(formatSpec, txt):
 			pgIndex = rtnLine.find('Page')
 			if pgIndex > 0:
 				rtnLine = rtnLine[0:pgIndex] #  Remove any page number after the date/time
-			return rtnLine
+			return rtnLine.strip()
 	return 'UNKNOWN'
 
 def extractResultsType(formatSpec, txt):
@@ -139,9 +139,10 @@ def extractFirstCandidateName(listedName):
 	or " and <VP>" after their name.
 	Return name with this removed, else, name unchanged.
 	"""
-	tag = listedName.find("President")
+	nameUpper = listedName.upper()
+	tag = nameUpper.find("PRESIDENT")
 	if tag > 0:
-		listedName = listedName.replace("President", '')
+		listedName = nameUpper.replace("PRESIDENT", '')
 	if " - " in listedName:
 		end = listedName.find(" - ")
 		listedName = listedName[:end]

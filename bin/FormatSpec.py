@@ -34,5 +34,6 @@ class FormatSpec:
         self.end_of_office_marker = ''
         self.skip_to_page = 0
         self.page_header_len = 0
+        self.candidate_line_increment = 1 # Some formats have weird layouts that increment more than 1.
         self.multiline_race_field_len = 0 # If race is multiple lines (instead of fields in single line), count of lines (incl name).
         self.lineSpec = LineSpec()
