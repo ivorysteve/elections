@@ -44,3 +44,4 @@ Some counties were hand collated by others:
 
 * Crawford
 * Lycoming
+* Somerset
