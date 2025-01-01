@@ -133,6 +133,19 @@ def extractMultiLineRace(fmtSpec, txtArray, startIndex):
 		fields.append(txtArray[startIndex + i])
 	return fields
 
+def collapseCandidateDoubleLine(fields):
+	""" Weird format where each candidate result is spit into 2 lines.  Just concatenate the two sets of tokens """
+	""" into a single list, filtering out blanks. """""
+	rtnFields = []
+	for x in fields[0].split(' '):
+		if len(x) > 0:
+			rtnFields.append(x)
+	for y in fields[1].split(' '):
+		if len(y) > 0:
+			rtnFields.append(y)
+
+	return rtnFields
+
 def extractFirstCandidateName(listedName):
 	"""
 	Presidential candidates may have " - presidential candidate" or ", president" 
@@ -165,7 +178,7 @@ def findFirstNumber(strArray):
 	""" Find first numeric field in an array of strings. """
 	i = 0
 	for line in strArray:
-		if line.isnumeric():
+		if line.replace(',', '').isnumeric():
 			return i
 		i += 1
 	return -1

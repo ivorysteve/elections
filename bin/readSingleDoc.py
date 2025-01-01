@@ -13,7 +13,7 @@ from FormatSpec import FormatSpec
 from ElectionGlobals import Globals
 from ElectionUtils import extractDateTime, extractResultsType, normalizeCandidateName, extractFirstCandidateName, extractOfficeName, extractMultiLineRace
 from ElectionUtils import readLinksFile, getPdfFiles, getHeaderFieldCount, findUrl, createFileUrlDict, findFirstNumber, findCandidateParty, votesToInt
-from ElectionUtils import printAllRaces, printAllCandidateParties
+from ElectionUtils import printAllRaces, collapseCandidateDoubleLine
 from urllib.parse import unquote
 
 """
@@ -56,22 +56,24 @@ def parseRace(raceDef):
 		# Start parsing:
 		if raceDef.formatSpec.multiline_race_field_len > 0:
 			# Multi-line format
-			fields = extractMultiLineRace(raceDef.formatSpec, txt, candidateOffset)
+			fields = extractMultiLineRace(fmtSpec, txt, candidateOffset)
+			if fmtSpec.has_candidate_double_line:
+				fields = collapseCandidateDoubleLine(fields)
 			candidateOffset += (raceDef.formatSpec.multiline_race_field_len - 1)  # advance offset to line before next candidate.
 		else:
 			# Single line format
-			candidateLine = txt[candidateOffset]
+			candidateLine = txt[candidateOffset].strip()
 			fields = candidateLine.replace(',', '').split(' ')
-		if len(candidateLine.strip()) == 0:
-			# Weird issue where there are spaces between last candidate and Write-In.  Ignore these.
-			candidateOffset += 1
-			continue
+			if len(candidateLine.strip()) == 0:
+				# Weird issue where there are spaces between last candidate and Write-In.  Ignore these.
+				candidateOffset += 1
+				continue
 		party = fields[lineSpec.party_index]
 		candidateName = fields[lineSpec.candidate_name_index]
 		countStartIndex = findFirstNumber(fields)
 		candidateName = extractFirstCandidateName(normalizeCandidateName(countStartIndex, candidateName, fields))
-		votes_mail = fields[lineSpec.votes_mail_index + countStartIndex]
 		votes_ed = fields[lineSpec.votes_ed_index + countStartIndex]
+		votes_mail = fields[lineSpec.votes_mail_index + countStartIndex]
 		votes_prov = fields[lineSpec.votes_prov_index + countStartIndex]
 		votes_total = fields[lineSpec.votes_total_index + countStartIndex]
 		c = Candidate(office)
