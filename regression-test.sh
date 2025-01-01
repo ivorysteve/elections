@@ -14,6 +14,7 @@ Lebanon \
 McKean \
 Mercer \
 Mifflin \
+Montour \
 Perry \
 Potter \
 Snyder \
@@ -23,6 +24,7 @@ Wayne"
 
 # Submitted by Nicole, not these programs:
 # Crawford
+# Jefferson
 # Lycoming
 # Somerset
 
@@ -31,7 +33,7 @@ do
 	f="read${c}.py"
 	echo $f
 	python3 "bin/${f}" > foo.csv
-	diff -i foo.csv PA/$c/CSV/*csv > /dev/null
+	diff -i -b foo.csv PA/$c/CSV/*csv > /dev/null
 	if test "$?" != "0"
 	then
 		echo "==> REGRESSION PROBLEM WITH $c"
