@@ -2,6 +2,7 @@
 # Rerun each county, making sure results are the same as what is stored in CSV directory.
 #
 LIST="\
+Chester \
 Cumberland \
 Elk \
 Fulton \
