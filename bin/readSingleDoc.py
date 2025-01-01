@@ -12,8 +12,8 @@ from FileUrlEntry import FileUrlEntry
 from FormatSpec import FormatSpec
 from ElectionGlobals import Globals
 from ElectionUtils import extractDateTime, extractResultsType, normalizeCandidateName, extractFirstCandidateName, extractOfficeName, extractMultiLineRace
-from ElectionUtils import readLinksFile, getPdfFiles, getHeaderFieldCount, findUrl, createFileUrlDict, findFirstNumber, findCandidateParty, votesToInt
-from ElectionUtils import printAllRaces, collapseCandidateDoubleLine
+from ElectionUtils import readLinksFile, getPdfFiles, getHeaderFieldCount, findUrl, createFileUrlDict, findFirstNumber, votesToInt
+from ElectionUtils import printAllRaces, collapseCandidateDoubleLine, calculateProvisionalVotes
 from urllib.parse import unquote
 
 """
@@ -76,13 +76,17 @@ def parseRace(raceDef):
 		votes_mail = fields[lineSpec.votes_mail_index + countStartIndex]
 		votes_prov = fields[lineSpec.votes_prov_index + countStartIndex]
 		votes_total = fields[lineSpec.votes_total_index + countStartIndex]
+
 		c = Candidate(office)
 		c.name = candidateName
 		c.party = party
 		c.votes_ed = votesToInt(votes_ed)
 		c.votes_mail = votesToInt(votes_mail)
-		c.votes_prov = votesToInt(votes_prov)
 		c.votes_total = votesToInt(votes_total)
+		if fmtSpec.has_northampton_bug:
+			c.votes_prov = calculateProvisionalVotes(c.votes_total, c.votes_ed, c.votes_mail)
+		else:
+			c.votes_prov = votesToInt(votes_prov)
 		raceDef.candidates.append(c)
 		candidateOffset += fmtSpec.candidate_line_increment   # All vote counts for a candidate are in a single line (usually), so just bump by 1.
 

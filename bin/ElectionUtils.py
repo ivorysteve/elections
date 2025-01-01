@@ -135,7 +135,7 @@ def extractMultiLineRace(fmtSpec, txtArray, startIndex):
 
 def collapseCandidateDoubleLine(fields):
 	""" Weird format where each candidate result is spit into 2 lines.  Just concatenate the two sets of tokens """
-	""" into a single list, filtering out blanks. """""
+	""" into a single list, filtering out blanks.  Used on Montour.  """""
 	rtnFields = []
 	for x in fields[0].split(' '):
 		if len(x) > 0:
@@ -143,8 +143,12 @@ def collapseCandidateDoubleLine(fields):
 	for y in fields[1].split(' '):
 		if len(y) > 0:
 			rtnFields.append(y)
-
 	return rtnFields
+
+def calculateProvisionalVotes(votes_total, votes_ed, votes_mail):
+	""" Northampton data smashes provisional and vote percentage columns together.  So we calculate provisional. """
+	prov = votes_total - (votes_ed + votes_mail)
+	return prov
 
 def extractFirstCandidateName(listedName):
 	"""

@@ -37,4 +37,5 @@ class FormatSpec:
         self.candidate_line_increment = 1 # Some formats have weird layouts that increment more than 1.
         self.multiline_race_field_len = 0 # If race is multiple lines (instead of fields in single line), count of lines (incl name).
         self.has_candidate_double_line = False # Candidate result is 2 lines that should just be concatenated.
+        self.has_northampton_bug = False
         self.lineSpec = LineSpec()
