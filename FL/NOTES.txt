@@ -1,0 +1,1 @@
+Cat all txt files to "all.csv" and run python3 bin/readCsvFile.py to generate data.

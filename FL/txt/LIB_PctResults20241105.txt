@@ -1,0 +1,720 @@
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	87
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	129
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	701
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	758
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	430
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	498
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	127
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	168
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	174
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	61
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	110
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	59
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	73
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	48
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	13
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	28
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	87
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	131
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	698
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	744
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	424
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	478
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	124
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	173
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	170
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	57
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	99
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	54
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	66
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	55
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	26
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	7
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	14
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	98
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	133
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	701
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	753
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	442
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	479
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	125
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	169
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	161
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	54
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	102
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	53
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	59
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	54
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	13
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	31
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	21
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	16
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	20
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	93
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	127
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	672
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	742
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	441
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	481
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	118
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	171
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	165
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	62
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	126
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	57
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	60
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	48
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	17
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	27
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	9
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	26
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	10
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	24
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	88
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	120
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	687
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	723
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	420
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	447
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	119
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	168
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	164
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	63
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	108
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	70
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	76
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	68
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	13
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	29
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	15
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	9
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	29
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	29
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	15
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	38
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	9
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	7
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	120
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	136
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	736
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	766
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	467
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	488
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	125
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Sheriff	 	335000	Robert "Dusty" Arnold	REP	105266388	87139	181
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	140
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	51
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	68
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	46
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	40
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	59
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Sheriff	 	335000	Jacquline Solomon	NPA	105263760	87137	20
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	20
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	9
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	103
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	113
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	626
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	647
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	359
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	362
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	104
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Supervisor of Elections	 	375000	Grant Conyers	REP	105230982	87143	159
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	156
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	72
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	177
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	158
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	144
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	177
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	32
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Supervisor of Elections	 	375000	Gina McDowell	DEM	105264455	87144	40
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	8
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	7
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	21
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	17
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	8
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	14
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	121
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	110
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	564
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	548
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	356
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	370
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	105
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 3	380030	Jim Johnson	REP	105263140	87571	145
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	136
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	77
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	241
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	256
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	149
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	174
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	33
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 3	380030	Clay Evans	DEM	105262886	87569	54
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	10
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	18
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	18
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	9
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	197
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	107
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	372
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	356
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	238
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	296
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	83
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 5	380050	Derrick Arnold	DEM	105265048	87854	102
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	54
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	75
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	411
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	425
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	248
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	238
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	45
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 5	380050	Scott Phillips	NPA	105264610	87136	91
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	16
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	10
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	41
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	40
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	25
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	19
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	10
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	127
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	104
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	504
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	465
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	298
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	305
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	72
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	106
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	97
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	63
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	243
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	269
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	164
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	187
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	56
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	78
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	43
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	24
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	77
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	88
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	49
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	61
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	13
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	20
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	115
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	98
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	520
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	475
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	298
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	303
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	69
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	113
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	109
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	67
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	227
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	254
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	161
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	187
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	56
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	69
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	43
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	27
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	77
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	93
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	52
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	63
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	16
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	22
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	142
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	116
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	518
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	482
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	314
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	320
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	68
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	121
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	85
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	54
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	232
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	252
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	145
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	170
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	61
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	64
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	22
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	74
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	52
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	63
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	19
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	133
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	113
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	536
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	495
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	307
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	312
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	74
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	111
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	90
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	57
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	218
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	235
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	150
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	173
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	53
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	72
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	44
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	22
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	70
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	91
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	53
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	66
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	14
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	21
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	124
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	106
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	504
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	483
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	298
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	311
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	70
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	116
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	98
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	63
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	247
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	249
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	153
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	178
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	56
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	67
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	45
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	23
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	73
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	90
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	60
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	64
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	15
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	21
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	128
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	124
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	465
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	507
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	281
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	325
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	82
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	125
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	115
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	58
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	308
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	271
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	207
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	191
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	48
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	67
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	24
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	10
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	51
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	44
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	23
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	36
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	11
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	186
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	166
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	698
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	723
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	434
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	471
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	124
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	175
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	64
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	23
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	108
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	87
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	69
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	65
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	13
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	24
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	17
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	18
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	8
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	17
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	168
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	117
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	361
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	259
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	199
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	282
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	83
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	99
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	93
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	71
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	454
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	559
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	309
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	259
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	54
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	102
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	6
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	8
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	3
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	153
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	81
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	237
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	167
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	137
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	141
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	52
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	80
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	103
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	101
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	569
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	640
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	363
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	392
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	85
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	119
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	11
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	10
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	18
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	15
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	9
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	19
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	4
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	5
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	128
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	102
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	473
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	486
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	308
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	291
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	70
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	127
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	110
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	75
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	313
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	293
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	183
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	221
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	63
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	65
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	29
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	15
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	38
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	43
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	20
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	40
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	8
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	12
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	119
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	95
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	401
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	421
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	263
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	279
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	72
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	107
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	119
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	81
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	378
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	343
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	218
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	235
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	61
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	83
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+LIB	Liberty	43888	11/05/2024	2024 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	29
+LIB	Liberty	43888	11/05/2024	2024 General Election	2	Annex	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	16
+LIB	Liberty	43888	11/05/2024	2024 General Election	3	Bristol	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	45
+LIB	Liberty	43888	11/05/2024	2024 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	56
+LIB	Liberty	43888	11/05/2024	2024 General Election	5	Hosford	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	30
+LIB	Liberty	43888	11/05/2024	2024 General Election	6	Telogia	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	38
+LIB	Liberty	43888	11/05/2024	2024 General Election	7	Sumatra	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	8
+LIB	Liberty	43888	11/05/2024	2024 General Election	8	Orange	0	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	12

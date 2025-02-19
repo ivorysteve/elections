@@ -1,0 +1,560 @@
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	881
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	854
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	723
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1186
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	465
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1785
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1392
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	907
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	101
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	88
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	80
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	141
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	26
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	144
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	148
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	154
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	5
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	6
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	857
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	838
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	709
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1166
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	448
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1758
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1385
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	902
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	108
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	91
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	78
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	136
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	26
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	141
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	135
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	151
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	10
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	8
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	8
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	16
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	14
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	20
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	881
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	857
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	717
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1175
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	456
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1785
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1392
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	922
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	96
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	82
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	74
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	137
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	26
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	145
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	147
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	145
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	18
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	12
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	21
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	18
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	18
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	871
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	854
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	711
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	1169
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	447
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	1773
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	1382
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	916
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	103
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	80
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	76
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	143
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	33
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	150
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	149
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	148
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	21
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	16
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	21
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	21
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	19
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	24
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	26
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	13
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	596
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	569
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	481
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	782
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	305
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1219
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	934
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	620
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	316
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	300
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	252
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	413
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	147
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	549
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	501
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	379
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	81
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	82
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	71
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	135
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	48
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	176
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	119
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	78
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	589
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	565
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	489
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	793
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	303
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1207
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	913
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	610
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	308
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	291
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	232
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	388
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	144
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	546
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	507
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	370
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	97
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	94
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	86
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	152
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	53
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	194
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	135
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	96
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	608
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	564
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	484
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	784
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	301
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1230
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	930
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	640
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	296
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	298
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	237
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	398
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	141
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	520
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	490
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	349
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	90
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	89
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	87
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	151
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	58
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	197
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	137
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	604
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	563
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	500
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	768
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	305
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1227
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	905
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	622
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	295
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	296
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	222
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	406
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	129
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	507
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	497
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	361
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	96
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	92
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	86
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	158
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	66
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	212
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	154
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	92
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	607
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	561
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	491
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	771
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	299
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1227
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	925
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	635
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	296
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	298
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	229
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	410
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	142
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	523
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	491
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	355
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	92
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	92
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	87
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	152
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	59
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	197
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	141
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	87
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	581
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	560
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	477
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	735
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	267
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1119
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	912
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	611
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	365
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	348
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	272
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	501
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	194
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	728
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	585
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	413
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	49
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	42
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	56
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	97
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	37
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	100
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	60
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	51
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	831
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	783
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	665
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1120
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	405
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1630
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1278
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	914
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	151
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	143
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	120
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	175
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	78
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	266
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	251
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	142
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	13
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	25
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	23
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	37
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	17
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	50
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	28
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	21
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	445
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	364
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	292
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	518
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	214
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	712
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	593
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	432
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	538
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	580
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	494
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	796
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	278
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1208
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	947
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	636
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	11
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	21
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	19
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	7
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	27
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	16
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	9
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	281
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	205
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	200
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	323
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	96
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	397
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	373
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	286
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	697
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	724
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	580
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	979
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	390
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1522
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1160
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	777
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	17
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	22
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	28
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	31
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	13
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	28
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	22
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	14
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	554
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	518
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	450
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	791
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	258
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1125
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	952
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	621
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	390
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	388
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	305
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	469
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	205
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	716
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	537
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	397
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	3
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	50
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	45
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	50
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	72
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	37
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	105
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	67
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	59
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	468
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	477
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	434
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	672
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	220
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	988
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	796
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	539
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	474
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	428
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	322
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	560
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	234
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	843
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	681
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	476
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	4
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+HOL	Holmes	43888	11/05/2024	2024 General Election	1	Ponce de Leon	1088	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	53
+HOL	Holmes	43888	11/05/2024	2024 General Election	2	Pine Log	1044	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	46
+HOL	Holmes	43888	11/05/2024	2024 General Election	3	New Hope	850	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	51
+HOL	Holmes	43888	11/05/2024	2024 General Election	4	Bethlehem	1444	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	97
+HOL	Holmes	43888	11/05/2024	2024 General Election	5	Gritney	568	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	46
+HOL	Holmes	43888	11/05/2024	2024 General Election	6	Noma	2152	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	116
+HOL	Holmes	43888	11/05/2024	2024 General Election	7	West Bonifay	1791	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	76
+HOL	Holmes	43888	11/05/2024	2024 General Election	8	East Bonifay	1224	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	60
