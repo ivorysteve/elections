@@ -1,0 +1,780 @@
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1515
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	944
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	681
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	478
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1332
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	186
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	510
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	192
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	474
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	372
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	225
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	242
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	215
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	535
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	242
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	30
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	222
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	32
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	121
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	106
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	5
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	5
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	5
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	13
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	8
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	12
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	8
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1469
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	942
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	702
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	526
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1352
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	177
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	529
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	187
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	484
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	377
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	217
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	229
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	182
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	470
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	203
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	32
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	203
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	29
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	106
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	86
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	9
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	9
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	8
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	10
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	5
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	5
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	47
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	16
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1511
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	970
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	715
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	529
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1366
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	183
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	534
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	197
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	488
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	385
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	207
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	230
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	178
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	482
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	204
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	33
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	193
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	26
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	105
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	87
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	50
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	12
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	14
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	21
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	23
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	13
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	11
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	1449
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	940
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	689
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	509
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	1336
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	178
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	535
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	192
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	477
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	374
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	243
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	241
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	189
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	489
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	221
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	34
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	190
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	27
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	108
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	94
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	76
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	32
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	29
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	34
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	35
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	6
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	19
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	6
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	21
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	1459
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	940
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	679
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	533
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	1329
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	177
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	522
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	189
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	485
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	377
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	245
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	236
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	200
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	458
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	233
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	35
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	201
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	30
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	104
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	91
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	64
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	37
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	27
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	41
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	31
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	6
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	21
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	6
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	17
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	1424
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	882
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	582
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	359
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	1016
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	125
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	456
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	160
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	413
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Tax Collector	 	355000	Ashley Lister Forehand	REP	104296718	88380	319
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	318
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	316
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	308
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	657
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	556
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	91
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	269
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	62
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	184
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Tax Collector	 	355000	Candye Lewis	DEM	104293565	88374	152
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	26
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	17
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	21
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	19
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	9
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	12
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1018
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	696
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	545
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	572
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1011
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	129
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	452
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	127
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	359
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	284
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	604
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	437
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	279
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	370
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	438
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	76
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	197
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	70
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	199
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	152
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	145
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	80
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	83
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	90
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	140
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	13
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	95
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	28
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	48
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	47
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1010
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	684
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	563
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	569
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1020
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	130
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	453
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	129
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	355
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	283
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	592
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	439
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	258
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	357
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	418
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	74
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	197
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	65
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	200
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	146
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	166
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	90
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	86
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	105
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	155
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	14
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	94
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	31
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	51
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	54
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1040
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	701
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	572
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	592
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1046
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	129
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	467
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	125
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	350
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	298
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	570
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	419
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	244
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	335
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	393
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	73
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	178
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	68
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	200
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	127
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	156
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	93
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	91
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	105
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	154
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	16
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	99
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	32
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	55
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	58
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1029
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	662
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	563
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	585
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1017
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	123
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	454
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	123
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	361
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	289
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	567
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	448
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	244
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	340
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	407
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	80
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	186
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	65
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	192
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	133
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	172
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	102
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	100
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	107
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	169
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	104
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	37
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	53
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	61
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1019
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	686
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	566
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	603
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1017
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	132
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	452
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	125
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	359
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	286
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	584
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	436
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	245
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	333
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	413
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	72
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	188
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	66
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	197
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	134
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	165
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	91
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	96
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	96
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	163
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	14
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	104
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	34
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	50
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	63
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1106
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	757
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	491
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	590
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	917
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	123
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	374
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	144
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	349
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	298
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	557
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	387
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	371
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	385
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	598
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	85
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	327
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	66
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	227
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	165
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	105
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	69
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	45
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	56
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	78
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	9
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	43
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	30
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	20
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1484
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1007
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	696
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	808
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1315
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	177
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	513
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	169
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	489
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	365
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	234
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	177
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	191
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	191
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	248
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	39
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	215
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	53
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	98
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	111
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	50
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	28
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	20
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	33
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	30
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	16
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	19
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	879
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	562
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	444
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	628
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	705
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	89
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	387
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	118
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	328
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	257
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	850
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	627
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	450
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	373
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	867
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	125
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	347
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	104
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	267
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	220
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	38
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	24
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	13
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	30
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	21
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	4
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	10
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	11
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	6
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	589
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	416
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	375
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	552
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	506
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	73
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	354
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	82
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	241
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	207
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1112
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	757
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	511
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	440
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1047
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	137
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	379
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	136
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	355
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	267
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	3
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	66
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	37
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	21
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	40
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	39
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	11
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	7
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	10
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	9
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1085
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	746
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	618
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	641
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1053
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	121
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	498
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	125
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	386
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	303
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	571
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	401
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	244
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	328
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	465
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	88
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	212
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	87
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	192
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	158
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	112
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	65
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	45
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	63
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	74
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	9
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	34
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	13
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	28
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	22
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	880
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	654
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	447
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	541
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	867
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	115
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	361
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	116
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	320
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	241
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	754
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	490
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	391
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	416
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	636
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	95
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	338
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	94
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	255
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	214
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+GUL	Gulf	43888	11/05/2024	2024 General Election	1	Honeyville Community Center	2412	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	132
+GUL	Gulf	43888	11/05/2024	2024 General Election	2	Charles Whitehead Library	643	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	69
+GUL	Gulf	43888	11/05/2024	2024 General Election	3	St. Joe Beach Fire Station	1640	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	69
+GUL	Gulf	43888	11/05/2024	2024 General Election	4	Port St. Joe Fire Station	1104	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	75
+GUL	Gulf	43888	11/05/2024	2024 General Election	5	Centennial Building	1359	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	88
+GUL	Gulf	43888	11/05/2024	2024 General Election	6	White City Fire Station	1948	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	8
+GUL	Gulf	43888	11/05/2024	2024 General Election	7	Cape San Blas Fire Station	265	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	44
+GUL	Gulf	43888	11/05/2024	2024 General Election	8	Howard Creek Fire Station	910	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	15
+GUL	Gulf	43888	11/05/2024	2024 General Election	9	Overstreet Fire Station	306	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	31
+GUL	Gulf	43888	11/05/2024	2024 General Election	10	Highland View Fire Station	780	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	26
