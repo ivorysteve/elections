@@ -1,0 +1,410 @@
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	675
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	507
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	797
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	847
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	302
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	76
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	72
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	92
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	101
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	169
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	7
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	701
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	540
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	825
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	870
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	371
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	8
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	5
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	58
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	41
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	63
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	74
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	95
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	662
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	496
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	780
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	817
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	301
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	71
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	77
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	97
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	98
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	157
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	30
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	15
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	26
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	42
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	19
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	668
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	507
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	791
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	825
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	303
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	65
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	67
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	86
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	89
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	150
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	30
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	14
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	27
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	43
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	24
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Sheriff	 	335000	Brian Lamb	REP	104751058	75745	684
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Sheriff	 	335000	Brian Lamb	REP	104751058	75745	526
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Sheriff	 	335000	Brian Lamb	REP	104751058	75745	853
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Sheriff	 	335000	Brian Lamb	REP	104751058	75745	893
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Sheriff	 	335000	Brian Lamb	REP	104751058	75745	410
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Sheriff	 	335000	WriteinVotes	 	0	900	4
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Sheriff	 	335000	WriteinVotes	 	0	900	2
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Sheriff	 	335000	WriteinVotes	 	0	900	3
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Sheriff	 	335000	WriteinVotes	 	0	900	6
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Sheriff	 	335000	WriteinVotes	 	0	900	3
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	43
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	47
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	40
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	47
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	48
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Superintendent of Schools	 	360000	Robby Edwards	REP	103236680	76365	501
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Superintendent of Schools	 	360000	Robby Edwards	REP	103236680	76365	398
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Superintendent of Schools	 	360000	Robby Edwards	REP	103236680	76365	608
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Superintendent of Schools	 	360000	Robby Edwards	REP	103236680	76365	672
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Superintendent of Schools	 	360000	Robby Edwards	REP	103236680	76365	221
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Superintendent of Schools	 	360000	William 'Billy' Shows	DEM	104749201	75752	243
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Superintendent of Schools	 	360000	William 'Billy' Shows	DEM	104749201	75752	179
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Superintendent of Schools	 	360000	William 'Billy' Shows	DEM	104749201	75752	278
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Superintendent of Schools	 	360000	William 'Billy' Shows	DEM	104749201	75752	256
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Superintendent of Schools	 	360000	William 'Billy' Shows	DEM	104749201	75752	244
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	19
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	11
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	18
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	29
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	430
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	357
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	547
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	542
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	262
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	258
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	179
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	266
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	314
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	149
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	4
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	75
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	52
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	91
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	97
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	66
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	431
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	358
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	525
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	535
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	273
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	253
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	173
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	284
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	317
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	142
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	79
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	56
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	94
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	105
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	62
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	425
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	357
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	538
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	558
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	255
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	254
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	168
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	260
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	286
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	154
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	84
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	63
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	106
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	113
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	67
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	432
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	361
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	533
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	562
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	258
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	247
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	162
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	265
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	287
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	152
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	2
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	84
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	65
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	105
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	106
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	67
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	417
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	348
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	521
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	538
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	253
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	265
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	178
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	282
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	312
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	155
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	81
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	62
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	100
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	107
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	69
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	424
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	355
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	529
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	553
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	263
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	257
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	174
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	270
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	292
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	151
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	82
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	105
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	111
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	63
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	432
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	354
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	539
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	566
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	262
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	249
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	173
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	262
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	289
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	152
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	82
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	61
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	103
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	102
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	63
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	676
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	507
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	782
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	827
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	377
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	68
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	65
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	96
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	101
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	74
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	18
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	26
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	28
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	26
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	225
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	195
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	271
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	271
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	237
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	521
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	378
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	609
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	660
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	222
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	17
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	15
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	23
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	26
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	18
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	343
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	289
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	422
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	420
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	248
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	382
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	272
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	431
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	484
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	194
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	38
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	27
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	50
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	53
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	35
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	401
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	298
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	445
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	470
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	236
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	327
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	261
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	395
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	423
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	194
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	35
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	29
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	64
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	63
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	47
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	480
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	374
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	579
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	533
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	284
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	228
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	183
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	252
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	333
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	134
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	55
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	31
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	73
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	89
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	59
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	632
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	501
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	753
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	757
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	365
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	101
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	72
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	112
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	151
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	75
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10866	11/03/2020	2020 General Election	1	Day Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	30
+LAF	Lafayette	10866	11/03/2020	2020 General Election	2	Lafayette Public Library	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	15
+LAF	Lafayette	10866	11/03/2020	2020 General Election	3	Airline Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	39
+LAF	Lafayette	10866	11/03/2020	2020 General Election	4	4th District Community Center 	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	49
+LAF	Lafayette	10866	11/03/2020	2020 General Election	5	Mayo Community Center	0	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	37

@@ -1,0 +1,840 @@
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	178
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	716
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	434
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	2307
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1031
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	265
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1132
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	831
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	716
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	188
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1696
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	876
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	111
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	69
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	62
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	461
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	195
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	196
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	166
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	260
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	112
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	94
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	232
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	182
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	9
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	8
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	3
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	4
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	4
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	3
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	5
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	5
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	7
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	8
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	9
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	5
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	7
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	6
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	4
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	7
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	4
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	178
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	709
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	430
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	2286
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1021
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	273
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1117
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	831
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	708
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	181
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1690
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	870
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	104
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	73
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	55
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	422
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	187
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	183
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	167
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	242
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	98
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	93
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	196
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	168
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	16
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	12
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	10
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	11
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	4
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	14
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	22
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	1
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	19
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	36
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	23
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	187
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	716
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	437
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	2340
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1048
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	277
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1143
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	847
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	723
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	188
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1725
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	896
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	103
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	73
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	52
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	411
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	178
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	185
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	159
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	246
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	100
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	93
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	194
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	163
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	16
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	11
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	45
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	14
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	5
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	9
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	3
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	37
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	9
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	184
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	712
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	431
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	2304
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	1031
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	272
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	1123
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	839
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	719
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	179
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	1696
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	State Representative	 District 5	260050	Shane Abbott	REP	108859479	83544	873
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	105
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	79
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	57
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	433
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	190
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	188
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	175
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	250
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	101
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	102
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	214
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	State Representative	 District 5	260050	Stephanie Lyn Leonard	DEM	107356507	85836	183
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	7
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	14
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	12
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	59
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	19
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	7
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	12
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	14
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	14
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	3
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	47
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	12
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	171
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	473
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	317
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1670
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	763
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	228
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	763
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	633
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	477
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	145
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1214
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	673
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	98
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	257
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	146
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	903
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	399
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	208
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	453
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	397
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	293
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	119
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	581
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	320
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	6
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	27
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	74
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	37
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	221
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	78
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	30
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	93
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	67
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	64
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	20
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	160
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	74
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	165
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	477
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	313
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1673
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	749
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	232
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	762
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	617
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	483
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	148
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1205
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	684
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	98
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	251
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	144
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	867
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	407
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	203
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	445
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	408
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	281
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	115
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	574
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	303
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	33
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	76
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	43
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	257
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	84
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	32
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	102
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	78
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	69
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	21
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	178
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	81
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	161
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	477
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	319
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1714
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	775
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	231
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	802
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	637
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	493
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	153
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1264
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	691
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	104
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	247
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	136
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	830
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	384
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	202
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	405
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	386
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	270
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	109
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	512
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	287
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	2
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	3
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	30
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	80
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	45
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	252
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	79
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	34
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	103
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	79
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	71
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	22
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	178
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	90
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	163
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	472
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	303
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1680
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	751
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	215
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	784
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	613
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	490
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	147
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1197
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	677
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	100
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	252
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	151
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	848
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	403
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	213
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	422
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	402
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	275
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	112
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	573
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	300
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	6
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	2
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	33
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	80
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	46
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	263
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	86
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	39
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	103
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	86
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	69
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	25
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	186
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	91
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	163
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	479
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	308
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1682
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	760
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	226
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	789
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	622
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	484
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	146
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1208
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	685
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	101
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	248
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	147
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	854
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	396
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	205
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	419
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	399
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	281
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	113
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	567
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	292
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	32
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	78
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	45
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	260
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	83
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	36
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	102
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	82
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	68
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	25
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	182
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	91
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	188
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	451
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	291
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1597
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	725
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	264
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	736
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	629
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	448
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	160
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1166
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	633
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	89
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	306
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	190
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	1066
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	479
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	183
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	517
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	436
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	351
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	110
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	699
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	388
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	2
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	19
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	48
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	19
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	132
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	35
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	19
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	57
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	38
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	35
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	14
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	92
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	46
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	267
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	658
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	407
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	2272
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1044
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	384
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1062
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	893
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	662
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	211
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1579
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	866
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	23
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	131
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	78
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	453
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	174
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	70
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	224
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	192
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	153
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	66
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	342
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	179
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	6
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	16
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	15
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	72
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	21
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	13
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	24
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	18
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	19
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	7
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	36
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	23
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	171
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	317
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	184
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	1118
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	572
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	273
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	585
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	503
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	360
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	153
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	976
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	539
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	119
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	480
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	310
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1643
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	659
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	186
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	711
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	594
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	462
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	129
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	971
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	521
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	2
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	6
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	8
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	5
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	36
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	9
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	7
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	14
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	6
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	12
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	2
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	8
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	8
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	119
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	162
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	122
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	733
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	359
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	229
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	361
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	343
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	204
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	113
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	588
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	357
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	167
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	630
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	368
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	2006
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	862
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	227
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	928
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	746
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	615
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	168
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1334
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	698
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	4
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	3
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	9
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	12
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	10
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	54
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	18
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	11
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	20
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	14
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	15
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	3
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	32
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	13
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	183
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	436
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	277
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1671
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	721
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	302
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	764
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	689
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	447
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	161
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1178
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	682
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	94
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	329
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	210
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	1008
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	481
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	147
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	499
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	384
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	354
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	110
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	705
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	352
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	5
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	18
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	39
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	13
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	113
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	37
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	17
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	47
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	29
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	33
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	13
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	73
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	33
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	156
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	381
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	258
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1421
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	640
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	233
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	683
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	599
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	407
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	121
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1007
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	545
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	112
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	374
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	220
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	1221
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	549
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	210
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	567
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	462
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	381
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	142
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	852
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	470
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAS	Washington	43888	11/05/2024	2024 General Election	1	Caryville	442	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	27
+WAS	Washington	43888	11/05/2024	2024 General Election	2	Five Points	1068	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	50
+WAS	Washington	43888	11/05/2024	2024 General Election	3	Hinson Crossroads	633	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	21
+WAS	Washington	43888	11/05/2024	2024 General Election	4	First Baptist Church - Chipley	3704	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	153
+WAS	Washington	43888	11/05/2024	2024 General Election	5	Vernon City Hall	1582	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	50
+WAS	Washington	43888	11/05/2024	2024 General Election	6	New Hope - Campbell Park	618	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	24
+WAS	Washington	43888	11/05/2024	2024 General Election	7	Orange Hill Fire Station	1675	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	60
+WAS	Washington	43888	11/05/2024	2024 General Election	8	Armory - Chipley	1530	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	42
+WAS	Washington	43888	11/05/2024	2024 General Election	9	Wausau Town Hall	1094	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	45
+WAS	Washington	43888	11/05/2024	2024 General Election	10	Ebro City Hall	380	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	20
+WAS	Washington	43888	11/05/2024	2024 General Election	11	Greenhead Fire Department	2584	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	97
+WAS	Washington	43888	11/05/2024	2024 General Election	12	Sunny Hills Community Ctr/Lib	1422	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	53

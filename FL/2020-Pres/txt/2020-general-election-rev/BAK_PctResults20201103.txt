@@ -1,0 +1,702 @@
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1304
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2116
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2386
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	173
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	486
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1682
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	806
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2807
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	151
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	567
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	508
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	397
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	8
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	35
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	170
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	61
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	221
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	70
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	14
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	15
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	19
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	10
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	23
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	4
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	5
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	7
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	8
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	11
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	1214
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	2008
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	2250
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	161
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	471
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	1619
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	775
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	2683
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	148
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	658
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	583
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	484
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	16
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	50
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	207
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	83
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	325
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	70
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	37
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	68
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	78
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	6
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	5
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	45
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	18
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	65
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	5
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1290
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	2058
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	2319
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	169
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	474
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1652
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	794
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	2749
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	141
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	552
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	504
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	392
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	9
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	41
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	158
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	57
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	233
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	71
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	68
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	97
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	101
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	5
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	11
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	61
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	25
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	91
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	11
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	1340
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	2136
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	2435
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	163
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	478
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	1678
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	800
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	2816
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	155
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	526
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	450
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	323
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	16
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	43
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	152
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	57
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	205
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	58
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	44
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	73
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	54
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	4
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	5
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	41
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	19
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	52
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	10
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	683
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	1252
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	1398
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	95
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	287
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	973
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	485
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	1602
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Bobby Gray	REP	100591028	77649	97
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	1201
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	1361
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	1367
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	84
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	230
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	865
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	384
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	1436
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Stacie D Harvey	DEM	100597578	77653	115
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	26
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	46
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	45
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	4
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	9
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	33
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	7
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	35
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	11
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1020
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1580
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1715
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	99
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	336
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1160
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	505
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1822
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	130
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	705
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	796
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	830
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	69
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	163
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	508
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	294
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	920
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	67
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	185
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	282
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	266
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	15
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	27
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	203
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	77
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	331
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	26
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1033
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1582
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1687
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	96
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	339
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1121
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	496
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1761
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	124
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	684
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	780
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	844
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	73
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	155
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	539
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	299
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	969
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	72
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	193
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	297
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	280
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	14
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	32
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	211
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	81
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	343
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	27
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1021
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1576
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1703
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	97
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	346
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1146
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	511
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1829
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	126
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	685
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	775
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	832
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	72
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	149
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	497
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	279
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	892
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	69
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	3
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	202
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	307
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	275
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	14
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	31
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	228
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	84
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	351
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	28
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1040
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1609
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1705
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	103
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	351
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1143
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	507
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1819
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	130
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	659
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	727
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	801
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	65
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	140
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	496
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	278
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	887
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	62
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	211
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	323
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	304
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	15
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	35
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	232
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	91
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	367
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	31
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	995
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1532
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1672
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	97
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	337
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1146
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	495
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1825
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	128
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	694
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	804
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	832
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	70
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	153
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	486
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	291
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	878
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	61
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	220
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	323
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	308
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	16
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	36
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	238
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	90
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	369
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	34
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1024
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1519
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1651
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	100
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	342
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1101
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	499
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1792
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	135
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	669
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	808
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	846
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	66
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	146
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	532
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	280
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	905
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	56
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	216
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	331
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	315
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	17
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	38
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	238
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	97
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	375
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	32
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1034
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1583
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1689
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	103
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	344
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1150
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	517
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1854
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	129
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	664
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	753
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	807
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	63
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	145
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	485
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	265
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	849
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	64
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	212
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	323
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	316
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	17
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	37
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	236
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	94
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	369
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	30
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1611
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2279
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2481
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	168
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	484
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1682
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	758
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2740
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	188
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	192
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	268
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	245
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	9
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	34
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	135
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	88
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	250
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	23
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	107
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	112
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	86
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	6
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	8
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	53
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	30
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	83
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	12
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	731
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	905
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	838
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	43
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	149
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	398
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	211
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	740
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	91
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1105
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1669
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1918
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	138
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	368
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1436
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	643
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2261
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	123
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	73
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	85
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	54
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	9
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	37
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	22
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	71
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	9
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	968
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1280
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1300
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	82
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	244
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	737
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	383
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1304
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	109
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	800
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1190
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1352
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	93
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	262
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1039
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	447
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1577
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	99
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	142
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	189
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	158
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	8
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	20
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	95
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	46
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	191
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	15
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	936
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1327
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1418
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	98
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	288
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	905
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	432
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1490
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	117
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	823
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1123
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1223
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	75
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	207
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	848
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	390
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1372
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	86
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	150
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	209
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	171
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	10
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	31
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	116
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	54
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	210
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	20
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1231
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1762
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1889
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	128
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	360
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1261
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	579
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	2018
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	156
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	533
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	686
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	752
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	47
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	142
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	488
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	246
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	852
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	47
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	3
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	144
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	209
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	171
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	8
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	24
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	122
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	50
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	203
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	20
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1559
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2235
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2416
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	157
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	460
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1593
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	749
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2616
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	187
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	226
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	261
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	276
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	20
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	51
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	199
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	88
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	308
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	19
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	2
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+BAK	Baker	10866	11/03/2020	2020 General Election	1A	Sanderson Community Center	2375	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	124
+BAK	Baker	10866	11/03/2020	2020 General Election	2A	Macclenny Baptist Gym	3297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	162
+BAK	Baker	10866	11/03/2020	2020 General Election	3A	Center of the Agriculture	3380	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	120
+BAK	Baker	10866	11/03/2020	2020 General Election	4A	Baxter Fire Station	212	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	6
+BAK	Baker	10866	11/03/2020	2020 General Election	4B	Taylor Voting House	646	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	15
+BAK	Baker	10866	11/03/2020	2020 General Election	4C	Center of the Agriculture	2101	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	79
+BAK	Baker	10866	11/03/2020	2020 General Election	4D	Cuyler Church Hall	1037	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	39
+BAK	Baker	10866	11/03/2020	2020 General Election	5A	Glen Baptist Hall	3601	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	148
+BAK	Baker	10866	11/03/2020	2020 General Election	6A	Olustee Baptist Hall	284	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	17

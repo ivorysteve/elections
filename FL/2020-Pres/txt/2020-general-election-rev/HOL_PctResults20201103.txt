@@ -1,0 +1,538 @@
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	848
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	874
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	683
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1152
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	452
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1810
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1356
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	905
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	110
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	91
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	76
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	127
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	28
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	143
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	161
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	188
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	15
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	8
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	74334	826
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	74334	853
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	74334	644
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	74334	1105
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	74334	416
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	74334	1148
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Representative in Congress	 District 1	140010	Phil Ehr	DEM	103963020	74199	117
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Representative in Congress	 District 1	140010	Phil Ehr	DEM	103963020	74199	95
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Representative in Congress	 District 1	140010	Phil Ehr	DEM	103963020	74199	92
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Representative in Congress	 District 1	140010	Phil Ehr	DEM	103963020	74199	129
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Representative in Congress	 District 1	140010	Phil Ehr	DEM	103963020	74199	37
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 1	140010	Phil Ehr	DEM	103963020	74199	117
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Representative in Congress	 District 1	140010	Albert Oram	NPA	107551868	75619	21
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Representative in Congress	 District 1	140010	Albert Oram	NPA	107551868	75619	6
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Representative in Congress	 District 1	140010	Albert Oram	NPA	107551868	75619	8
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Representative in Congress	 District 1	140010	Albert Oram	NPA	107551868	75619	17
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Representative in Congress	 District 1	140010	Albert Oram	NPA	107551868	75619	14
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 1	140010	Albert Oram	NPA	107551868	75619	23
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	21
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	20
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	24
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	40
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	17
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	25
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	593
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1393
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	982
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	7
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	31
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	33
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	58
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	110
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	92
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	600
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	533
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	440
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	718
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	264
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1180
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	924
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	665
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	285
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	323
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	232
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	399
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	155
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	572
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	461
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	336
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	99
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	118
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	96
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	175
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	64
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	219
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	149
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	106
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	628
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	545
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	462
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	732
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	269
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1176
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	931
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	669
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	268
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	316
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	217
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	385
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	147
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	557
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	449
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	329
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	89
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	113
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	173
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	67
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	239
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	153
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	109
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	634
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	549
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	476
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	731
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	279
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1214
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	958
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	677
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	263
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	307
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	205
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	386
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	140
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	525
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	421
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	323
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	88
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	117
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	87
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	174
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	65
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	233
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	155
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	107
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	642
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	557
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	476
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	739
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	270
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1223
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	967
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	681
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	254
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	296
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	200
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	372
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	147
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	510
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	411
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	315
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	3
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	88
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	120
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	92
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	178
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	67
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	240
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	156
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	111
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	608
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	541
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	445
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	702
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	264
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1181
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	935
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	651
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	280
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	311
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	229
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	403
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	149
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	553
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	437
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	341
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	97
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	122
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	94
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	187
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	71
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	238
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	162
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	115
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	628
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	565
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	469
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	726
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	262
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1170
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	951
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	690
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	264
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	288
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	205
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	387
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	153
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	561
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	423
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	308
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	93
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	121
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	94
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	179
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	69
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	241
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	160
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	109
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	620
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	557
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	468
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	719
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	258
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1208
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	950
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	673
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	265
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	290
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	206
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	385
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	155
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	522
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	421
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	320
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	100
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	127
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	94
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	187
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	71
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	242
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	163
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	114
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	887
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	839
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	666
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1119
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	422
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1756
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1358
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	961
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	68
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	99
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	57
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	108
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	37
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	136
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	112
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	102
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	30
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	36
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	45
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	64
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	25
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	80
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	63
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	43
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	359
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	314
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	278
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	462
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	179
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	622
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	524
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	453
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	596
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	633
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	450
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	769
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	283
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1271
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	948
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	614
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	29
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	27
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	40
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	60
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	22
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	78
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	60
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	40
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	523
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	452
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	384
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	657
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	244
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	971
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	811
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	608
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	402
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	460
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	317
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	537
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	195
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	858
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	627
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	432
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	60
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	62
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	65
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	97
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	45
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	143
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	95
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	66
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	535
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	472
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	397
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	652
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	262
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1007
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	790
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	549
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	378
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	426
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	302
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	527
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	177
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	809
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	631
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	473
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	71
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	75
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	69
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	113
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	45
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	157
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	112
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	84
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	629
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	560
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	469
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	782
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	306
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1206
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1004
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	704
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	267
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	309
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	216
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	355
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	125
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	576
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	399
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	292
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	89
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	104
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	82
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	154
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	53
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	190
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	131
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	111
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	828
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	784
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	642
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1072
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	403
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1639
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1277
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	919
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	106
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	132
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	68
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	139
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	52
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	225
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	168
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	123
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HOL	Holmes	10866	11/03/2020	2020 General Election	1	Ponce de Leon	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	51
+HOL	Holmes	10866	11/03/2020	2020 General Election	2	Pine Log	1199	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	57
+HOL	Holmes	10866	11/03/2020	2020 General Election	3	New Hope	981	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	57
+HOL	Holmes	10866	11/03/2020	2020 General Election	4	Bethlehem	1627	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	81
+HOL	Holmes	10866	11/03/2020	2020 General Election	5	Gritney	610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	28
+HOL	Holmes	10866	11/03/2020	2020 General Election	6	Noma	2492	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	108
+HOL	Holmes	10866	11/03/2020	2020 General Election	7	West Bonifay	1984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	88
+HOL	Holmes	10866	11/03/2020	2020 General Election	8	East Bonifay	1374	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	65

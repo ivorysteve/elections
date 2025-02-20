@@ -20,64 +20,52 @@ def readFile(path):
 		rows.append(CsvRow(r))
 	return rows
 			
-FILE = 'all.csv'
 
-path = os.path.join('FL', FILE)
-if not os.path.exists(path):
-	print(f"Error: {path} does not exist in the current directory.")
+def processCsvFile(path):
+    """
+    Process CSV file
+    """
+    if not os.path.exists(path):
+        print(f"Error: {path} does not exist in the current directory.")
+        return {}
 
-""" Read entire file. """
-allContests = {}
-allrecs = readFile(path)
-for rec in allrecs:
-	contest = rec.contest
-	if allContests.get(contest) == None:
-		allContests[contest] = Contest(contest)
-	curContest = allContests.get(contest)
-	curContest.addCandidate(rec.candidate, rec.party, rec.county, rec.precinctVotes)
+    """ Read rows of entire file. """
+    allContests = {}
+    allrecs = readFile(path)
+    for rec in allrecs:
+        contest = rec.contest
+        if allContests.get(contest) == None:
+            allContests[contest] = Contest(contest)
+        curContest = allContests.get(contest)
+        curContest.addCandidate(rec.candidate, rec.party, rec.county, rec.precinctVotes)
+    return allContests
 
 
-
-presContestName = 'President and Vice President'
-presContest = allContests.get(presContestName)
-candidates = presContest.candidates.keys()
-header = "County"
-for c in candidates:
-	candidateResults = presContest.candidates.get(c)
-	header = header + ',' + c
-print(header)
-""" Get counties from first row. """
-trumpName = 'Trump / Vance'
-trumpResults = presContest.candidates.get(trumpName)
-for c in trumpResults.counties.keys():
-    row = f"{c}"
-    for candidate in candidates:
-        candidateResults = presContest.candidates.get(candidate)
-        votes = candidateResults.counties.get(c)
-        row = row + f",{votes}"
-    print(row)
+def printContest(contestName, allContests):
+    """ Print a specific contest. """
+    presContest = allContests.get(contestName)
+    candidates = presContest.candidates.keys()
+    header = "County"
+    firstCandidate = None
+    for c in candidates:
+        candidateResults = presContest.candidates.get(c)
+        header = header + ',' + c
+        if firstCandidate == None:
+            firstCandidate = c
+    print(header)
+    """ Get counties from first row. """
+    firstResults = presContest.candidates.get(firstCandidate)
+    for c in firstResults.counties.keys():
+        row = f"{c}"
+        for candidate in candidates:
+            candidateResults = presContest.candidates.get(candidate)
+            votes = candidateResults.counties.get(c)
+            row = row + f",{votes}"
+        print(row)
 	
 
-
-""" Format output """
-presContestName = 'President and Vice President'
-presContest = allContests.get(presContestName)
-trumpName = 'Trump / Vance'
-trumpResults = presContest.candidates.get(trumpName)
-harrisName = 'Harris / Walz'
-harrisResults = presContest.candidates.get(harrisName)
-steinName = 'Stein / Ware'
-steinResults =presContest.candidates.get(steinName)
-print(f"County,{trumpName},{harrisName}")
-for c in trumpResults.counties.keys():
-	trumpVotes = trumpResults.counties.get(c)
-	harrisVotes = harrisResults.counties.get(c)
-	print(f"{c},{trumpVotes},{harrisVotes}")
-
-
-
 def printEverything(allContests):
-    """ Print all results. """
+    """ Print all contests. """
     for j in allContests.keys():
         contest = allContests.get(j)
         for i in contest.candidates.keys():

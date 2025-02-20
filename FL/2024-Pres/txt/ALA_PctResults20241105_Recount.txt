@@ -1,0 +1,189 @@
+ALA	Alachua	43888	11/05/2024	2024 General Election	01	First Baptist Church of Waldo	1324	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	743
+ALA	Alachua	43888	11/05/2024	2024 General Election	02	LaCrosse Town Hall	2276	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1232
+ALA	Alachua	43888	11/05/2024	2024 General Election	03	Legacy Park Multipurpose Center	4031	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	2038
+ALA	Alachua	43888	11/05/2024	2024 General Election	04	Alachua County Agriculture and Equestrian Center	3473	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1988
+ALA	Alachua	43888	11/05/2024	2024 General Election	05	First Lutheran Church	3221	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1182
+ALA	Alachua	43888	11/05/2024	2024 General Election	06	Mentholee Norfleet Municipal Building	3418	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1786
+ALA	Alachua	43888	11/05/2024	2024 General Election	07	Ignite Life Center	1953	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	366
+ALA	Alachua	43888	11/05/2024	2024 General Election	08	Hawthorne Community Center	1905	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	896
+ALA	Alachua	43888	11/05/2024	2024 General Election	09	Island Grove Baptist Church	526	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	334
+ALA	Alachua	43888	11/05/2024	2024 General Election	10	Micanopy Town Hall	1530	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	736
+ALA	Alachua	43888	11/05/2024	2024 General Election	11	Archer Community Center	3054	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1408
+ALA	Alachua	43888	11/05/2024	2024 General Election	12	Partnership Branch Library	1126	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	282
+ALA	Alachua	43888	11/05/2024	2024 General Election	13	Mt. Carmel Baptist Church	2113	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	200
+ALA	Alachua	43888	11/05/2024	2024 General Election	14	Melrose United Methodist Church	1243	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	734
+ALA	Alachua	43888	11/05/2024	2024 General Election	15	Windsor Baptist Church	829	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	469
+ALA	Alachua	43888	11/05/2024	2024 General Election	16	Best Western Gateway Grand Hotel	3763	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1640
+ALA	Alachua	43888	11/05/2024	2024 General Election	17	Unitarian Universalist Fellowship	2112	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	726
+ALA	Alachua	43888	11/05/2024	2024 General Election	18	Gainesville Shrine Club	2899	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1100
+ALA	Alachua	43888	11/05/2024	2024 General Election	19	Springhill Baptist Church	1482	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	179
+ALA	Alachua	43888	11/05/2024	2024 General Election	20	High Springs Civic Center	3115	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1867
+ALA	Alachua	43888	11/05/2024	2024 General Election	21	North Central Florida YMCA	3560	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1239
+ALA	Alachua	43888	11/05/2024	2024 General Election	22	Santa Fe College NW Campus	2749	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1107
+ALA	Alachua	43888	11/05/2024	2024 General Election	23	Harn Museum of Art	2243	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	515
+ALA	Alachua	43888	11/05/2024	2024 General Election	24	Millhopper Branch Library	2890	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1103
+ALA	Alachua	43888	11/05/2024	2024 General Election	25	Santa Fe College Blount Center	1679	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	259
+ALA	Alachua	43888	11/05/2024	2024 General Election	26	Westside Recreation Center	1375	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	437
+ALA	Alachua	43888	11/05/2024	2024 General Election	27	The Thomas Center	3143	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	478
+ALA	Alachua	43888	11/05/2024	2024 General Election	28	McPherson Recreation Center	2516	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	337
+ALA	Alachua	43888	11/05/2024	2024 General Election	29	Haile Meeting Hall	2762	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1326
+ALA	Alachua	43888	11/05/2024	2024 General Election	30	Greater Bethel A.M.E. Church	2369	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	427
+ALA	Alachua	43888	11/05/2024	2024 General Election	31	J. Wayne Reitz Union	2092	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	658
+ALA	Alachua	43888	11/05/2024	2024 General Election	32	Westside Recreation Center	2848	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	924
+ALA	Alachua	43888	11/05/2024	2024 General Election	33	Ironwood Golf Course	2343	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	390
+ALA	Alachua	43888	11/05/2024	2024 General Election	34	Fairbanks Baptist Church	1250	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	594
+ALA	Alachua	43888	11/05/2024	2024 General Election	35	Southwest United Methodist Church	1722	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	682
+ALA	Alachua	43888	11/05/2024	2024 General Election	36	Hilton UF Conference Center	2847	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	613
+ALA	Alachua	43888	11/05/2024	2024 General Election	37	Trinity United Methodist Church	4502	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1780
+ALA	Alachua	43888	11/05/2024	2024 General Election	38	Senior Recreation Center	4966	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1816
+ALA	Alachua	43888	11/05/2024	2024 General Election	39	Doyle Conner Building	2231	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	561
+ALA	Alachua	43888	11/05/2024	2024 General Election	40	Comfort Suites	2034	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	421
+ALA	Alachua	43888	11/05/2024	2024 General Election	41	St. Josephs Episcopal Church	3281	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1710
+ALA	Alachua	43888	11/05/2024	2024 General Election	42	Tower Road Branch Library	2765	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1248
+ALA	Alachua	43888	11/05/2024	2024 General Election	43	Grace United Methodist Church	1912	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	433
+ALA	Alachua	43888	11/05/2024	2024 General Election	44	Phillips Center for the Performing Arts	2659	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	526
+ALA	Alachua	43888	11/05/2024	2024 General Election	45	Faith Presbyterian Church	1261	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	548
+ALA	Alachua	43888	11/05/2024	2024 General Election	46	Westside Baptist Church	4322	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1926
+ALA	Alachua	43888	11/05/2024	2024 General Election	47	The Family Church	3268	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1564
+ALA	Alachua	43888	11/05/2024	2024 General Election	48	Freedom Community Center at Kanapaha Park	5761	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1668
+ALA	Alachua	43888	11/05/2024	2024 General Election	49	Abundant Grace Community Church	2491	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1223
+ALA	Alachua	43888	11/05/2024	2024 General Election	50	Westminster Presbyterian Church	2220	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	813
+ALA	Alachua	43888	11/05/2024	2024 General Election	51	Faith Presbyterian Church	3044	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1303
+ALA	Alachua	43888	11/05/2024	2024 General Election	52	Destiny Community Church	2365	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1550
+ALA	Alachua	43888	11/05/2024	2024 General Election	53	Hathcock Community Center	2798	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1136
+ALA	Alachua	43888	11/05/2024	2024 General Election	54	Fairfield Inn and Suites Gainesville I-75	2910	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	701
+ALA	Alachua	43888	11/05/2024	2024 General Election	55	North Central Florida YMCA	1113	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	178
+ALA	Alachua	43888	11/05/2024	2024 General Election	56	Covenant Presbyterian Church	3192	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1529
+ALA	Alachua	43888	11/05/2024	2024 General Election	57	Elks Lodge #990	2187	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	572
+ALA	Alachua	43888	11/05/2024	2024 General Election	58	Kanapaha Presbyterian Church	3980	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1694
+ALA	Alachua	43888	11/05/2024	2024 General Election	59	Days Inn	3072	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1027
+ALA	Alachua	43888	11/05/2024	2024 General Election	60	Douglass Center at Catherine Taylor Park	3743	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	2180
+ALA	Alachua	43888	11/05/2024	2024 General Election	61	Millhopper Branch Library	2821	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1087
+ALA	Alachua	43888	11/05/2024	2024 General Election	62	Santa Fe College NW Campus	2139	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	804
+ALA	Alachua	43888	11/05/2024	2024 General Election	63	Turkey Creek Clubhouse	2551	0	0	0	Sheriff	 	335000	Emery Gainey	REP	100409467	86618	1353
+ALA	Alachua	43888	11/05/2024	2024 General Election	01	First Baptist Church of Waldo	1324	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	294
+ALA	Alachua	43888	11/05/2024	2024 General Election	02	LaCrosse Town Hall	2276	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	588
+ALA	Alachua	43888	11/05/2024	2024 General Election	03	Legacy Park Multipurpose Center	4031	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1113
+ALA	Alachua	43888	11/05/2024	2024 General Election	04	Alachua County Agriculture and Equestrian Center	3473	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	855
+ALA	Alachua	43888	11/05/2024	2024 General Election	05	First Lutheran Church	3221	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1789
+ALA	Alachua	43888	11/05/2024	2024 General Election	06	Mentholee Norfleet Municipal Building	3418	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1040
+ALA	Alachua	43888	11/05/2024	2024 General Election	07	Ignite Life Center	1953	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1020
+ALA	Alachua	43888	11/05/2024	2024 General Election	08	Hawthorne Community Center	1905	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	565
+ALA	Alachua	43888	11/05/2024	2024 General Election	09	Island Grove Baptist Church	526	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	94
+ALA	Alachua	43888	11/05/2024	2024 General Election	10	Micanopy Town Hall	1530	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	508
+ALA	Alachua	43888	11/05/2024	2024 General Election	11	Archer Community Center	3054	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1046
+ALA	Alachua	43888	11/05/2024	2024 General Election	12	Partnership Branch Library	1126	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	533
+ALA	Alachua	43888	11/05/2024	2024 General Election	13	Mt. Carmel Baptist Church	2113	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1035
+ALA	Alachua	43888	11/05/2024	2024 General Election	14	Melrose United Methodist Church	1243	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	270
+ALA	Alachua	43888	11/05/2024	2024 General Election	15	Windsor Baptist Church	829	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	193
+ALA	Alachua	43888	11/05/2024	2024 General Election	16	Best Western Gateway Grand Hotel	3763	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1224
+ALA	Alachua	43888	11/05/2024	2024 General Election	17	Unitarian Universalist Fellowship	2112	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	899
+ALA	Alachua	43888	11/05/2024	2024 General Election	18	Gainesville Shrine Club	2899	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1048
+ALA	Alachua	43888	11/05/2024	2024 General Election	19	Springhill Baptist Church	1482	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	703
+ALA	Alachua	43888	11/05/2024	2024 General Election	20	High Springs Civic Center	3115	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	662
+ALA	Alachua	43888	11/05/2024	2024 General Election	21	North Central Florida YMCA	3560	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1476
+ALA	Alachua	43888	11/05/2024	2024 General Election	22	Santa Fe College NW Campus	2749	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1109
+ALA	Alachua	43888	11/05/2024	2024 General Election	23	Harn Museum of Art	2243	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1069
+ALA	Alachua	43888	11/05/2024	2024 General Election	24	Millhopper Branch Library	2890	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1283
+ALA	Alachua	43888	11/05/2024	2024 General Election	25	Santa Fe College Blount Center	1679	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	835
+ALA	Alachua	43888	11/05/2024	2024 General Election	26	Westside Recreation Center	1375	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	662
+ALA	Alachua	43888	11/05/2024	2024 General Election	27	The Thomas Center	3143	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1719
+ALA	Alachua	43888	11/05/2024	2024 General Election	28	McPherson Recreation Center	2516	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1304
+ALA	Alachua	43888	11/05/2024	2024 General Election	29	Haile Meeting Hall	2762	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	904
+ALA	Alachua	43888	11/05/2024	2024 General Election	30	Greater Bethel A.M.E. Church	2369	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1192
+ALA	Alachua	43888	11/05/2024	2024 General Election	31	J. Wayne Reitz Union	2092	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1448
+ALA	Alachua	43888	11/05/2024	2024 General Election	32	Westside Recreation Center	2848	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1420
+ALA	Alachua	43888	11/05/2024	2024 General Election	33	Ironwood Golf Course	2343	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1107
+ALA	Alachua	43888	11/05/2024	2024 General Election	34	Fairbanks Baptist Church	1250	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	304
+ALA	Alachua	43888	11/05/2024	2024 General Election	35	Southwest United Methodist Church	1722	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	659
+ALA	Alachua	43888	11/05/2024	2024 General Election	36	Hilton UF Conference Center	2847	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1082
+ALA	Alachua	43888	11/05/2024	2024 General Election	37	Trinity United Methodist Church	4502	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1810
+ALA	Alachua	43888	11/05/2024	2024 General Election	38	Senior Recreation Center	4966	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1893
+ALA	Alachua	43888	11/05/2024	2024 General Election	39	Doyle Conner Building	2231	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1060
+ALA	Alachua	43888	11/05/2024	2024 General Election	40	Comfort Suites	2034	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	848
+ALA	Alachua	43888	11/05/2024	2024 General Election	41	St. Josephs Episcopal Church	3281	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1015
+ALA	Alachua	43888	11/05/2024	2024 General Election	42	Tower Road Branch Library	2765	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	977
+ALA	Alachua	43888	11/05/2024	2024 General Election	43	Grace United Methodist Church	1912	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	638
+ALA	Alachua	43888	11/05/2024	2024 General Election	44	Phillips Center for the Performing Arts	2659	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1240
+ALA	Alachua	43888	11/05/2024	2024 General Election	45	Faith Presbyterian Church	1261	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	496
+ALA	Alachua	43888	11/05/2024	2024 General Election	46	Westside Baptist Church	4322	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1489
+ALA	Alachua	43888	11/05/2024	2024 General Election	47	The Family Church	3268	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1099
+ALA	Alachua	43888	11/05/2024	2024 General Election	48	Freedom Community Center at Kanapaha Park	5761	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	2146
+ALA	Alachua	43888	11/05/2024	2024 General Election	49	Abundant Grace Community Church	2491	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	773
+ALA	Alachua	43888	11/05/2024	2024 General Election	50	Westminster Presbyterian Church	2220	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1023
+ALA	Alachua	43888	11/05/2024	2024 General Election	51	Faith Presbyterian Church	3044	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1227
+ALA	Alachua	43888	11/05/2024	2024 General Election	52	Destiny Community Church	2365	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	470
+ALA	Alachua	43888	11/05/2024	2024 General Election	53	Hathcock Community Center	2798	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	950
+ALA	Alachua	43888	11/05/2024	2024 General Election	54	Fairfield Inn and Suites Gainesville I-75	2910	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1270
+ALA	Alachua	43888	11/05/2024	2024 General Election	55	North Central Florida YMCA	1113	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	542
+ALA	Alachua	43888	11/05/2024	2024 General Election	56	Covenant Presbyterian Church	3192	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1047
+ALA	Alachua	43888	11/05/2024	2024 General Election	57	Elks Lodge #990	2187	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	942
+ALA	Alachua	43888	11/05/2024	2024 General Election	58	Kanapaha Presbyterian Church	3980	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1407
+ALA	Alachua	43888	11/05/2024	2024 General Election	59	Days Inn	3072	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1720
+ALA	Alachua	43888	11/05/2024	2024 General Election	60	Douglass Center at Catherine Taylor Park	3743	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	858
+ALA	Alachua	43888	11/05/2024	2024 General Election	61	Millhopper Branch Library	2821	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	1179
+ALA	Alachua	43888	11/05/2024	2024 General Election	62	Santa Fe College NW Campus	2139	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	866
+ALA	Alachua	43888	11/05/2024	2024 General Election	63	Turkey Creek Clubhouse	2551	0	0	0	Sheriff	 	335000	Chad Scott	DEM	100422486	86929	733
+ALA	Alachua	43888	11/05/2024	2024 General Election	01	First Baptist Church of Waldo	1324	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	55
+ALA	Alachua	43888	11/05/2024	2024 General Election	02	LaCrosse Town Hall	2276	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	72
+ALA	Alachua	43888	11/05/2024	2024 General Election	03	Legacy Park Multipurpose Center	4031	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	178
+ALA	Alachua	43888	11/05/2024	2024 General Election	04	Alachua County Agriculture and Equestrian Center	3473	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	116
+ALA	Alachua	43888	11/05/2024	2024 General Election	05	First Lutheran Church	3221	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	243
+ALA	Alachua	43888	11/05/2024	2024 General Election	06	Mentholee Norfleet Municipal Building	3418	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	101
+ALA	Alachua	43888	11/05/2024	2024 General Election	07	Ignite Life Center	1953	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	174
+ALA	Alachua	43888	11/05/2024	2024 General Election	08	Hawthorne Community Center	1905	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	91
+ALA	Alachua	43888	11/05/2024	2024 General Election	09	Island Grove Baptist Church	526	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	11
+ALA	Alachua	43888	11/05/2024	2024 General Election	10	Micanopy Town Hall	1530	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	66
+ALA	Alachua	43888	11/05/2024	2024 General Election	11	Archer Community Center	3054	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	90
+ALA	Alachua	43888	11/05/2024	2024 General Election	12	Partnership Branch Library	1126	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	97
+ALA	Alachua	43888	11/05/2024	2024 General Election	13	Mt. Carmel Baptist Church	2113	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	175
+ALA	Alachua	43888	11/05/2024	2024 General Election	14	Melrose United Methodist Church	1243	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	42
+ALA	Alachua	43888	11/05/2024	2024 General Election	15	Windsor Baptist Church	829	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	35
+ALA	Alachua	43888	11/05/2024	2024 General Election	16	Best Western Gateway Grand Hotel	3763	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	164
+ALA	Alachua	43888	11/05/2024	2024 General Election	17	Unitarian Universalist Fellowship	2112	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	97
+ALA	Alachua	43888	11/05/2024	2024 General Election	18	Gainesville Shrine Club	2899	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	114
+ALA	Alachua	43888	11/05/2024	2024 General Election	19	Springhill Baptist Church	1482	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	136
+ALA	Alachua	43888	11/05/2024	2024 General Election	20	High Springs Civic Center	3115	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	107
+ALA	Alachua	43888	11/05/2024	2024 General Election	21	North Central Florida YMCA	3560	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	207
+ALA	Alachua	43888	11/05/2024	2024 General Election	22	Santa Fe College NW Campus	2749	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	111
+ALA	Alachua	43888	11/05/2024	2024 General Election	23	Harn Museum of Art	2243	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	182
+ALA	Alachua	43888	11/05/2024	2024 General Election	24	Millhopper Branch Library	2890	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	134
+ALA	Alachua	43888	11/05/2024	2024 General Election	25	Santa Fe College Blount Center	1679	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	139
+ALA	Alachua	43888	11/05/2024	2024 General Election	26	Westside Recreation Center	1375	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	63
+ALA	Alachua	43888	11/05/2024	2024 General Election	27	The Thomas Center	3143	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	259
+ALA	Alachua	43888	11/05/2024	2024 General Election	28	McPherson Recreation Center	2516	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	168
+ALA	Alachua	43888	11/05/2024	2024 General Election	29	Haile Meeting Hall	2762	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	88
+ALA	Alachua	43888	11/05/2024	2024 General Election	30	Greater Bethel A.M.E. Church	2369	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	170
+ALA	Alachua	43888	11/05/2024	2024 General Election	31	J. Wayne Reitz Union	2092	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	199
+ALA	Alachua	43888	11/05/2024	2024 General Election	32	Westside Recreation Center	2848	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	196
+ALA	Alachua	43888	11/05/2024	2024 General Election	33	Ironwood Golf Course	2343	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	158
+ALA	Alachua	43888	11/05/2024	2024 General Election	34	Fairbanks Baptist Church	1250	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	78
+ALA	Alachua	43888	11/05/2024	2024 General Election	35	Southwest United Methodist Church	1722	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	96
+ALA	Alachua	43888	11/05/2024	2024 General Election	36	Hilton UF Conference Center	2847	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	231
+ALA	Alachua	43888	11/05/2024	2024 General Election	37	Trinity United Methodist Church	4502	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	228
+ALA	Alachua	43888	11/05/2024	2024 General Election	38	Senior Recreation Center	4966	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	270
+ALA	Alachua	43888	11/05/2024	2024 General Election	39	Doyle Conner Building	2231	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	171
+ALA	Alachua	43888	11/05/2024	2024 General Election	40	Comfort Suites	2034	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	170
+ALA	Alachua	43888	11/05/2024	2024 General Election	41	St. Josephs Episcopal Church	3281	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	83
+ALA	Alachua	43888	11/05/2024	2024 General Election	42	Tower Road Branch Library	2765	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	87
+ALA	Alachua	43888	11/05/2024	2024 General Election	43	Grace United Methodist Church	1912	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	133
+ALA	Alachua	43888	11/05/2024	2024 General Election	44	Phillips Center for the Performing Arts	2659	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	210
+ALA	Alachua	43888	11/05/2024	2024 General Election	45	Faith Presbyterian Church	1261	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	61
+ALA	Alachua	43888	11/05/2024	2024 General Election	46	Westside Baptist Church	4322	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	160
+ALA	Alachua	43888	11/05/2024	2024 General Election	47	The Family Church	3268	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	88
+ALA	Alachua	43888	11/05/2024	2024 General Election	48	Freedom Community Center at Kanapaha Park	5761	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	349
+ALA	Alachua	43888	11/05/2024	2024 General Election	49	Abundant Grace Community Church	2491	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	135
+ALA	Alachua	43888	11/05/2024	2024 General Election	50	Westminster Presbyterian Church	2220	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	72
+ALA	Alachua	43888	11/05/2024	2024 General Election	51	Faith Presbyterian Church	3044	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	107
+ALA	Alachua	43888	11/05/2024	2024 General Election	52	Destiny Community Church	2365	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	72
+ALA	Alachua	43888	11/05/2024	2024 General Election	53	Hathcock Community Center	2798	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	109
+ALA	Alachua	43888	11/05/2024	2024 General Election	54	Fairfield Inn and Suites Gainesville I-75	2910	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	206
+ALA	Alachua	43888	11/05/2024	2024 General Election	55	North Central Florida YMCA	1113	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	65
+ALA	Alachua	43888	11/05/2024	2024 General Election	56	Covenant Presbyterian Church	3192	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	108
+ALA	Alachua	43888	11/05/2024	2024 General Election	57	Elks Lodge #990	2187	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	124
+ALA	Alachua	43888	11/05/2024	2024 General Election	58	Kanapaha Presbyterian Church	3980	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	154
+ALA	Alachua	43888	11/05/2024	2024 General Election	59	Days Inn	3072	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	244
+ALA	Alachua	43888	11/05/2024	2024 General Election	60	Douglass Center at Catherine Taylor Park	3743	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	120
+ALA	Alachua	43888	11/05/2024	2024 General Election	61	Millhopper Branch Library	2821	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	127
+ALA	Alachua	43888	11/05/2024	2024 General Election	62	Santa Fe College NW Campus	2139	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	116
+ALA	Alachua	43888	11/05/2024	2024 General Election	63	Turkey Creek Clubhouse	2551	0	0	0	Sheriff	 	335000	Pamela Marshall-Koons	NPA	121866271	86928	103

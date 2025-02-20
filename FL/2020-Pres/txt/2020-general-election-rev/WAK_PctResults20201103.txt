@@ -1,0 +1,1032 @@
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1593
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	3390
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	777
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	168
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	245
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1032
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2166
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	546
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	371
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	303
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	950
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1333
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	699
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	1482
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	351
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	20
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	89
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	255
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	851
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	233
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	90
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	103
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	537
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	641
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	21
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	37
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	17
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	23
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	20
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	6
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	5
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	14
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	10
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	9
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1751
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	3870
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	870
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	163
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	265
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1117
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	2470
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	598
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	381
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	327
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1120
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1582
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	164
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	243
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	51
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	8
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	24
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	51
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	169
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	50
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	17
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	19
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	136
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	414
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	834
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	221
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	49
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	148
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	423
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	143
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	67
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	69
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	277
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	295
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	1589
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	3472
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	784
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	166
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	244
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	1054
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	2226
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	546
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	367
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	302
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	972
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	1362
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	686
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	1354
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	336
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	20
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	86
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	237
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	779
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	229
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	87
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	98
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	501
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	614
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	53
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	121
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	8
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	25
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	57
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	16
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	15
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	33
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	37
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	1602
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	3475
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	779
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	163
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	248
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	1035
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	2224
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	562
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	361
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	316
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	976
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	1348
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	623
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	1245
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	300
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	14
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	77
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	226
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	728
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	199
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	81
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	78
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	466
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	573
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	104
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	227
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	63
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	11
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	13
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	55
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	30
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	23
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	21
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	65
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	92
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1333
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	3059
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	669
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	108
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	195
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	798
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1869
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	457
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	279
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	244
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	903
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1218
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	690
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1289
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	334
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	53
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	90
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	366
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	849
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	224
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	143
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	89
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	457
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	600
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	306
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	599
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	139
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	27
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	53
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	152
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	344
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	43
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	82
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	147
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	195
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1425
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	3160
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	707
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	104
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	200
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	823
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1948
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	506
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	291
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	238
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	978
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1320
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	579
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	1143
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	292
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	59
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	80
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	340
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	757
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	179
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	130
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	88
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	376
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	489
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	324
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	640
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	143
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	25
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	58
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	153
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	357
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	106
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	44
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	89
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	153
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	204
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1358
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	3055
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	627
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	109
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	202
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	779
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1881
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	470
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	276
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	235
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	952
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1251
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	629
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	1222
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	363
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	53
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	75
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	372
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	814
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	209
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	137
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	88
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	392
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	546
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	3
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	342
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	667
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	152
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	26
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	61
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	164
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	366
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	112
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	52
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	92
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	163
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	216
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1363
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	3109
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	670
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	108
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	202
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	799
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1884
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	457
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	276
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	231
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	907
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1246
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	632
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	1175
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	316
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	54
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	75
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	352
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	811
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	216
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	133
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	94
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	434
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	552
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	334
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	663
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	155
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	26
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	61
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	165
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	367
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	118
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	56
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	90
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	166
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	215
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1299
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	2988
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	644
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	112
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	184
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	792
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1826
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	460
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	258
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	227
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	898
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1225
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	686
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1285
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	344
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	50
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	93
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	358
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	851
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	211
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	152
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	91
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	444
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	574
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	344
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	673
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	154
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	26
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	61
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	166
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	383
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	120
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	55
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	97
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	165
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	214
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1355
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	3075
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	665
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	105
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	194
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	817
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1885
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	493
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	271
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	223
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	961
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1256
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	631
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	1208
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	322
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	57
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	85
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	338
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	794
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	178
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	139
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	97
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	380
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	536
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	343
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	663
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	154
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	26
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	161
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	383
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	120
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	55
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	95
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	165
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	221
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1337
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	3042
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	665
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	198
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	797
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1835
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	455
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	273
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	223
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	909
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1221
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	643
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	1222
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	321
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	52
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	78
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	351
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	842
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	214
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	136
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	95
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	434
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	573
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	348
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	683
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	156
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	26
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	62
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	167
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	385
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	122
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	56
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	97
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	164
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	219
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	885
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	1887
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	390
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	54
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	113
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	437
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	1110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	270
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	181
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	583
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	870
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	1059
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	2376
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	582
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	101
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	158
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	672
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	1529
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	390
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	226
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	215
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	711
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	895
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	384
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	684
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	170
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	33
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	67
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	207
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	423
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	131
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	58
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	90
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	213
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	248
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	1212
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	2385
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	592
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	196
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	670
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	1460
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	392
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	291
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	179
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	667
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 3	680003	Michael S Kemp	NOP	108817315	75879	1012
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	939
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	2291
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	483
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	63
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	109
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	591
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	1466
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	349
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	150
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	206
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	740
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 3	680003	Valerie M Russell	NOP	104794572	75876	905
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 3	680003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	178
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	271
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	66
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	15
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	33
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	55
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	136
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	50
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	24
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	30
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	100
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 3	680003	UnderVotes	 	0	902	96
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	917
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	2078
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	563
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	83
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	135
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	661
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	1267
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	315
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	232
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	193
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	549
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 5	680005	Greg F Diehl	NOP	121091187	75881	768
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	1186
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	2499
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	507
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	85
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	174
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	575
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	1577
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	419
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	203
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	168
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	839
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 5	680005	Charles A Hess	NOP	108822286	75880	1110
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 5	680005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	226
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	370
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	72
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	20
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	29
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	80
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	218
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	57
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	30
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	53
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	119
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	County Commissioner	 District 5	680005	UnderVotes	 	0	902	135
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1788
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	3988
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	869
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	158
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	262
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1098
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2519
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	595
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	380
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	347
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1203
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1661
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	445
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	790
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	223
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	26
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	60
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	175
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	449
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	173
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	62
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	52
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	260
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	308
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	96
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	169
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	49
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	4
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	43
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	94
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	23
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	23
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	44
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	44
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	872
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1924
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	472
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	50
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	140
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	472
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1165
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	302
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	195
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	140
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	638
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	865
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1386
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2896
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	636
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	131
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	188
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	810
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1834
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	468
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	255
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	259
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	835
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1112
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	71
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	127
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	33
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	7
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	10
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	34
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	63
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	21
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	14
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	16
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	34
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	36
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1099
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	2506
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	529
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	71
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	153
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	668
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1547
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	354
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	227
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	193
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	778
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1087
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1074
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	2108
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	533
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	103
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	163
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	566
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1340
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	395
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	201
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	194
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	633
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	833
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	155
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	332
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	80
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	14
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	22
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	82
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	174
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	42
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	37
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	28
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	96
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	93
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	973
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	2249
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	508
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	80
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	122
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	643
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1385
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	297
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	219
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	172
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	705
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	938
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1167
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	2311
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	539
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	90
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	192
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	568
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1477
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	442
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	200
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	205
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	686
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	946
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	188
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	387
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	95
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	18
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	24
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	105
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	200
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	52
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	46
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	38
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	116
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	128
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1453
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	3245
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	662
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	114
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	220
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	807
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1979
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	491
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	287
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	279
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	995
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1352
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	663
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	1262
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	373
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	59
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	84
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	388
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	825
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	244
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	129
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	89
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	391
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	515
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	213
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	438
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	107
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	15
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	34
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	120
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	257
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	55
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	49
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	47
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	121
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	146
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1901
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	4125
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	884
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	143
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	275
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1094
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2551
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	642
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	378
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	343
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1235
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1746
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	279
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	535
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	187
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	36
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	43
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	151
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	355
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	115
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	52
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	47
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	184
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	180
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+WAK	Wakulla	10866	11/03/2020	2020 General Election	1	01 Wakulla Station	2863	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	149
+WAK	Wakulla	10866	11/03/2020	2020 General Election	2	02 Crawfordville	6098	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	287
+WAK	Wakulla	10866	11/03/2020	2020 General Election	3	03 Sopchoppy	1348	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	71
+WAK	Wakulla	10866	11/03/2020	2020 General Election	4	04 Smith Creek	210	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	9
+WAK	Wakulla	10866	11/03/2020	2020 General Election	5	05 St. Marks	398	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	20
+WAK	Wakulla	10866	11/03/2020	2020 General Election	6	06 Medart	1671	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	71
+WAK	Wakulla	10866	11/03/2020	2020 General Election	7	07 Ivan	3700	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	156
+WAK	Wakulla	10866	11/03/2020	2020 General Election	8	08 Shell Point	992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	34
+WAK	Wakulla	10866	11/03/2020	2020 General Election	9	09 Panacea	639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	35
+WAK	Wakulla	10866	11/03/2020	2020 General Election	10	10 Ochlockonee Bay	513	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	25
+WAK	Wakulla	10866	11/03/2020	2020 General Election	11	11 Bethel	1830	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	88
+WAK	Wakulla	10866	11/03/2020	2020 General Election	12	12 Shadeville	2648	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	87

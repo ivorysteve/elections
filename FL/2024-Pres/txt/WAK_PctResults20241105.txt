@@ -1,0 +1,888 @@
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1693
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	3921
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	892
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	178
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	229
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1166
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	2312
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	521
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	367
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	318
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1166
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1483
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	663
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	1692
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	335
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	15
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	76
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	286
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	834
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	188
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	75
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	110
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	558
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	609
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	8
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	30
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	9
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	15
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	17
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	8
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	10
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	7
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	17
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	15
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	8
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	10
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	7
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	22
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	13
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	9
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1667
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	3863
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	880
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	178
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	222
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1125
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	2296
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	515
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	342
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	327
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1163
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1435
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	655
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	1613
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	308
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	15
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	79
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	292
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	809
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	184
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	86
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	97
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	532
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	595
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	49
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	9
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	9
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	11
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	17
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	18
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	23
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	8
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	16
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	13
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	16
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	45
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	16
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	23
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	17
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	24
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	12
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	27
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	112
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	27
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	28
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	48
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	34
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	39
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1723
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	4043
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	905
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	180
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	228
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1171
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	2387
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	523
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	354
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	337
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1204
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	1505
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	621
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	1544
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	308
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	15
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	75
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	267
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	756
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	177
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	79
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	91
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	500
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	565
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	45
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	131
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	28
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	41
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	66
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	13
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	48
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	57
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	1730
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	4018
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	909
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	181
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	235
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	1165
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	2392
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	524
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	357
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	342
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	1195
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	1475
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	600
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	1552
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	306
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	14
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	67
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	274
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	738
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	174
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	77
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	81
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	509
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	595
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	58
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	147
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	27
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	7
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	40
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	78
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	19
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	12
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	10
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	48
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	56
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	1683
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	3963
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	887
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	180
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	234
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	1145
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	2344
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	522
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	346
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	332
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	1172
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	1464
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	642
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	1576
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	316
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	15
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	69
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	283
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	775
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	168
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	86
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	93
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	517
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	591
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	64
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	178
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	39
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	50
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	90
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	27
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	14
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	8
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	63
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	72
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1317
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	3301
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	677
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	108
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	167
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	855
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1905
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	371
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	252
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	246
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1033
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1243
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	811
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	1799
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	430
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	62
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	102
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	440
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	976
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	257
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	141
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	136
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	543
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	687
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	260
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	616
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	134
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	27
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	40
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	184
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	326
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	89
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	52
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	51
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	176
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	197
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1326
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	3335
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	673
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	114
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	175
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	862
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1887
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	376
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	250
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	254
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1031
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1255
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	789
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	1756
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	427
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	56
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	94
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	425
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	996
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	245
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	142
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	125
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	532
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	677
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	272
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	627
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	141
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	27
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	40
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	191
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	326
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	96
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	54
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	54
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	189
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	195
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1392
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	3412
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	693
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	114
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	182
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	891
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1948
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	378
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	262
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	266
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1082
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1322
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	708
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	1624
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	400
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	54
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	85
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	395
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	918
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	241
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	127
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	108
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	470
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	603
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	287
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	682
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	148
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	29
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	42
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	193
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	342
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	97
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	200
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	202
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1357
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	3312
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	705
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	104
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	181
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	874
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1913
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	361
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	258
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	256
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1041
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1262
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	740
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	1689
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	380
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	62
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	83
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	408
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	952
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	254
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	130
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	117
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	502
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	656
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	292
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	717
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	156
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	31
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	45
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	197
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	344
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	102
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	58
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	60
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	209
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	208
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1366
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	3344
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	684
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	106
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	172
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	867
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1908
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	368
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	252
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	260
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1059
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1271
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	739
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	1691
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	410
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	61
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	95
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	415
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	953
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	248
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	137
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	114
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	493
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	651
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	284
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	683
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	148
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	30
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	42
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	197
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	348
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	101
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	57
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	59
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	200
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	205
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1133
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	3004
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	645
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	111
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	145
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	778
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1634
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	336
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	258
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	211
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	899
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1146
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	1138
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	2381
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	538
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	70
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	145
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	611
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	1401
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	339
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	162
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	201
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	759
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	871
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	118
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	330
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	59
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	16
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	19
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	90
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	174
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	42
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	26
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	21
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	94
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	110
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1627
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	4125
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	866
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	148
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	205
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1061
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	2317
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	457
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	315
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	296
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1251
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1538
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	705
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	1411
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	343
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	43
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	94
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	370
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	796
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	232
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	119
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	129
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	436
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	531
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	56
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	181
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	33
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	10
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	47
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	96
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	28
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	12
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	8
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	65
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	58
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	1254
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	3026
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	621
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	65
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	166
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	711
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	1657
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	358
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	235
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	206
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	956
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	1221
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1112
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	2618
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	603
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	126
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	139
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	748
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1519
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	339
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	202
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	223
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	781
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	878
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	23
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	70
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	18
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	20
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	33
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	20
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	9
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	4
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	15
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	28
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	1019
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	2459
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	472
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	42
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	130
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	528
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	1320
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	280
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	163
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	178
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	766
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	901
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1329
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	3135
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	745
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	149
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	172
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	921
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1831
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	410
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	267
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	247
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	954
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1187
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	5
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	40
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	119
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	24
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	6
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	30
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	56
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	27
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	16
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	7
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	32
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	38
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1253
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	3285
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	647
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	98
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	168
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	777
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1772
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	358
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	234
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	247
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	982
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1188
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	948
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	1914
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	469
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	81
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	124
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	572
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	1170
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	284
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	168
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	157
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	632
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	753
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	187
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	518
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	126
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	18
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	17
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	130
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	266
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	75
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	43
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	29
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	136
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	185
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1005
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	2557
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	544
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	88
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	129
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	633
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1419
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	292
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	192
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	195
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	724
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	947
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	1188
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	2655
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	607
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	87
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	155
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	694
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	1526
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	357
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	208
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	212
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	872
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	995
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	3
+WAK	Wakulla	43888	11/05/2024	2024 General Election	1	01 Wakulla Station	2833	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	195
+WAK	Wakulla	43888	11/05/2024	2024 General Election	2	02 Crawfordville	6785	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	506
+WAK	Wakulla	43888	11/05/2024	2024 General Election	3	03 Sopchoppy	1479	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	91
+WAK	Wakulla	43888	11/05/2024	2024 General Election	4	04  Smith Creek	225	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	21
+WAK	Wakulla	43888	11/05/2024	2024 General Election	5	05 St. Marks	384	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	25
+WAK	Wakulla	43888	11/05/2024	2024 General Election	6	06 Medart	1778	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	150
+WAK	Wakulla	43888	11/05/2024	2024 General Election	7	07 Ivan	3674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	263
+WAK	Wakulla	43888	11/05/2024	2024 General Election	8	08 Shell Point	851	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	68
+WAK	Wakulla	43888	11/05/2024	2024 General Election	9	09 Panacea	541	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	46
+WAK	Wakulla	43888	11/05/2024	2024 General Election	10	10 Ochlockonee Bay	511	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	26
+WAK	Wakulla	43888	11/05/2024	2024 General Election	11	11 Bethel	2031	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	156
+WAK	Wakulla	43888	11/05/2024	2024 General Election	12	12 Shadeville	2620	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	182

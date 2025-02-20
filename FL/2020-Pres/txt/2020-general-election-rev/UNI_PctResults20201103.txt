@@ -1,0 +1,624 @@
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	863
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	747
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1161
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1062
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	336
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	219
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	487
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	258
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	151
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	129
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	204
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	238
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	115
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	25
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	165
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	26
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	8
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	12
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	9
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	823
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	724
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	1121
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	1041
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	324
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	207
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	484
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	74936	238
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	184
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	138
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	232
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	250
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	116
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	30
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	163
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Representative in Congress	 District 3	140030	Adam Christensen	DEM	124051128	74844	38
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	23
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	24
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	36
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	31
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	17
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	8
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	16
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	12
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	838
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	726
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1151
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1048
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	332
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	204
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	483
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	243
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	159
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	129
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	191
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	227
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	106
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	24
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	156
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	30
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	33
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	32
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	47
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	47
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	19
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	17
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	24
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	15
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	819
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	693
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	1115
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	1015
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	304
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	201
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	457
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Representative	 District 19	260190	Bobby Payne	REP	107495730	73960	233
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	178
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	159
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	221
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	254
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	126
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	32
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	180
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Representative	 District 19	260190	Kimberly Dugger	DEM	100752755	76961	37
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Representative	 District 19	260190	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	33
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	34
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	53
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	53
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	27
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	12
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	26
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	State Representative	 District 19	260190	UnderVotes	 	0	902	18
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	733
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	525
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	936
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	938
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	295
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	163
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	445
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Superintendent of Schools	 	360000	Mike "Mr Rip" Ripplinger	REP	108393987	75651	218
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	280
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	348
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	420
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	339
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	150
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	76
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	206
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Superintendent of Schools	 	360000	David W Harris	NPA	108396122	75650	59
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	17
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	33
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	45
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	6
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	10
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	600
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	497
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	824
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	797
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	271
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	137
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	381
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	146
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	323
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	311
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	408
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	384
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	142
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	88
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	223
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	105
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	105
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	79
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	157
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	141
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	44
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	20
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	59
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	37
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	608
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	501
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	817
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	792
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	271
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	127
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	393
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	153
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	308
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	298
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	405
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	386
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	140
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	97
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	208
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	95
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	114
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	166
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	144
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	46
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	20
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	62
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	598
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	517
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	822
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	808
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	266
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	134
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	381
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	148
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	312
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	278
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	389
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	361
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	138
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	91
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	218
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	97
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	120
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	92
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	177
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	152
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	53
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	20
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	64
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	43
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	605
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	512
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	827
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	807
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	267
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	137
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	394
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	147
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	308
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	282
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	387
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	366
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	140
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	88
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	205
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	101
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	2
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	117
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	93
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	173
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	149
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	50
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	20
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	64
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	40
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	598
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	510
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	814
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	791
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	264
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	133
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	379
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	145
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	315
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	292
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	399
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	377
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	141
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	91
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	224
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	101
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	117
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	85
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	175
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	153
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	52
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	21
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	59
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	42
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	606
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	510
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	822
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	804
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	261
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	134
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	397
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	154
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	307
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	292
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	393
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	366
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	144
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	90
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	207
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	96
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	117
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	85
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	174
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	152
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	52
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	21
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	38
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	604
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	519
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	835
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	797
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	278
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	130
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	385
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	150
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	307
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	284
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	381
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	371
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	129
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	93
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	220
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	98
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	119
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	84
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	173
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	154
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	50
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	22
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	57
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	40
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	932
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	784
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1230
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1190
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	394
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	217
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	579
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	246
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	80
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	77
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	121
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	102
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	49
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	21
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	65
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	29
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	18
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	25
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	38
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	30
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	14
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	7
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	19
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	13
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	321
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	292
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	456
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	424
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	205
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	88
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	277
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	84
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	693
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	573
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	901
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	869
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	233
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	150
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	376
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	194
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	16
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	22
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	31
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	28
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	19
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	7
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	9
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	10
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	477
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	471
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	694
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	668
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	228
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	145
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	345
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	134
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	493
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	361
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	616
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	591
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	195
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	87
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	286
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	133
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	59
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	54
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	77
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	63
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	33
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	13
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	31
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	21
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	486
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	435
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	723
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	641
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	244
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	118
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	313
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	142
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	473
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	390
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	565
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	590
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	174
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	113
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	307
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	121
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	71
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	62
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	100
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	91
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	38
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	14
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	43
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	25
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	675
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	565
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	876
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	819
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	289
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	154
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	428
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	170
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	276
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	259
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	409
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	403
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	129
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	70
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	189
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	96
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	78
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	62
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	103
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	100
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	39
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	21
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	46
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	22
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	863
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	755
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1167
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1125
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	365
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	202
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	537
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	236
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	119
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	85
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	146
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	130
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	66
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	30
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	90
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	32
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+UNI	Union	10866	11/03/2020	2020 General Election	1A & 1B	1A & 1B	1256	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	48
+UNI	Union	10866	11/03/2020	2020 General Election	2A & 2B	2A & 2B	1142	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	47
+UNI	Union	10866	11/03/2020	2020 General Election	3A & 3B	3A & 3B	1715	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	76
+UNI	Union	10866	11/03/2020	2020 General Election	4B	4B	1579	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	67
+UNI	Union	10866	11/03/2020	2020 General Election	5A & 5C	5A & 5C	586	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	26
+UNI	Union	10866	11/03/2020	2020 General Election	3C	3C	304	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	13
+UNI	Union	10866	11/03/2020	2020 General Election	4A & 4C	4A & 4C	796	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	36
+UNI	Union	10866	11/03/2020	2020 General Election	5B	5B	349	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	20

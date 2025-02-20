@@ -1,0 +1,708 @@
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	598
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1759
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1683
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	62
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	245
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	792
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1297
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	372
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	604
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	494
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	1689
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	835
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	640
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	81
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	75
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	388
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	349
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	111
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	452
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	309
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	13
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	12
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	8
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	5
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	4
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	8
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	544
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	1673
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	1599
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	61
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	229
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	731
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	1245
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	351
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	566
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	State Representative	 District 80	260800	Lauren Uhlich Melo	REP	103128130	74951	434
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	1675
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	849
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	656
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	83
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	79
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	380
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	334
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	120
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	459
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	State Representative	 District 80	260800	Laura Novosad	DEM	103022514	75996	315
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	104
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	105
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	96
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	14
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	84
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	79
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	21
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	46
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	69
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	489
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	1796
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	1740
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	50
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	246
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	690
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	1201
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	345
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	603
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Sheriff	 	335000	Steve Whidden	REP	104328476	75722	367
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	1599
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	389
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	348
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	61
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	40
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	302
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	284
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	80
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	283
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Sheriff	 	335000	Johnny Jackson	DEM	104331729	77647	189
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	193
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	405
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	232
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	32
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	34
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	172
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	154
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	63
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	166
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Sheriff	 	335000	Ricky Garcia	NPA	117505783	77738	227
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	43
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	37
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	31
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	31
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	18
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	21
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	34
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	688
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	1798
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	1693
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	66
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	242
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	830
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	1425
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	367
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	624
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Superintendent of Schools	 	360000	Michael Swindle	REP	104339346	75248	533
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	1572
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	736
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	569
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	76
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	71
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	319
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	213
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	107
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	412
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Superintendent of Schools	 	360000	Gwendolyn Patrick-Griffiths	DEM	104338183	77654	220
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	64
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	93
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	89
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	4
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	9
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	46
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	20
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	20
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	37
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	65
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	County Commissioner	 District 4	380040	Ramon Iglesias	REP	104336430	77677	1367
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	County Commissioner	 District 4	380040	Ramon Iglesias	REP	104336430	77677	613
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	County Commissioner	 District 4	380040	Ramon Iglesias	REP	104336430	77677	462
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	County Commissioner	 District 4	380040	Cynthia Santana De Las Salas	DEM	104327285	77684	241
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	County Commissioner	 District 4	380040	Cynthia Santana De Las Salas	DEM	104327285	77684	425
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	County Commissioner	 District 4	380040	Cynthia Santana De Las Salas	DEM	104327285	77684	309
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	49
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	35
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	47
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1357
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1812
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1621
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	81
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	213
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	821
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1079
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	333
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	731
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	558
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	749
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	552
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	481
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	51
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	71
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	246
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	356
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	112
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	253
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	158
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	217
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	262
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	249
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	14
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	38
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	128
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	222
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	49
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	88
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	101
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	1346
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	1807
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	1641
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	77
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	220
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	815
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	1097
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	335
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	737
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	549
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	760
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	566
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	458
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	57
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	59
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	247
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	340
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	108
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	243
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	164
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	218
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	255
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	250
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	12
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	43
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	132
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	221
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	51
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	92
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	105
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	1297
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	1762
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	1572
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	77
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	205
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	772
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	1003
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	319
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	709
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	524
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	807
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	605
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	508
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	54
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	73
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	282
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	426
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	121
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	272
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	183
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	220
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	261
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	269
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	15
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	44
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	139
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	229
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	54
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	92
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	111
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	1303
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	1812
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	1622
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	77
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	218
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	807
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	1066
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	323
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	722
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	518
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	806
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	555
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	473
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	54
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	62
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	256
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	366
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	118
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	255
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	189
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	213
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	261
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	256
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	15
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	42
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	132
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	225
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	53
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	96
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	111
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	1420
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	1849
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	1624
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	90
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	217
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	818
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	1062
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	332
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	730
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	537
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	645
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	486
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	426
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	38
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	57
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	226
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	344
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	100
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	219
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	162
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	259
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	293
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	300
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	18
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	48
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	151
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	252
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	61
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	123
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	119
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 1	781801	Julie Hollingsworth	NOP	111582187	76401	41
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 1	781801	Michael J. "Mike" Welch	NOP	111649946	74516	46
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 1	781801	Tyler Woodby	NOP	119941001	74802	11
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 1	781801	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 1	781801	UnderVotes	 	0	902	21
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	David Deetscreek	NOP	111489081	74979	35
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	Ren Marshall	NOP	128135560	76378	19
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	Kenneth K. Thompson	NOP	111530484	76135	40
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 3	781803	UnderVotes	 	0	902	25
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 2	822102	Luis Napoles	NOP	110238624	77710	54
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 2	822102	Luis Napoles	NOP	110238624	77710	343
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 2	822102	Daniel Santiago Jr	NOP	123657645	77712	52
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 2	822102	Daniel Santiago Jr	NOP	123657645	77712	375
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 2	822102	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 2	822102	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 2	822102	UnderVotes	 	0	902	11
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 2	822102	UnderVotes	 	0	902	100
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 4	822104	Rolando Gonzalez	NOP	109574068	77720	61
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 4	822104	Rolando Gonzalez	NOP	109574068	77720	474
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 4	822104	Denise Barreiro Miller	NOP	109412592	77716	43
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 4	822104	Denise Barreiro Miller	NOP	109412592	77716	280
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 4	822104	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 4	822104	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Central County Water Control District	 Seat 4	822104	UnderVotes	 	0	902	13
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Central County Water Control District	 Seat 4	822104	UnderVotes	 	0	902	64
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1741
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2190
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2011
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	116
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	262
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	998
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1439
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	413
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	883
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	643
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	417
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	341
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	244
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	25
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	46
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	120
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	153
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	56
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	145
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	88
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	165
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	95
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	93
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	5
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	14
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	77
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	65
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	25
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	45
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	86
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1666
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1277
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1011
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	93
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	122
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	601
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	572
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	212
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	571
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	456
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	512
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1269
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1265
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	47
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	185
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	523
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1027
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	256
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	465
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	273
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	143
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	82
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	72
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	6
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	14
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	70
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	58
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	26
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	37
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	89
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1484
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1486
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1218
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	103
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	145
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	687
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	762
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	271
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	647
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	484
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	659
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1004
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	994
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	36
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	161
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	406
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	803
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	189
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	346
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	228
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	179
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	137
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	138
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	16
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	101
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	91
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	33
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	80
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	106
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1350
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1473
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1287
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	87
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	187
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	650
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	923
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	245
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	598
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	441
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	758
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	985
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	891
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	49
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	110
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	428
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	613
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	210
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	382
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	267
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	216
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	170
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	172
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	10
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	24
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	117
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	121
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	39
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	92
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	110
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1469
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1868
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1607
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	102
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	224
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	789
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1113
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	331
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	731
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	532
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	646
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	577
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	566
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	33
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	78
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	291
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	408
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	121
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	249
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	180
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	208
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	182
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	178
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	11
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	20
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	114
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	134
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	42
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	91
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	105
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1839
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2301
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2014
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	131
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	270
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1020
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1413
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	434
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	902
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	673
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	310
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	203
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	205
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	7
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	38
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	88
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	152
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	29
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	95
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	48
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	3
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HEN	Hendry	10866	11/03/2020	2020 General Election	1	001	3469	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	172
+HEN	Hendry	10866	11/03/2020	2020 General Election	2	002	3952	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	124
+HEN	Hendry	10866	11/03/2020	2020 General Election	3	003	3377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	132
+HEN	Hendry	10866	11/03/2020	2020 General Election	4	004	266	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	8
+HEN	Hendry	10866	11/03/2020	2020 General Election	5	005	446	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	14
+HEN	Hendry	10866	11/03/2020	2020 General Election	6	006	1958	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	87
+HEN	Hendry	10866	11/03/2020	2020 General Election	7	007	2079	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	93
+HEN	Hendry	10866	11/03/2020	2020 General Election	8	008	675	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	31
+HEN	Hendry	10866	11/03/2020	2020 General Election	9	009	1564	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	76
+HEN	Hendry	10866	11/03/2020	2020 General Election	10	010	1336	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	97

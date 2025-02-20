@@ -1,0 +1,644 @@
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	245
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	307
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	397
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	859
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	170
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	448
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	419
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	970
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	157
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	583
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	300
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	320
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	39
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	162
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	213
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	189
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	11
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	228
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	277
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	367
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	808
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	164
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	411
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	408
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	916
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	164
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	614
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	312
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	356
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	48
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	188
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	222
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	229
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	16
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	16
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	23
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	41
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	18
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	14
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	28
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	248
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	328
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	390
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	881
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	171
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	439
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	425
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	944
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	134
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	558
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	292
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	287
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	38
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	158
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	202
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	193
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	26
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	20
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	20
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	37
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	4
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	20
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	17
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	36
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	247
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	334
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	394
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	872
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	169
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	445
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	420
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	73977	961
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	129
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	542
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	274
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	274
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	38
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	145
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	196
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Representative	 District 10	260100	Rock Aboujaoude Jr	DEM	122010956	76016	174
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	32
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	30
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	34
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	59
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	6
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	27
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	28
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	38
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	224
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	242
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	288
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	671
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	129
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	310
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	355
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Superintendent of Schools	 	360000	Lee Wetherington-Zamora	REP	104306405	75728	760
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	18
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	76
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	53
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	112
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	32
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	57
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	47
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Superintendent of Schools	 	360000	Doug Clayton	NPA	108360906	75994	92
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	84
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	371
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	171
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	151
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	19
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	94
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	132
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Superintendent of Schools	 	360000	Felecia Faye Jones Moss	NPA	100426175	75733	102
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	67
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	195
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	155
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	242
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	28
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	130
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	82
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Superintendent of Schools	 	360000	Philip H. Pinello	NPA	104304836	75729	178
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	15
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	23
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	35
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	29
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	5
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	27
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	28
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	40
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	County Commissioner	 District 5	380050	Richie McCoy	REP	104306101	75744	730
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	County Commissioner	 District 5	380050	William Mitchell	NPA	104303825	75741	442
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	32
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	221
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	499
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	365
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	653
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	127
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	342
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	393
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	705
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	130
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	324
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	257
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	395
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	63
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	227
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	171
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	358
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	57
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	83
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	80
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	157
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	23
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	49
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	80
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	110
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	232
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	547
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	399
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	666
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	125
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	320
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	398
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	677
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	117
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	276
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	220
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	374
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	64
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	241
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	163
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	382
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	84
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	83
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	165
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	24
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	56
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	83
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	114
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	223
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	497
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	368
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	673
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	128
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	346
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	390
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	703
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	117
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	309
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	240
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	356
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	61
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	209
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	158
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	344
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	67
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	100
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	94
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	175
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	24
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	63
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	96
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	126
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	222
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	516
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	393
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	678
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	126
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	344
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	399
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	716
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	125
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	299
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	224
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	359
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	63
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	215
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	156
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	334
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	61
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	92
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	168
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	24
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	59
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	89
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	122
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	218
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	493
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	366
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	651
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	121
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	338
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	388
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	689
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	126
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	320
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	246
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	377
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	69
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	220
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	161
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	361
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	94
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	90
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	174
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	23
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	60
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	95
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	122
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	228
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	520
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	384
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	659
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	122
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	339
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	393
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	699
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	116
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	292
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	231
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	380
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	67
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	220
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	161
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	353
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	64
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	94
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	87
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	166
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	24
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	58
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	90
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	120
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	229
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	506
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	387
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	665
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	129
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	339
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	399
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	709
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	119
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	311
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	231
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	373
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	62
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	222
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	154
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	341
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	60
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	90
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	84
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	167
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	22
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	57
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	91
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	123
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	350
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	711
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	577
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1048
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	178
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	532
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	547
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1042
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	34
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	154
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	94
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	114
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	27
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	69
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	67
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	104
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	24
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	42
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	31
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	42
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	8
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	17
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	30
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	27
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	216
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	585
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	361
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	489
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	84
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	241
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	314
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	397
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	168
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	278
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	301
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	680
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	119
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	359
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	298
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	748
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	24
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	43
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	39
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	36
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	9
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	17
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	32
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	28
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	248
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	518
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	349
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	600
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	107
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	269
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	351
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	551
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	128
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	308
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	297
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	513
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	94
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	302
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	236
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	549
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	3
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	32
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	81
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	56
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	90
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	12
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	44
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	57
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	73
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	245
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	492
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	370
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	620
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	99
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	337
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	320
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	634
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	118
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	315
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	261
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	485
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	102
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	226
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	252
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	452
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	45
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	100
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	71
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	100
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	12
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	55
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	72
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	86
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	281
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	616
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	476
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	799
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	135
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	411
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	412
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	814
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	92
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	202
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	168
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	306
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	67
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	156
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	171
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	282
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	35
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	88
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	57
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	100
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	11
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	51
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	61
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	77
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	345
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	714
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	574
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1017
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	186
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	510
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	535
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1019
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	37
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	106
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	81
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	115
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	18
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	65
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	61
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	92
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10866	11/03/2020	2020 General Election	1	1 - Jennings City Hall	605	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	26
+HAM	Hamilton	10866	11/03/2020	2020 General Election	2	2 - Jasper Courthouse	1350	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	87
+HAM	Hamilton	10866	11/03/2020	2020 General Election	3	3 - White Springs Library	954	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	47
+HAM	Hamilton	10866	11/03/2020	2020 General Election	4	4 - Jasper Civic Center	1639	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	73
+HAM	Hamilton	10866	11/03/2020	2020 General Election	5	5 - Bright Pond Fellowship	278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	9
+HAM	Hamilton	10866	11/03/2020	2020 General Election	6	6 - Genoa Vol. Fire Dept.	824	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	43
+HAM	Hamilton	10866	11/03/2020	2020 General Election	7	7 - Bellville Vol. Fire Dept. 	921	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	48
+HAM	Hamilton	10866	11/03/2020	2020 General Election	8	8 - Cross Roads	1527	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	62
