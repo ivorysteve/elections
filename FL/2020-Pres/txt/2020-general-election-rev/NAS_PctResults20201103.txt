@@ -1,0 +1,1189 @@
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1107
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	3263
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	3378
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2555
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2428
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	4156
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2428
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	3323
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2893
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	4204
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1210
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2378
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1733
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	4572
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	2938
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	1170
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	2313
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	2013
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	1514
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	834
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	2008
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	986
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	1112
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	828
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	624
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	67
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	207
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	805
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	772
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	311
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	24
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	50
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	44
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	21
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	32
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	78
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	53
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	60
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	51
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	26
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	9
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	18
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	49
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	33
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	21
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	6
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	7
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	7
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	7
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	16
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	14
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	10
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	9
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	8
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	9
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	9
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	10
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	22
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	23
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	24
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	10
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	20
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	9
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	8
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	1057
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	3225
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	3383
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	2701
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	2371
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	4190
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	2425
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	3226
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	2795
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	4079
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	1177
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	2338
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	1724
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	4488
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Representative in Congress	 District 4	140040	John H. Rutherford	REP	103813988	74798	2866
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	1211
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	2348
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	2036
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	1383
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	908
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	2007
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	1021
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	1226
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	923
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	730
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	89
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	254
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	850
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	858
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Representative in Congress	 District 4	140040	Donna Deegan	DEM	103872484	74796	381
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	5
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	6
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Representative in Congress	 District 4	140040	WriteinVotes	 	0	900	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Representative in Congress	 District 4	140040	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	49
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	97
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	66
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	44
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	43
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	83
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	54
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	67
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	65
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	69
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	20
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	26
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	28
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	60
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Representative in Congress	 District 4	140040	UnderVotes	 	0	902	41
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	1088
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	3298
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	3446
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	2744
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	2390
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	4219
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	2448
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	3251
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	2803
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	4059
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	1161
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	2302
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	1746
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	4434
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	State Representative	 District 11	260110	Cord Byrd	REP	112619428	74010	2838
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	1141
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	2175
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	1877
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	1280
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	837
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	1897
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	964
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	1133
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	861
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	675
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	82
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	240
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	787
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	810
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	State Representative	 District 11	260110	Joshua Hicks	DEM	105148208	75731	348
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	State Representative	 District 11	260110	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	89
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	199
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	163
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	104
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	100
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	167
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	90
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	136
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	126
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	145
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	42
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	76
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	70
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	164
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	State Representative	 District 11	260110	UnderVotes	 	0	902	101
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1273
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	3253
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	3349
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	2613
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	2054
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	4003
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	2160
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	2712
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	2254
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	2969
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	765
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1614
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1633
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	3257
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	2057
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	708
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1568
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1348
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	843
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	861
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1472
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	880
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1244
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1060
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1315
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	342
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	624
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	687
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	1400
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	793
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	337
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	849
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	787
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	671
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	412
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	810
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	461
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	564
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	475
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	594
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	179
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	379
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	283
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	751
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	437
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1440
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	3623
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	3656
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	2819
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	2120
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	4243
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	2281
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	2811
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	2347
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	3064
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	761
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1587
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1751
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	3310
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	2090
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	555
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	1170
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	987
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	589
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	779
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	1180
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	738
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	1126
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	977
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	1221
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	344
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	643
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	573
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	1346
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	760
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	323
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	878
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	842
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	718
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	428
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	861
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	481
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	583
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	465
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	594
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	181
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	387
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	279
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	751
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	438
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1316
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	3410
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	3542
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	2733
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	2122
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	4119
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	2270
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	2801
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	2328
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	3071
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	796
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1668
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1650
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	3378
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	2120
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	656
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	1340
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	1072
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	649
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	760
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	1265
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	728
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	1094
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	970
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	1159
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	299
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	552
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	651
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	1229
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	699
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	346
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	920
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	870
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	746
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	445
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	900
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	504
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	624
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	492
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	645
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	191
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	398
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	301
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	800
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	468
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1351
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	3351
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	3482
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	2655
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	2103
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	4071
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	2229
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	2803
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	2373
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	3088
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	787
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1664
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1688
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	3359
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	2121
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	623
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	1393
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	1133
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	719
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	755
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	1284
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	761
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	1089
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	918
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	1141
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	298
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	543
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	596
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	1219
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	685
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	344
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	926
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	870
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	754
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	469
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	929
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	512
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	628
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	498
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	649
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	201
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	410
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	319
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	830
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	482
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1266
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	3268
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	3387
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	2666
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	2062
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	4000
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	2185
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	2708
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	2264
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	3006
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	769
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1624
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1608
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	3268
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	2036
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	693
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1464
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1208
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	711
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	817
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1356
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	806
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1184
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1029
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1223
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	316
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	591
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	680
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	1314
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	770
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	358
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	939
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	891
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	751
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	448
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	926
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	509
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	628
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	495
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	648
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	201
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	403
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	314
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	826
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	481
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1329
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	3323
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	3385
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	2633
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	2091
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	4022
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	2216
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	2718
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	2299
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	2827
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	685
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1484
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1653
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	3011
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1927
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	629
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	1407
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	1205
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	744
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	777
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	1347
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	782
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	1164
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	986
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	1415
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	412
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	730
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	636
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	1577
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	878
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	359
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	943
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	895
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	750
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	458
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	916
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	504
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	638
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	503
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	636
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	189
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	404
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	313
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	820
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	483
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1300
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	3288
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	3377
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	2616
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	2059
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	4028
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	2178
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	2729
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	2303
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	3010
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	777
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1643
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1609
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	3292
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	2059
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	655
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	1422
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	1184
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	741
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	793
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	1317
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	797
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	1140
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	964
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	1190
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	308
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	554
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	665
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	1248
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	721
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	363
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	962
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	925
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	771
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	475
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	938
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	527
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	651
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	522
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	678
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	200
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	421
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	329
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	868
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	507
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	908
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	2316
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	2407
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	1827
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	1595
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	3129
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	1744
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	2378
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	2055
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	3139
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	926
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	1908
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	1449
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	3846
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	County Court Judge	 Group 1	600001	Jenny Higginbotham Barrett	NOP	105151003	75222	2371
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1243
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	2845
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	2576
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1850
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1467
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	2518
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1472
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1778
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1459
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1443
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	269
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	500
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	928
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	1242
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	County Court Judge	 Group 1	600001	John Joseph Cascone	NOP	105950055	75224	687
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	167
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	511
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	501
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	450
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	265
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	636
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	286
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	364
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	275
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	296
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	91
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	210
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	225
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	319
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	230
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amelia Concourse Community Development District	 Seat 1	812301	Elizabeth  Dominguez	NOP	120817363	78145	197
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amelia Concourse Community Development District	 Seat 1	812301	Jeffry A. Snow	NOP	125998723	78147	219
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amelia Concourse Community Development District	 Seat 1	812301	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amelia Concourse Community Development District	 Seat 1	812301	UnderVotes	 	0	902	60
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	956
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	2238
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	2180
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1698
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1607
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	2958
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1646
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	2211
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1995
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	2095
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	428
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1059
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1262
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1917
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Joe Johnson	NOP	103663987	78176	1277
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	905
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	2186
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	2034
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	1312
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	1086
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	2020
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	1154
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	1471
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	1111
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	2071
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	616
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	1068
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	918
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	2630
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	Devin  Mizell	NOP	116985751	78179	1445
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	457
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	1249
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	1272
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	1118
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	633
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	1307
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	702
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	838
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	684
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	711
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	241
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	491
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	423
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	861
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Nassau Soil and Water Conservation District	 Group 4	866204	UnderVotes	 	0	902	565
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1688
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	4264
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	4233
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	3209
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2808
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	5288
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2941
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	3855
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	3245
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	4266
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1132
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2303
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2192
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	4687
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2923
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	447
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	1041
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	940
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	650
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	344
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	707
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	372
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	417
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	339
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	341
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	87
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	180
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	284
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	429
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	191
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	183
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	365
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	310
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	269
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	175
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	287
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	188
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	247
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	205
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	272
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	67
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	134
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	125
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	290
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	172
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1311
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	2939
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	2654
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1956
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1495
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	3039
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1477
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1951
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1676
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1601
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	342
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	717
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1185
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1776
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1037
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	839
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2405
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2544
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1922
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1667
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2955
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1839
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2321
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1911
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2997
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	886
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1771
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1297
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	3368
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	2076
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	4
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	168
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	329
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	288
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	248
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	165
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	287
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	184
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	247
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	202
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	277
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	58
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	129
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	121
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	262
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	172
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1236
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	2844
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	2691
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1856
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1853
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	3383
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1832
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	2581
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	2175
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	2446
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	561
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1149
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1489
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	2631
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1688
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	869
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	2410
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	2445
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1965
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1255
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	2526
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1416
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1611
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1335
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	2060
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	622
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1276
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	950
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	2368
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	1325
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	213
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	417
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	348
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	306
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	219
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	375
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	252
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	327
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	278
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	370
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	101
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	192
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	162
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	407
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	273
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1059
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	2362
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	2297
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1708
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1575
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	2913
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1687
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	2300
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1986
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	2835
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	696
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1437
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1266
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	2967
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1811
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1063
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	2945
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	2862
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	2141
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1538
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	3019
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1599
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1936
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1561
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1715
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	499
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1003
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1208
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	2048
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1234
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	175
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	328
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	279
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	226
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	189
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	306
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	187
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	245
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	215
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	308
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	88
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	163
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	116
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	364
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	222
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1487
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	3461
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	3451
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	2628
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	2209
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	4290
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	2334
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	3056
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	2528
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	3287
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	814
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1655
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1859
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	3570
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	2146
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	543
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	1437
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	1369
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	981
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	738
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	1322
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	783
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	969
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	842
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	1040
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	312
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	638
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	538
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	1195
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	715
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	2
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	267
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	738
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	617
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	466
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	355
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	624
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	356
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	454
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	391
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	530
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	157
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	311
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	193
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	614
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	407
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1872
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	4618
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	4607
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	3422
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2871
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	5495
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	3033
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	3964
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	3306
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	4204
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1097
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2184
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2305
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	4598
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2844
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	272
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	729
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	631
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	489
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	289
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	515
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	306
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	340
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	296
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	401
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	115
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	286
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	202
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	504
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	245
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	3
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	7
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+NAS	Nassau	10866	11/03/2020	2020 General Election	101	101	2992	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	153
+NAS	Nassau	10866	11/03/2020	2020 General Election	102	102	6713	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	286
+NAS	Nassau	10866	11/03/2020	2020 General Election	201	201	6365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	200
+NAS	Nassau	10866	11/03/2020	2020 General Election	202	202	4558	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	165
+NAS	Nassau	10866	11/03/2020	2020 General Election	203	203	4279	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	144
+NAS	Nassau	10866	11/03/2020	2020 General Election	204	204	7300	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	227
+NAS	Nassau	10866	11/03/2020	2020 General Election	301	301	4197	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	134
+NAS	Nassau	10866	11/03/2020	2020 General Election	302	302	5859	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	177
+NAS	Nassau	10866	11/03/2020	2020 General Election	303	303	4984	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	160
+NAS	Nassau	10866	11/03/2020	2020 General Election	401	401	6285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	252
+NAS	Nassau	10866	11/03/2020	2020 General Election	402	402	1556	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	70
+NAS	Nassau	10866	11/03/2020	2020 General Election	403	403	3022	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	134
+NAS	Nassau	10866	11/03/2020	2020 General Election	501	501	3215	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	84
+NAS	Nassau	10866	11/03/2020	2020 General Election	503	503	6668	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	272
+NAS	Nassau	10866	11/03/2020	2020 General Election	504	504	4230	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	179

@@ -1,0 +1,666 @@
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1445
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	2331
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	2510
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	173
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	551
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1817
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	948
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	2974
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	177
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	471
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	511
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	396
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	15
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	39
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	185
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	58
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	248
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	59
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	6
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	5
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	8
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	12
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	3
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	4
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	6
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	6
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	8
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	9
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	9
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	9
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	4
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1378
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	2221
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	2398
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	170
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	530
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1775
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	896
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	2885
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	162
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	488
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	535
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	442
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	17
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	47
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	196
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	79
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	294
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	63
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	16
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	10
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	25
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	8
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	12
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	16
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	11
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	13
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	22
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	19
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	16
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	7
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	33
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	58
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	41
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	27
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	16
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	35
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1423
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	2278
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	2460
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	172
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	543
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1780
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	920
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	2936
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	168
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	464
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	517
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	409
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	15
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	45
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	181
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	69
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	256
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	58
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	51
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	74
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	72
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	3
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	10
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	51
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	21
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	61
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	14
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1433
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	2292
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	2494
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	155
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	540
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1798
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	926
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	2926
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	167
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	447
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	481
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	347
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	30
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	43
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	150
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	57
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	229
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	57
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	58
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	96
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	100
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	15
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	66
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	27
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	99
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	16
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	1458
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	2318
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	2502
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	147
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	535
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	1802
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	905
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	2877
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	185
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	434
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	480
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	372
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	37
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	53
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	166
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	87
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	287
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	48
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	45
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	71
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	67
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	6
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	10
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	46
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	17
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	90
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	7
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1128
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1780
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1865
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	124
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	379
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1321
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	593
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1998
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	147
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	642
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	790
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	769
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	55
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	177
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	489
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	315
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	924
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	66
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	168
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	296
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	307
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	11
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	42
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	203
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	102
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	330
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	27
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1089
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1746
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1847
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	124
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	375
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1317
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	590
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1976
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	138
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	655
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	792
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	757
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	52
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	179
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	470
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	311
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	907
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	71
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	194
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	331
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	336
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	14
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	44
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	227
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	109
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	370
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	31
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1149
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1814
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1938
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	132
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	394
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1368
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	623
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	2069
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	136
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	606
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	733
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	689
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	48
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	162
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	418
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	285
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	822
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	73
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	3
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	182
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	321
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	311
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	10
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	42
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	228
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	102
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	362
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	31
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1094
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1755
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1871
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	125
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	388
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1314
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	610
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	2006
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	125
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	641
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	767
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	727
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	52
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	162
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	455
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	288
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	863
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	82
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	202
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	345
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	341
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	13
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	245
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	112
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	385
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	33
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1118
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1775
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1873
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	123
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	388
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1336
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	605
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	2009
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	142
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	638
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	770
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	741
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	56
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	167
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	455
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	296
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	875
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	67
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	182
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	324
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	327
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	11
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	43
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	222
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	109
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	370
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	31
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1124
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1723
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1727
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	113
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	373
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1226
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	609
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1886
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	145
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	698
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	975
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	1024
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	65
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	201
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	699
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	347
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	1173
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	74
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	116
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	170
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	189
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	12
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	24
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	88
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	53
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	195
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	21
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1608
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	2391
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	2423
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	158
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	514
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1688
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	842
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	2695
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	192
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	271
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	392
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	446
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	27
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	79
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	287
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	140
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	483
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	39
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	2
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	59
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	84
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	72
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	39
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	27
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	76
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	9
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	907
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	1358
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	1326
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	84
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	253
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	733
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	412
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	1342
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	98
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1004
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1487
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1587
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	101
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	344
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1269
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	589
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1866
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	138
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	2
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	27
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	23
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	28
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	5
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	12
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	9
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	44
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	4
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	550
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	856
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	714
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	30
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	132
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	388
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	200
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	671
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	77
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1330
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1956
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	2165
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	154
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	455
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1600
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	791
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	2505
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	155
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	58
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	57
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	62
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	6
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	11
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	25
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	19
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	78
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	8
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1074
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1704
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1875
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	95
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	322
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1293
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	586
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1946
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	134
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	765
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	1012
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	905
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	87
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	255
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	629
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	376
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	1126
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	87
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	3
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	99
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	153
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	161
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	8
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	21
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	91
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	48
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	179
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	19
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1022
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1536
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1577
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	94
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	309
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1149
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	543
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	1666
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	123
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	781
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	1151
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	1174
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	85
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	262
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	753
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	407
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	1376
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	93
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BAK	Baker	43888	11/05/2024	2024 General Election	1A	Sanderson Community Center	2578	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	135
+BAK	Baker	43888	11/05/2024	2024 General Election	2A	Macclenny Baptist Gym	3911	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	181
+BAK	Baker	43888	11/05/2024	2024 General Election	3A	Extension Office	3768	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	190
+BAK	Baker	43888	11/05/2024	2024 General Election	4A	Baxter Fire Station	235	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	11
+BAK	Baker	43888	11/05/2024	2024 General Election	4B	Taylor Voting House	769	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	27
+BAK	Baker	43888	11/05/2024	2024 General Election	4C	Extension Office	2349	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	111
+BAK	Baker	43888	11/05/2024	2024 General Election	4D	Cuyler Church Hall	1255	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	60
+BAK	Baker	43888	11/05/2024	2024 General Election	5A	Glen Baptist Gym	3925	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	210
+BAK	Baker	43888	11/05/2024	2024 General Election	6A	Olustee Fire Station	308	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	24

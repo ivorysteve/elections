@@ -1,0 +1,780 @@
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	773
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	333
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	170
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1437
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1162
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1229
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	664
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1361
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	892
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	910
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	150
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	77
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	87
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	203
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	163
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	203
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	128
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	254
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	189
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	208
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	8
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	9
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	9
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	9
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	760
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	322
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	176
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1434
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1103
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1198
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	648
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1349
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	860
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	890
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	150
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	76
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	75
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	181
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	178
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	198
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	129
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	239
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	184
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	207
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	14
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	8
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	12
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	4
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	9
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	19
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	15
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	10
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	11
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	16
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	25
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	32
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	23
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	22
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	24
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	787
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	343
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	175
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1452
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1173
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1228
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	671
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1381
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	890
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	910
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	138
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	65
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	80
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	189
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	150
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	186
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	122
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	236
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	178
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	208
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	12
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	9
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	21
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	24
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	41
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	13
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	31
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	20
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	22
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	787
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	335
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	174
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1448
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1156
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1236
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	677
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1383
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	900
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	917
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	130
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	70
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	83
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	179
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	150
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	169
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	108
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	225
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	155
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	190
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	20
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	12
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	36
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	41
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	52
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	21
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	40
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	33
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	33
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	782
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	345
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	183
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	1458
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	1185
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	1250
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	682
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	1381
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	902
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Representative	 District 22	260220	Chad Johnson	REP	105242835	84188	938
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	136
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	64
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	73
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	172
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	141
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	172
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	102
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	227
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	162
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Representative	 District 22	260220	David Arreola	DEM	119552109	84284	180
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	19
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	8
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	33
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	21
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	35
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	22
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	40
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	24
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	22
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	592
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	264
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	166
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1075
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	779
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	863
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	483
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	1078
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	634
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	654
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	266
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	120
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	78
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	437
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	452
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	451
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	241
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	420
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	335
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	365
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	79
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	33
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	18
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	151
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	116
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	143
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	81
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	150
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	119
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	121
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	600
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	256
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	156
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1073
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	783
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	855
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	497
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	1076
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	637
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	663
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	250
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	124
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	88
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	433
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	439
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	450
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	222
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	413
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	322
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	347
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	87
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	37
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	18
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	157
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	125
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	152
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	87
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	159
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	129
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	130
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	605
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	256
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	168
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1064
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	784
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	867
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	506
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	1070
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	648
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	665
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	242
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	116
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	77
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	426
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	423
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	429
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	216
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	405
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	307
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	331
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	90
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	44
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	17
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	173
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	140
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	161
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	84
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	173
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	132
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	144
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	578
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	252
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	157
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1042
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	771
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	856
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	504
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	1035
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	626
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	632
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	270
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	120
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	80
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	442
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	438
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	432
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	217
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	438
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	325
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	361
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	89
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	45
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	24
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	178
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	138
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	169
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	85
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	174
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	137
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	147
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	591
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	247
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	165
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1033
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	758
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	850
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	478
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	1050
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	631
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	631
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	249
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	114
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	78
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	446
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	438
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	426
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	233
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	409
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	312
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	359
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	97
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	56
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	19
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	184
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	151
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	181
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	95
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	189
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	145
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	150
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	496
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	248
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	131
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	930
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	668
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	703
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	427
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	839
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	605
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	School Board	 District 4	610004	Tammy Moore	NOP	104273149	84840	661
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	378
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	142
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	119
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	592
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	606
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	661
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	289
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	622
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	354
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	School Board	 District 4	610004	Patricia Hodge Philman	NOP	119022498	84841	354
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	63
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	27
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	12
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	141
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	73
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	90
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	90
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	187
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	129
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	125
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	580
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	257
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	167
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1032
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	800
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	910
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	505
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	1015
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	638
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	668
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	314
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	140
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	84
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	555
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	484
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	477
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	263
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	537
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	389
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	390
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	43
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	20
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	11
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	76
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	63
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	69
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	38
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	96
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	61
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	82
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	767
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	329
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	206
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1373
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1076
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1141
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	642
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1285
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	883
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	898
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	151
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	78
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	49
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	265
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	250
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	285
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	151
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	317
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	184
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	221
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	19
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	10
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	7
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	25
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	21
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	31
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	13
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	46
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	21
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	21
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	373
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	190
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	126
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	622
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	563
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	681
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	333
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	674
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	512
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	607
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	551
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	223
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	133
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	1021
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	766
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	757
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	468
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	955
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	567
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	519
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	13
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	4
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	20
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	18
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	19
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	19
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	9
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	14
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	263
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	145
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	90
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	411
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	369
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	438
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	262
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	461
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	359
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	395
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	658
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	266
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	167
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1221
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	954
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	988
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	535
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1165
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	714
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	722
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	16
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	6
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	5
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	30
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	24
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	31
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	8
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	22
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	15
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	23
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	612
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	273
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	145
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1051
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	808
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	901
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	548
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1029
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	703
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	724
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	279
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	126
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	104
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	538
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	476
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	493
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	233
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	525
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	332
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	356
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	45
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	18
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	12
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	73
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	63
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	60
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	25
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	93
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	53
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	60
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	530
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	240
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	138
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	912
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	696
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	797
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	435
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	860
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	572
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	591
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	355
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	156
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	107
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	655
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	560
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	577
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	336
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	675
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	430
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	472
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	3
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1A	1A Trenton Center 	1154	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	51
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1B	1B County Library 	525	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	21
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	1C	1C County Library 	358	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	17
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	2A	2A Donnie Center 	1970	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	96
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	3A	3A Bell Community Center 	1674	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	89
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	4A	4A Cruse Center 	1827	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	80
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	5A	5A N Gilchrist Fire Station 	996	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	35
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	6A	6A Osteen Center 	1976	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	112
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	7A	7A Osceola Center 	1337	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	86
+GIL	Gilchrist	43888	11/05/2024	2024 General Election	8A	8A Southeast Center 	1419	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	76

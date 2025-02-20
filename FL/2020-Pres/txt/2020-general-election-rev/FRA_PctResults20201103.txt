@@ -1,0 +1,774 @@
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1197
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	218
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	466
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	170
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1076
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	393
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	509
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	646
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	237
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	114
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	708
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	166
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	318
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	138
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	284
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	155
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	5
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1226
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	255
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	708
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	209
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1123
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	429
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	597
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	673
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	48
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	24
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	151
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	39
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	68
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	29
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	61
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	23
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	180
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	59
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	341
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	90
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	224
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	78
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	153
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	111
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	1093
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	219
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	479
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	161
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	1018
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	376
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	523
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	585
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	287
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	111
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	665
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	160
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	334
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	136
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	266
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	173
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	3
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Senator	 District 3	240030	WriteinVotes	 	0	900	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	74
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	7
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	53
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	17
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	61
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	21
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	20
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	48
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	1150
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	240
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	520
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	194
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	1058
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	392
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	550
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	634
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	216
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	92
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	609
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	119
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	286
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	119
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	230
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	129
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	87
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	6
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	71
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	25
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	71
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	25
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	31
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	44
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	569
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	149
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	454
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	175
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	715
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	237
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	558
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Erin H Griffith	NPA	104228989	75092	177
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	790
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	110
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	666
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	130
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	540
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	219
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	164
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Michele Maxwell	NPA	104223627	75093	598
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	95
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	79
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	80
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	33
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	159
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	80
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	89
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	32
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	1208
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	289
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	954
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	293
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	1025
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	436
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	704
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Sheriff	 	335000	"AJ" Tony Smith	REP	105023593	75095	675
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	231
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	43
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	218
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	36
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	382
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	90
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	96
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Sheriff	 	335000	Carl Whaley	DEM	104226836	75096	124
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	15
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	6
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	28
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	9
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	11
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	531
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	241
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	509
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	181
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	728
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	358
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	528
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	75098	296
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	892
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	81
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	648
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	144
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	646
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	156
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	266
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Tax Collector	 	355000	Danny W Gay	NPA	104225619	75849	496
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	30
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	16
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	43
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	13
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	41
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	22
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	17
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	15
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	1121
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	212
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	794
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	231
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	1080
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	392
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	558
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Superintendent of Schools	 	360000	Steve Lanier	REP	104223710	75106	594
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	300
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	112
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	361
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	94
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	301
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	124
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	241
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Superintendent of Schools	 	360000	Traci Moses Yoder	DEM	104227473	75107	194
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	33
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	45
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	13
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	34
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	20
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	12
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	19
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	County Commissioner	 District 3	380030	Noah Lockley Jr.	DEM	104223558	75851	719
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	County Commissioner	 District 3	380030	Brett Gormley	NPA	115272299	77869	448
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	33
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	County Commissioner	 District 5	380050	Madeline Nevarez	REP	120368446	75854	122
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	County Commissioner	 District 5	380050	Madeline Nevarez	REP	120368446	75854	242
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	County Commissioner	 District 5	380050	William H Massey Jr	NPA	104225191	75853	105
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	County Commissioner	 District 5	380050	William H Massey Jr	NPA	104225191	75853	338
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	County Commissioner	 District 5	380050	Jessica Varnes Ward	NPA	103178176	75855	311
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	County Commissioner	 District 5	380050	Jessica Varnes Ward	NPA	103178176	75855	235
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	17
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	22
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	810
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	203
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	577
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	181
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	759
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	314
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	486
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	442
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	428
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	80
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	415
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	97
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	417
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	147
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	194
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	217
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	216
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	55
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	208
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	60
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	238
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	75
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	131
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	148
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	848
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	213
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	680
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	187
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	800
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	329
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	495
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	437
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	374
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	66
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	318
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	86
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	374
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	125
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	181
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	219
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	232
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	201
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	65
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	241
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	82
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	135
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	151
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	834
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	199
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	588
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	174
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	759
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	317
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	483
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	434
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	373
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	75
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	394
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	99
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	411
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	126
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	186
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	209
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	247
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	64
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	218
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	65
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	245
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	93
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	142
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	164
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	812
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	198
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	593
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	176
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	757
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	317
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	496
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	416
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	389
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	78
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	386
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	96
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	413
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	131
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	180
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	228
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	253
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	62
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	221
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	66
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	245
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	88
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	135
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	162
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	792
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	192
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	561
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	168
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	735
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	320
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	488
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	415
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	409
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	85
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	420
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	103
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	428
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	124
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	184
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	232
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	253
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	61
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	219
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	66
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	251
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	92
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	139
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	158
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	814
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	200
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	600
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	178
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	770
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	329
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	490
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	424
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	388
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	77
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	378
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	93
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	393
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	120
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	180
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	225
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	252
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	61
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	222
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	67
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	252
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	87
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	141
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	158
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	811
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	199
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	577
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	170
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	753
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	320
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	486
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	421
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	395
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	79
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	409
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	101
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	408
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	128
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	189
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	228
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	248
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	60
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	214
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	67
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	254
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	88
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	136
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	158
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	533
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	114
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	676
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	123
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	575
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	214
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	256
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Tiffany Baker	NOP	110127964	74174	285
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	683
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	157
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	371
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	157
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	576
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	211
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	406
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	Amanda P. Wall	NOP	105082238	74939	379
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	238
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	67
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	153
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	58
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	264
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	111
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	149
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 4	550204	UnderVotes	 	0	902	143
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1200
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	257
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	803
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	239
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1164
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	449
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	625
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	661
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	173
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	73
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	324
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	84
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	182
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	69
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	162
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	98
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	80
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	8
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	73
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	15
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	67
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	18
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	24
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	48
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	575
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	141
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	769
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	178
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	585
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	229
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	366
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	330
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	808
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	183
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	381
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	145
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	774
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	283
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	430
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	431
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	70
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	14
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	50
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	15
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	56
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	24
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	15
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	45
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	749
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	145
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	633
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	175
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	737
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	299
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	376
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	408
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	584
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	178
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	459
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	135
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	578
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	210
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	404
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	312
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	120
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	15
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	106
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	28
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	100
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	26
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	31
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	87
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	604
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	130
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	485
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	116
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	605
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	239
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	306
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	349
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	692
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	189
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	582
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	189
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	663
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	263
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	460
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	353
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	158
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	19
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	133
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	33
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	146
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	34
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	45
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	105
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	895
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	222
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	764
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	220
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	897
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	383
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	578
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	482
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	419
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	98
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	324
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	91
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	396
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	120
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	191
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	226
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	139
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	17
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	112
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	27
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	121
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	33
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	42
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	99
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1206
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	279
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	985
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	270
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1190
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	475
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	714
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	649
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	141
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	48
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	127
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	45
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	133
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	35
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	74
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	79
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+FRA	Franklin	10866	11/03/2020	2020 General Election	1	Eastpoint	1845	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	106
+FRA	Franklin	10866	11/03/2020	2020 General Election	2	Alligator Point	384	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	11
+FRA	Franklin	10866	11/03/2020	2020 General Election	3	National Guard Armory	1494	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	88
+FRA	Franklin	10866	11/03/2020	2020 General Election	4	Fort Coombs Armory	392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	23
+FRA	Franklin	10866	11/03/2020	2020 General Election	5	Carrabelle	1773	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	92
+FRA	Franklin	10866	11/03/2020	2020 General Election	6	Lanark Village	670	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	26
+FRA	Franklin	10866	11/03/2020	2020 General Election	7	St. George Island	974	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	23
+FRA	Franklin	10866	11/03/2020	2020 General Election	8	American Legion	962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	79

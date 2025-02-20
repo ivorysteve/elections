@@ -1,0 +1,884 @@
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	222
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	295
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	163
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	163
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	741
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	143
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	453
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	727
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	97
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	90
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	240
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	3
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	445
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	56
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	71
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	78
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	25
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	190
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	251
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	109
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	217
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	20
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	75
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	48
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	96
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	149
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	8
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	213
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	297
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	155
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	162
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	725
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	125
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	448
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	704
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	95
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	89
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	231
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	2
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	439
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	47
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	68
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	71
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	23
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	182
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	250
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	107
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	205
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	17
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	71
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	50
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	92
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	136
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	5
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	2
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	5
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	15
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	5
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	5
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	11
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	5
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	3
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	2
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	15
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	16
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	10
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	3
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	22
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	17
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	34
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	4
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	4
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	3
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	10
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	221
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	297
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	163
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	162
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	722
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	137
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	446
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	720
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	97
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	99
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	237
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	3
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	445
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	50
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	70
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	72
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	24
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	195
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	247
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	117
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	212
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	18
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	65
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	49
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	91
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	144
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	2
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	1
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	10
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	4
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	1
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	26
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	13
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	4
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	22
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	11
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	127
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	187
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	63
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	126
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	638
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	120
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	311
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	658
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	85
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	74
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	75
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	21
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Superintendent of Schools	 	360000	Alice "Beth" Barfield	REP	111440028	76762	357
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	145
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	178
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	178
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	59
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	266
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	263
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	242
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	261
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	29
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	90
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	212
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	77
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Superintendent of Schools	 	360000	Jamie Brown	NPA	104281786	76760	230
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	9
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	7
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	3
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	40
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	14
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	15
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	35
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	1
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	13
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	177
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	229
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	140
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	116
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	615
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	244
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	370
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	629
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	68
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	115
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	184
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	39
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	404
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	68
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	98
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	75
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	51
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	222
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	112
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	138
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	218
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	35
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	40
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	79
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	54
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	147
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	36
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	45
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	26
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	21
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	106
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	41
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	59
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	107
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	13
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	14
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	29
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	6
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	49
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	186
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	232
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	154
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	125
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	642
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	241
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	359
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	659
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	73
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	108
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	181
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	46
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	409
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	58
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	90
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	60
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	44
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	200
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	112
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	139
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	177
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	28
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	45
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	77
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	46
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	134
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	2
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	37
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	50
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	27
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	19
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	102
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	44
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	69
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	117
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	14
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	16
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	34
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	7
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	56
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	176
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	220
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	143
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	108
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	613
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	235
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	343
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	614
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	67
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	107
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	164
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	46
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	375
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	65
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	103
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	68
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	58
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	223
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	112
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	156
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	214
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	36
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	46
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	93
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	45
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	162
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	40
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	49
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	30
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	22
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	108
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	50
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	68
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	126
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	13
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	16
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	35
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	63
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	181
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	229
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	149
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	117
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	644
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	228
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	366
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	627
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	68
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	105
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	180
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	44
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	404
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	57
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	92
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	62
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	49
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	190
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	120
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	132
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	197
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	34
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	48
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	79
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	47
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	136
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	43
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	51
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	30
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	22
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	109
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	49
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	70
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	130
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	14
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	16
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	33
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	60
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	183
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	232
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	153
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	117
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	651
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	243
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	365
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	638
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	72
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	115
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	185
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	48
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	409
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	58
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	88
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	59
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	48
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	188
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	105
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	128
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	188
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	30
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	38
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	71
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	42
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	131
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	40
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	52
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	29
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	23
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	105
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	49
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	75
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	128
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	14
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	16
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	36
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	9
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	60
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	252
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	342
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	214
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	169
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	833
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	320
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	528
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	831
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	109
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	154
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	262
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	79
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	524
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	19
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	22
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	22
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	14
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	87
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	59
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	29
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	96
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	5
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	13
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	26
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	16
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	69
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	10
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	24
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	18
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	11
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	27
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	3
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	4
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	4
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	7
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	104
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	138
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	123
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	61
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	328
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	258
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	253
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	442
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	48
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	94
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	87
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	83
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	221
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	169
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	230
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	113
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	125
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	594
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	122
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	308
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	484
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	67
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	73
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	202
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	13
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	373
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	4
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	21
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	17
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	7
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	26
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	2
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	3
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	3
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	6
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	138
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	178
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	152
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	98
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	436
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	235
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	310
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	496
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	58
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	105
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	131
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	65
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	270
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	130
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	170
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	76
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	82
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	464
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	136
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	233
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	384
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	51
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	59
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	149
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	29
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	308
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	13
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	24
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	13
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	43
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	26
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	25
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	74
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	7
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	12
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	22
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	145
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	186
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	136
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	98
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	450
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	212
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	287
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	426
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	51
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	95
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	149
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	51
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	311
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	113
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	160
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	88
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	78
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	445
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	154
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	242
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	439
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	57
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	66
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	123
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	42
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	248
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	23
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	26
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	17
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	12
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	48
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	31
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	39
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	89
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	8
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	20
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	6
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	41
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	185
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	259
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	157
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	138
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	685
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	274
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	393
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	653
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	83
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	134
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	187
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	65
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	408
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	76
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	93
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	67
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	43
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	204
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	92
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	134
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	216
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	23
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	25
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	89
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	29
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	155
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	19
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	20
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	17
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	7
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	55
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	31
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	41
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	85
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	10
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	10
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	16
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	37
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	240
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	325
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	211
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	165
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	823
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	326
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	516
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	810
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	101
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	150
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	250
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	75
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	532
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	27
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	31
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	17
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	17
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	74
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	40
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	29
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	82
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	9
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	14
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	30
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	14
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	42
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GLA	Glades	10866	11/03/2020	2020 General Election	1	Doyle Conner Bldg	337	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	14
+GLA	Glades	10866	11/03/2020	2020 General Election	2	Ortona Community Center	467	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	16
+GLA	Glades	10866	11/03/2020	2020 General Election	3	Doyle Conner Bldg	306	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	13
+GLA	Glades	10866	11/03/2020	2020 General Election	4	Palmdale Community Center	246	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	6
+GLA	Glades	10866	11/03/2020	2020 General Election	5	Muse Community Center	1329	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	47
+GLA	Glades	10866	11/03/2020	2020 General Election	6	Doyle Conner Bldg	585	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	31
+GLA	Glades	10866	11/03/2020	2020 General Election	7	Lakeport Community Center	806	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	23
+GLA	Glades	10866	11/03/2020	2020 General Election	8	BHR Community 	1317	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	62
+GLA	Glades	10866	11/03/2020	2020 General Election	9	Lakeport Community Center	151	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	7
+GLA	Glades	10866	11/03/2020	2020 General Election	10	Lakeport Community Center	285	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	5
+GLA	Glades	10866	11/03/2020	2020 General Election	11	Doyle Conner Bldg	356	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	12
+GLA	Glades	10866	11/03/2020	2020 General Election	12	Washington Park Community Center	136	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	10
+GLA	Glades	10866	11/03/2020	2020 General Election	13	Indian Hills Fire Dept	776	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	26

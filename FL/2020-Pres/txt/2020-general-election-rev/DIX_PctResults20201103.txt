@@ -1,0 +1,1020 @@
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1562
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	353
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1841
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	297
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	732
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	277
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	708
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	398
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	309
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	282
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	289
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	66
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	332
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	25
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	94
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	39
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	410
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	34
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	46
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	30
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1638
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	354
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1941
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	290
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	741
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	279
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	794
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	381
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	311
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	264
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	44
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	7
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	52
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	10
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	6
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	50
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	7
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	9
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	188
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	64
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	203
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	33
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	81
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	35
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	288
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	48
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	35
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	48
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1491
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	325
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1748
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	284
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	683
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	263
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	705
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	368
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	293
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	256
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	283
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	57
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	351
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	23
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	99
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	33
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	310
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	41
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	45
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	40
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	97
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	43
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	97
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	17
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	50
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	25
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	117
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	27
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	17
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	18
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	1542
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	356
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	1822
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	285
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	727
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	274
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	751
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	398
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	301
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	275
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	271
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	48
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	308
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	29
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	78
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	34
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	304
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	27
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	38
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	58
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	21
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	65
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	10
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	27
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	13
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	77
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	11
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	16
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	11
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	1139
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	241
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	1312
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	227
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	464
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	151
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	529
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	220
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	234
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Barbara (Barbie) Higginbotham	REP	104275609	75283	180
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	362
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	75
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	500
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	44
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	188
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	79
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	349
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	109
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	62
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Christie K Johnson	NPA	103229028	75469	61
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	302
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	92
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	296
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	35
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	156
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	80
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	182
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	98
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	47
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jaime L NesSmith	NPA	103230368	75468	61
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	68
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	17
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	88
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	18
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	24
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	11
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	72
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	9
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	777
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	167
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	891
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	155
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	348
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	143
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	416
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	168
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	137
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Sheriff	 	335000	Darby Butler	NPA	103229456	75471	203
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	673
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	182
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	785
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	88
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	295
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	105
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	505
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	170
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	99
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Sheriff	 	335000	Nicholas Ryan Hatcher	NPA	103233537	75470	59
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	371
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	71
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	466
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	62
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	173
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	65
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	175
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	92
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	109
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Sheriff	 	335000	Jamey Michael King	NPA	103234255	75555	47
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	50
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	54
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	19
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	16
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	8
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	36
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	6
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	453
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	77
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	602
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	77
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	215
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	58
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	288
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	92
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	88
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 1	380010	Gerald R Montgomery	NPA	103227300	75615	67
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	1313
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	323
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	1440
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	202
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	581
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	251
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	740
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	327
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	239
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 1	380010	Paul (Jody) Stephenson	NPA	103226023	75474	229
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	105
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	25
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	153
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	45
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	36
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	12
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	104
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	17
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	18
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	1216
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	279
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	1428
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	229
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	471
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	186
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	748
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	261
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	196
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 3	380030	Mark Hatch	REP	103229709	75475	207
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	577
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	127
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	687
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	77
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	347
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	126
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	314
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	163
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	129
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 3	380030	John P. Jenkins	NPA	103226385	75418	94
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	78
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	19
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	81
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	18
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	14
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	9
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	70
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	12
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	30
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	13
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	859
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	102
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	968
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	163
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	277
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	66
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	356
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	125
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	89
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 5	380050	James T Valentine	REP	103226729	75478	163
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	323
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	105
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	405
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	76
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	180
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	66
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	262
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	70
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	12
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 5	380050	Martin C Barber Jr.	NPA	103228175	75434	23
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	498
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	180
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	611
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	59
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	319
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	160
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	362
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	206
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	190
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 5	380050	David D Osteen	NPA	103225578	75476	101
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	95
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	21
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	131
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	8
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	35
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	21
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	76
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	23
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	58
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 5	380050	Keith Reed	NPA	108387786	75479	18
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	94
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	17
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	81
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	18
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	21
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	8
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	75
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	12
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	6
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	9
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1040
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	224
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1267
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	184
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	468
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	170
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	584
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	233
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	181
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	176
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	612
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	136
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	695
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	89
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	257
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	109
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	337
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	136
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	122
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	85
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	218
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	65
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	234
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	51
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	107
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	42
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	211
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	66
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	52
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	53
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1080
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	222
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1310
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	177
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	468
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	161
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	598
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	222
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	183
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	160
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	565
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	140
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	639
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	95
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	258
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	119
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	330
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	149
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	122
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	97
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	226
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	62
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	247
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	52
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	106
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	41
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	204
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	65
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	50
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1098
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	227
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	1317
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	173
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	477
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	167
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	594
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	236
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	184
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	166
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	539
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	136
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	628
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	93
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	245
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	112
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	331
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	136
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	119
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	91
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	234
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	62
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	250
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	58
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	109
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	42
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	207
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	64
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	52
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	57
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1107
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	234
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	1313
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	184
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	490
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	161
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	597
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	231
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	182
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	170
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	527
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	127
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	630
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	83
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	236
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	115
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	324
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	139
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	118
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	89
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	236
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	64
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	253
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	57
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	106
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	45
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	211
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	66
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	55
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	55
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1058
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	228
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1268
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	177
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	473
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	152
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	574
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	234
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	176
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	168
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	577
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	133
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	668
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	86
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	246
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	121
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	351
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	135
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	126
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	88
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	236
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	260
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	61
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	113
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	47
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	207
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	67
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	53
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	58
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1106
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	238
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1312
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	173
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	490
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	169
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	598
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	225
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	187
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	168
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	537
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	125
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	635
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	95
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	235
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	109
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	325
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	148
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	115
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	89
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	227
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	62
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	249
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	56
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	107
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	43
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	209
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	63
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	53
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	57
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1098
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	224
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	1300
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	183
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	488
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	154
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	579
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	236
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	185
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	170
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	527
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	131
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	636
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	82
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	226
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	115
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	323
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	131
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	109
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	84
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	244
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	70
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	260
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	59
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	118
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	52
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	230
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	69
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	61
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	60
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	995
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	243
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	1110
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	137
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	456
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	172
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	641
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	207
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	192
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	School Board	 District 1	610001	Cheryl C Pridgeon	NOP	103228083	75484	127
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	725
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	159
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	905
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	144
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	334
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	135
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	380
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	210
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	135
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	School Board	 District 1	610001	Samantha Corbin Sanders	NOP	103233409	75250	167
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	150
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	23
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	179
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	43
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	42
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	14
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	110
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	19
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	20
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1659
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	351
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1930
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	292
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	712
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	272
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	887
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	380
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	311
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	275
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	157
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	44
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	197
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	19
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	63
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	34
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	116
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	31
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	20
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	55
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	30
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	69
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	13
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	56
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	15
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	129
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	24
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	19
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	743
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	124
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	840
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	88
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	256
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	94
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	503
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	101
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	123
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	100
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1084
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	274
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1290
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	228
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	539
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	210
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	522
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	322
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	218
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	197
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	42
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	27
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	66
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	8
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	37
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	17
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	107
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	13
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	14
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	17
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	924
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	199
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1079
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	96
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	358
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	150
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	495
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	166
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	156
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	128
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	832
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	176
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	977
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	190
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	389
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	143
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	436
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	235
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	161
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	150
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	115
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	49
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	139
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	38
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	84
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	200
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	35
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	37
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	36
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	886
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	205
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1041
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	122
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	367
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	142
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	480
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	212
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	187
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	136
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	854
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	163
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1001
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	168
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	372
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	148
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	434
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	182
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	126
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	131
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	130
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	57
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	154
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	34
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	93
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	31
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	218
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	42
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	42
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	47
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1236
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	240
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1407
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	194
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	524
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	189
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	636
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	280
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	232
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	202
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	523
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	130
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	651
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	94
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	230
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	98
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	294
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	115
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	81
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	79
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	111
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	54
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	138
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	36
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	77
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	34
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	202
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	40
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	42
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	33
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1611
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	333
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1866
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	248
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	687
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	266
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	832
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	351
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	292
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	254
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	181
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	48
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	228
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	45
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	81
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	123
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	55
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	35
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+DIX	Dixie	10866	11/03/2020	2020 General Election	01	1 1ST DIST. COM. BLDG	2436	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	79
+DIX	Dixie	10866	11/03/2020	2020 General Election	02	2 MASONIC LODGE	518	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	44
+DIX	Dixie	10866	11/03/2020	2020 General Election	04	4 OLD TOWN CTR	2962	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	102
+DIX	Dixie	10866	11/03/2020	2020 General Election	05	5 SUWANNEE COM. CENTER	394	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	31
+DIX	Dixie	10866	11/03/2020	2020 General Election	06	6 COM. BUILDING HWY 55A	1127	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	64
+DIX	Dixie	10866	11/03/2020	2020 General Election	07	7 CO BLDG WARD AVE	379	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	27
+DIX	Dixie	10866	11/03/2020	2020 General Election	09	9 CITY HALL	1449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	177
+DIX	Dixie	10866	11/03/2020	2020 General Election	10	10 COUNTY BLDG 292 AVE	531	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	30
+DIX	Dixie	10866	11/03/2020	2020 General Election	11	11 JENA COM. CENTER	421	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	28
+DIX	Dixie	10866	11/03/2020	2020 General Election	12	12 HORSESHOE BCH CITY HALL	377	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	32

@@ -1,0 +1,1026 @@
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1341
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	239
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1313
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	238
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1011
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	505
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1008
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	741
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1005
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	837
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	820
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	1326
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	536
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	137
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	249
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	132
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	314
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	126
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	505
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	375
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	147
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	140
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	124
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	179
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	405
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	113
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	8
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	9
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	6
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	8
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1251
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	233
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1225
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	229
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	957
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	486
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	957
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	713
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	940
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	801
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	768
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	1287
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	516
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	162
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	231
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	163
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	297
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	142
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	482
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	378
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	155
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	147
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	128
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	204
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	402
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	114
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	8
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	6
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	7
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	11
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	7
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	9
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	16
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	6
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	16
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	4
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	5
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	15
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	48
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	19
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	43
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	27
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	21
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	41
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	35
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	16
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	40
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	26
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	28
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	31
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1304
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	242
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1268
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	230
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	997
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	481
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	998
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	730
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	964
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	819
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	785
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	1338
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	526
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	144
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	225
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	128
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	298
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	116
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	476
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	355
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	141
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	131
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	126
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	183
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	371
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	111
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	46
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	25
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	56
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	35
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	29
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	69
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	50
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	27
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	54
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	25
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	47
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	48
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	18
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1299
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	230
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1244
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	229
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	994
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	490
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	997
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	725
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	966
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	820
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	787
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	1352
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Attorney	 8th Judicial Circuit	200080	Brian Kramer	REP	100501116	83759	529
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	123
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	232
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	121
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	300
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	106
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	466
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	335
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	129
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	110
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	106
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	168
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	333
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Attorney	 8th Judicial Circuit	200080	Yvens Pierre-Antoine	DEM	100507373	84244	96
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Attorney	 8th Judicial Circuit	200080	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	72
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	29
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	87
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	34
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	42
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	70
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	71
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	44
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	73
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	44
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	60
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	72
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Attorney	 8th Judicial Circuit	200080	UnderVotes	 	0	902	31
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	1256
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	224
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	1237
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	213
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	963
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	466
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	965
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	714
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	939
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	801
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	751
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	1309
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	83563	517
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	143
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	230
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	128
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	298
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	125
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	472
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	355
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	135
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	124
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	120
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	190
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	364
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Representative	 District 10	260100	Robert  "Bobby" J. Brady	DEM	110947008	85642	101
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	94
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	38
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	86
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	51
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	53
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	87
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	83
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	49
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	86
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	49
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	74
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	84
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	38
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	1236
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	331
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	1203
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	385
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	986
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	768
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	1120
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	752
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	900
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	771
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	771
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	1387
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Superintendent of Schools	 	360000	Will Hartley	REP	100755772	86553	492
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	181
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	120
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	193
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	135
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	106
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	179
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	222
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	110
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	185
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	135
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	182
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	259
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Superintendent of Schools	 	360000	Alan Bhajan	NPA	129845504	87634	126
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	76
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	41
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	56
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	43
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	49
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	78
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	61
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	36
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	64
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	64
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	62
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	111
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	38
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	County Commissioner	 District 1	380010	Shannon Smith	REP	100752821	86558	203
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	County Commissioner	 District 1	380010	Shannon Smith	REP	100752821	86558	193
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	County Commissioner	 District 1	380010	Shannon Smith	REP	100752821	86558	464
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	County Commissioner	 District 1	380010	Carolyn Brown Spooner	DEM	100746004	86073	265
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	County Commissioner	 District 1	380010	Carolyn Brown Spooner	DEM	100746004	86073	338
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	County Commissioner	 District 1	380010	Carolyn Brown Spooner	DEM	100746004	86073	506
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	24
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	32
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	56
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	812
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	233
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	757
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	287
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	619
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	520
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	737
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	486
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	559
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	535
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	519
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	993
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	346
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	413
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	175
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	409
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	178
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	287
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	317
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	436
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	260
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	328
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	227
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	283
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	466
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	188
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	268
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	84
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	286
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	98
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	234
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	188
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	228
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	152
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	262
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	208
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	213
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	298
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	122
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	808
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	231
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	765
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	271
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	620
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	497
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	725
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	485
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	572
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	522
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	523
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	983
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	353
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	398
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	171
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	393
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	185
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	277
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	325
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	434
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	247
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	306
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	229
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	269
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	461
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	178
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	286
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	90
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	294
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	107
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	245
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	202
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	243
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	166
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	271
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	219
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	223
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	313
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	125
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	817
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	239
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	782
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	274
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	604
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	520
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	753
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	497
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	590
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	547
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	528
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	994
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	352
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	369
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	160
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	368
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	180
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	272
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	302
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	397
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	220
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	279
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	190
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	248
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	412
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	171
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	308
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	93
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	302
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	109
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	266
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	202
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	252
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	180
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	280
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	233
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	238
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	349
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	133
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	821
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	244
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	773
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	272
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	621
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	518
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	733
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	488
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	587
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	542
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	522
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	965
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	349
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	368
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	156
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	369
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	187
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	255
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	300
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	416
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	236
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	281
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	196
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	248
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	442
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	167
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	305
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	92
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	309
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	104
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	266
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	207
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	254
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	174
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	281
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	231
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	245
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	350
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	140
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	801
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	243
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	758
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	273
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	600
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	501
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	728
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	483
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	585
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	532
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	526
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	968
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	350
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	380
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	157
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	383
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	182
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	273
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	316
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	416
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	233
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	276
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	200
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	245
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	437
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	165
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	313
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	92
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	311
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	108
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	269
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	208
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	259
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	182
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	288
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	238
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	244
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	352
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	141
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	788
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	239
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	793
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	287
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	614
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	502
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	744
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	504
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	608
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	548
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	513
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	931
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	328
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	524
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	191
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	497
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	197
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	380
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	367
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	520
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	294
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	370
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	299
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	357
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	658
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	252
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	182
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	62
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	161
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	79
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	148
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	156
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	139
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	100
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	171
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	123
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	143
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	168
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	76
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1175
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	368
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1171
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	402
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	918
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	738
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1081
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	697
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	895
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	775
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	779
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	1285
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	488
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	252
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	97
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	232
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	124
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	183
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	215
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	251
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	158
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	195
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	145
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	177
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	397
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	132
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	67
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	26
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	48
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	37
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	41
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	73
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	69
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	43
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	58
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	50
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	59
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	75
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	36
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	653
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	297
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	628
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	370
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	498
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	637
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	820
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	446
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	585
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	414
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	481
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	782
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	273
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	820
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	182
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	807
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	179
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	634
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	365
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	569
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	439
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	541
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	538
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	513
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	955
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	374
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	20
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	12
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	17
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	14
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	10
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	24
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	14
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	12
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	22
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	18
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	21
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	20
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	9
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	344
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	247
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	350
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	307
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	292
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	519
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	559
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	273
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	323
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	234
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	327
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	623
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	185
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1100
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	227
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1065
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	224
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	823
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	463
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	808
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	592
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	773
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	707
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	654
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	1104
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	448
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	3
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	50
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	18
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	35
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	31
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	24
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	43
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	36
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	33
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	53
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	29
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	33
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	30
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	21
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	808
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	241
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	814
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	264
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	628
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	530
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	775
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	502
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	617
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	573
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	563
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	1049
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	353
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	509
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	197
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	509
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	225
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	411
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	359
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	461
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	301
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	403
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	283
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	327
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	554
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	230
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	176
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	53
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	129
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	74
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	103
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	137
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	165
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	94
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	129
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	114
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	125
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	154
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	73
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	730
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	212
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	685
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	236
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	550
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	465
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	660
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	438
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	530
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	488
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	462
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	839
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	294
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	571
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	224
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	601
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	254
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	449
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	400
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	580
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	353
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	446
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	346
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	397
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	732
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	284
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	2
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+BRA	Bradford	43888	11/05/2024	2024 General Election	1	Precinct 1	1923	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	192
+BRA	Bradford	43888	11/05/2024	2024 General Election	2	Precinct 2	707	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	56
+BRA	Bradford	43888	11/05/2024	2024 General Election	3	Precinct 3	1828	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	166
+BRA	Bradford	43888	11/05/2024	2024 General Election	4	Precinct 4	861	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	73
+BRA	Bradford	43888	11/05/2024	2024 General Election	5	Precinct 5	1418	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	143
+BRA	Bradford	43888	11/05/2024	2024 General Election	6	Precinct 6	1543	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	159
+BRA	Bradford	43888	11/05/2024	2024 General Election	7	Precinct 7	1899	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	161
+BRA	Bradford	43888	11/05/2024	2024 General Election	8	Precinct 8	1192	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	105
+BRA	Bradford	43888	11/05/2024	2024 General Election	9	Precinct 9	1504	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	173
+BRA	Bradford	43888	11/05/2024	2024 General Election	10	Precinct 10	1178	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	136
+BRA	Bradford	43888	11/05/2024	2024 General Election	11	Precinct 11	1347	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	155
+BRA	Bradford	43888	11/05/2024	2024 General Election	12	Precinct 12	2124	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	185
+BRA	Bradford	43888	11/05/2024	2024 General Election	13	Precinct 13	810	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	78

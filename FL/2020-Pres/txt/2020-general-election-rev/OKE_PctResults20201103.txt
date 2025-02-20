@@ -1,0 +1,803 @@
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	960
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	530
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1569
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1094
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	837
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1595
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	585
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1924
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	959
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	699
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	718
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	222
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	108
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	400
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	729
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	297
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	789
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	389
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	676
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	351
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	198
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	231
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	8
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	12
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	13
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	3
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	8
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	6
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	9
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	929
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	515
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	1527
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	1031
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	807
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	1533
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	574
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	1870
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	932
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	684
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	680
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	210
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	100
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	357
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	717
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	282
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	747
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	356
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	629
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	326
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	180
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	225
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	9
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	6
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	29
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	39
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	20
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	55
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	18
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	38
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	32
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	17
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	15
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	37
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	20
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	79
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	62
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	32
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	86
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	37
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	85
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	36
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	25
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	45
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	948
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	527
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	1557
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	1098
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	833
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	1586
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	594
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	1924
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	980
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	691
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	State Representative	 District 55	260550	Kaylee Tuck	REP	119024202	74361	706
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	204
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	99
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	377
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	700
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	285
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	754
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	359
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	635
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	318
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	187
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	State Representative	 District 55	260550	Linda Tripp	DEM	104282310	76268	219
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	State Representative	 District 55	260550	WriteinVotes	 	0	900	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	State Representative	 District 55	260550	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	34
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	13
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	57
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	49
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	24
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	81
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	31
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	64
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	27
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	26
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	State Representative	 District 55	260550	UnderVotes	 	0	902	39
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	747
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	438
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	1230
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	913
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	749
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	1354
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	516
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	1671
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	832
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	642
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Jerald "Jerry" D Bryant	REP	106133323	78659	631
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	411
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	185
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	716
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	883
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	365
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	998
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	439
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	869
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	473
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	248
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Sharon Robertson	DEM	106133553	78662	295
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	28
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	18
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	46
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	53
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	28
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	69
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	30
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	84
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	21
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	16
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	39
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	709
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	393
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	1036
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	914
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	783
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	1191
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	496
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	1754
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	801
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	642
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Supervisor of Elections	 	375000	Melissa Arnold	REP	106145769	78612	628
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	393
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	210
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	831
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	797
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	251
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	1012
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	406
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	632
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	430
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	195
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Supervisor of Elections	 	375000	Lisa Rodriguez	NPA	106137089	78630	247
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	50
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	21
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	77
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	73
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	68
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	138
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	44
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	149
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	61
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	32
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Supervisor of Elections	 	375000	Donna V Howard	NPA	112878725	78648	52
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	34
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	17
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	48
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	65
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	40
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	80
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	39
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	89
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	33
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	37
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	38
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	843
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	475
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	1272
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	982
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	810
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	1369
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	495
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	1806
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	887
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	654
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	County Commissioner	 District 3	380030	Bradley G Goodbred	REP	106125798	78671	669
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	313
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	151
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	658
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	814
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	304
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	964
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	463
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	735
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	417
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	227
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	County Commissioner	 District 3	380030	Demetre Riles	DEM	102311002	78690	253
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	County Commissioner	 District 3	380030	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	30
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	15
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	62
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	53
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	28
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	88
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	27
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	83
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	22
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	25
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	County Commissioner	 District 3	380030	UnderVotes	 	0	902	43
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	740
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	386
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1271
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1215
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	763
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1514
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	627
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1695
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	898
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	561
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	627
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	285
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	167
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	470
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	441
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	230
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	635
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	249
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	626
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	292
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	235
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	222
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	160
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	88
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	251
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	193
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	149
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	272
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	109
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	303
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	136
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	110
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	116
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	747
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	393
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	1251
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	1173
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	790
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	1513
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	615
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	1739
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	873
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	554
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	Yes	NOP	105859521	10	634
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	275
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	160
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	485
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	479
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	208
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	631
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	261
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	568
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	311
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	234
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	No	NOP	105859521	20	209
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	163
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	88
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	256
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	197
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	144
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	277
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	109
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	316
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	142
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	118
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Alan O. Forst	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	122
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	721
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	385
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	1234
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	1178
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	764
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	1489
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	611
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	1708
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	863
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	552
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	Yes	NOP	105867958	10	620
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	301
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	166
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	496
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	473
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	225
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	646
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	258
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	586
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	312
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	230
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	No	NOP	105867958	20	218
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	162
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	90
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	262
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	198
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	153
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	286
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	116
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	330
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	151
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	124
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Mark W. Klingensmith	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	127
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	720
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	391
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	1235
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	1227
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	789
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	1541
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	592
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	1746
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	852
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	561
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	Yes	NOP	105793239	10	634
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	295
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	156
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	501
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	425
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	202
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	593
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	278
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	545
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	327
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	227
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	No	NOP	105793239	20	206
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	170
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	94
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	256
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	197
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	151
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	287
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	115
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	333
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	147
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	118
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Retention of Martha C. Warner	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	125
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1033
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	556
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1727
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1528
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1017
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2066
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	825
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	2292
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1126
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	769
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	843
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	113
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	68
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	218
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	258
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	87
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	277
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	123
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	246
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	153
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	111
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	86
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	2
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	40
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	17
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	47
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	62
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	38
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	76
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	37
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	86
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	47
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	26
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	36
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	414
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	247
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	721
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1022
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	575
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1157
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	485
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	1291
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	531
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	362
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	506
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	736
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	372
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1224
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	771
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	523
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1193
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	472
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1260
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	754
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	519
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	414
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	36
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	22
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	47
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	56
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	44
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	71
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	28
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	72
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	41
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	25
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	45
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	573
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	356
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	937
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1146
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	650
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1408
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	504
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	1531
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	751
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	442
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	562
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	538
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	240
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	921
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	578
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	404
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	871
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	424
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	920
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	496
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	410
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	323
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	74
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	45
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	134
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	125
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	88
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	142
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	57
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	173
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	79
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	54
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	80
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	609
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	312
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	977
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	967
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	550
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1259
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	507
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	1346
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	654
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	421
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	512
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	486
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	275
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	856
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	726
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	491
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	984
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	401
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	1064
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	577
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	408
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	359
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	91
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	54
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	159
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	156
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	101
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	178
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	77
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	214
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	95
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	77
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	94
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	826
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	458
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1309
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1299
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	820
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1677
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	675
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1889
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	946
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	620
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	695
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	284
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	142
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	543
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	416
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	242
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	575
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	237
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	553
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	299
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	231
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	201
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	76
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	41
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	140
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	134
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	80
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	169
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	73
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	181
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	81
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	55
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	69
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1031
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	563
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1688
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1600
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1014
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2078
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	835
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	2303
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1137
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	789
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	834
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	98
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	47
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	195
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	141
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	68
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	215
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	93
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	195
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	120
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	67
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	72
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1593	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	57
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	2	2-BASINGER COMMUNITY CENTER	849	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	31
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	3	3-OAKVIEW BAPTIST CHURCH	2449	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	109
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	4	4-OKEECHOBEE CIVIC CENTER	3021	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	108
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	5	5-FREEDOM RANCH	1567	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	60
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	6	6-FIRST BAPTIST CHURCH ROC	3319	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	128
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	7	7 - HAMPTON INN	1392	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	57
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	8	8-KOA	3816	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	126
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	9	9-NEW TESTAMENT BAPTIST CHURCH	1890	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	69
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	10	10-FT DRUM COMMUNITY CHURCH	1235	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	50
+OKE	Okeechobee	10866	11/03/2020	2020 General Election	11	11-PALM VILLAGE RANCH CLUBHOUSE	1263	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	59

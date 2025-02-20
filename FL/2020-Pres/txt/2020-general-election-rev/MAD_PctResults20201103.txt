@@ -1,0 +1,1037 @@
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	941
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	71
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1424
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	262
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	374
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	212
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	685
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	663
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	131
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	527
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	286
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	755
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	254
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	289
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	74
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	563
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	49
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	265
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	207
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	99
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	679
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	513
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	4
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	9
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	10
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	868
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	63
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	1375
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	249
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	344
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	199
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	648
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	630
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	124
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	499
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Representative in Congress	 District 5	140050	Gary Adler	REP	103559929	75184	262
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	809
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	261
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	323
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	83
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	595
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	60
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	292
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	227
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	103
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	702
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	75494	535
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	39
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	5
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	38
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	10
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	14
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	4
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	14
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	24
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	4
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	21
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	15
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	934
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	73
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	1390
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	258
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	384
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	206
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	673
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	658
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	128
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	529
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	294
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	725
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	244
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	306
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	73
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	543
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	46
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	260
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	202
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	97
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	663
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	488
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	56
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	12
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	40
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	26
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	21
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	6
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	30
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	29
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	947
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	71
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	1408
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	258
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	399
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	208
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	675
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	664
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	130
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	528
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	295
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	700
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	244
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	263
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	66
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	512
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	43
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	249
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	182
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	91
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	641
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	480
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	69
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	14
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	65
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	18
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	42
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	12
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	31
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	35
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	10
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	53
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	37
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	997
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	74
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	1398
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	251
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	400
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	214
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	717
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	681
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	128
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	539
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	William D. "Billy" Washington	REP	105273142	76900	294
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	677
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	244
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	296
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	79
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	510
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	42
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	221
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	185
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	93
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	643
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	Angela Rodgers	DEM	105272220	76930	486
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	42
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	11
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	42
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	12
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	43
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	7
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	17
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	15
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	10
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	40
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Clerk of the Circuit Court and Comptroller	 	320000	UnderVotes	 	0	902	32
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	628
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	241
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	251
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	50
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	357
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	37
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	195
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	188
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	75
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	593
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Sheriff	 	335000	Chris Cooks	DEM	105271847	77564	441
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	699
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	47
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	989
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	191
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	326
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	138
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	502
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	433
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	98
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	391
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Sheriff	 	335000	David Harper	NPA	105278900	76905	211
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	110
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	21
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	146
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	42
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	138
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	34
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	78
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	72
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	41
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	104
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Sheriff	 	335000	Kenneth (Ken) Moore	IND	109208789	76911	70
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	237
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	19
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	307
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	45
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	110
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	49
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	158
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	165
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	7
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	117
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Sheriff	 	335000	William Franklin Sircy	NPA	105270641	77581	83
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	41
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	1
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	43
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	14
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	5
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	23
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	17
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	7
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	973
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	234
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	697
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	145
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	595
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	97
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	450
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	418
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	126
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	725
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Superintendent of Schools	 	360000	Shirley D. Joseph	DEM	105269071	76939	529
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	630
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	80
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	900
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	160
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	302
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	135
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	421
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	381
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	83
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	440
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Superintendent of Schools	 	360000	Ivory Thomas	NPA	126535265	76940	247
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Superintendent of Schools	 	360000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	113
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	15
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	139
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	37
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	56
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	31
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	84
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	82
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	57
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Superintendent of Schools	 	360000	UnderVotes	 	0	902	36
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	604
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	35
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	966
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	202
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	299
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	131
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	491
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	473
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	92
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	352
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Supervisor of Elections	 	375000	Heath Driggers	REP	105272321	76914	193
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	547
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	237
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	185
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	58
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	474
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	32
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	170
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	150
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	94
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	580
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Supervisor of Elections	 	375000	Renetta Parrish	DEM	105275687	76924	410
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	529
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	53
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	545
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	67
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	161
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	93
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	267
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	229
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	35
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	260
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Supervisor of Elections	 	375000	Chris Norris	NPA	103382606	76921	190
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	36
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	4
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	40
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	15
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	19
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	7
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	27
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	29
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	10
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	30
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	19
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	County Commissioner	 District 1	380010	Alston Kelley	REP	105268785	76941	872
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	County Commissioner	 District 1	380010	Chuck Mays	NPA	105272108	76942	740
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	104
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	County Commissioner	 District 5	380050	Brian M Williams	REP	105278660	77589	923
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	County Commissioner	 District 5	380050	Brian M Williams	REP	105278660	77589	130
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	County Commissioner	 District 5	380050	Donnell L. Davis	DEM	105274801	77022	213
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	County Commissioner	 District 5	380050	Donnell L. Davis	DEM	105274801	77022	465
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	County Commissioner	 District 5	380050	Rick  Davis	NPA	105270127	76945	554
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	County Commissioner	 District 5	380050	Rick  Davis	NPA	105270127	76945	202
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	45
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	15
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	949
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	175
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	930
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	204
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	523
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	135
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	541
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	519
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	144
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	684
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	417
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	586
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	136
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	619
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	98
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	353
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	95
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	300
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	260
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	63
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	393
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	318
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	181
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	18
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	187
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	40
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	77
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	33
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	114
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	102
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	24
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	145
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	77
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	1025
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	208
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	981
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	207
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	563
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	141
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	552
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	552
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	137
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	769
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	472
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	511
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	102
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	567
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	103
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	321
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	93
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	284
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	230
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	72
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	331
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	266
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	180
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	18
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	188
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	32
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	69
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	29
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	119
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	99
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	122
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	74
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	953
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	159
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	948
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	209
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	513
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	133
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	541
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	525
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	135
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	679
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	405
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	563
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	147
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	576
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	99
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	359
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	99
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	283
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	253
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	68
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	403
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	315
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	199
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	23
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	212
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	34
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	81
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	31
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	131
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	103
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	28
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	140
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	91
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	986
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	171
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	958
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	211
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	505
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	137
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	543
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	531
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	132
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	685
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	408
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	536
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	136
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	579
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	96
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	363
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	94
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	282
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	242
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	74
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	406
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	324
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	194
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	199
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	35
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	32
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	130
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	108
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	25
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	131
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	80
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	968
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	171
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	932
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	213
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	507
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	129
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	551
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	509
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	140
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	668
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	406
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	549
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	135
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	595
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	97
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	360
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	102
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	275
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	255
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	62
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	410
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	313
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	2
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	199
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	23
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	209
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	32
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	84
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	32
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	128
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	117
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	29
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	144
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	93
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1004
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	187
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	955
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	214
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	529
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	146
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	561
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	532
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	134
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	720
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	439
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	512
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	118
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	580
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	96
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	342
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	89
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	265
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	243
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	68
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	369
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	288
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	200
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	24
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	201
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	32
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	82
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	28
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	129
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	106
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	29
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	133
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	85
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	960
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	170
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	968
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	213
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	522
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	138
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	561
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	525
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	135
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	684
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	408
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	566
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	138
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	573
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	98
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	349
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	93
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	268
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	254
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	68
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	409
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	321
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	190
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	21
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	195
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	31
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	82
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	32
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	126
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	102
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	28
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	129
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	83
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1422
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	240
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1549
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	297
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	726
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	225
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	809
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	749
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	184
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	932
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	617
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	239
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	76
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	140
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	29
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	183
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	31
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	105
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	93
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	28
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	230
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	144
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	55
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	13
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	47
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	44
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	7
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	41
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	39
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	19
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	60
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	50
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	847
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	221
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	580
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	108
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	562
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	79
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	378
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	313
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	112
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	702
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	469
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	825
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	101
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	1119
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	222
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	355
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	178
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	538
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	542
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	104
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	471
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	301
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	43
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	7
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	37
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	12
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	36
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	6
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	39
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	26
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	15
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	48
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	42
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	900
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	191
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	873
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	160
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	524
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	123
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	471
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	432
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	111
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	660
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	447
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	729
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	122
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	771
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	163
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	374
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	125
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	425
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	409
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	101
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	486
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	322
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	87
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	16
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	92
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	19
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	55
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	15
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	59
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	40
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	19
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	76
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	43
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	872
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	165
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	898
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	176
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	420
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	117
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	459
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	438
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	115
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	657
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	458
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	734
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	143
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	731
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	138
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	461
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	126
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	420
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	388
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	95
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	473
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	302
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	109
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	21
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	107
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	28
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	72
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	20
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	76
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	55
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	21
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	92
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	52
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1183
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	226
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1190
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	234
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	614
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	169
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	614
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	600
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	131
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	777
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	558
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	423
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	83
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	444
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	87
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	275
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	72
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	274
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	236
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	78
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	340
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	201
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	110
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	20
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	102
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	21
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	64
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	67
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	45
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	22
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	105
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	53
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1448
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	256
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1469
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	291
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	761
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	225
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	802
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	762
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	174
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	990
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	668
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	186
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	56
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	194
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	34
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	139
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	24
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	99
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	80
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	36
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	149
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	100
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+MAD	Madison	10866	11/03/2020	2020 General Election	1	Lee City Hall	2202	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	82
+MAD	Madison	10866	11/03/2020	2020 General Election	2	Lee City Hall	442	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	17
+MAD	Madison	10866	11/03/2020	2020 General Election	3	Lee City Hall	2096	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	73
+MAD	Madison	10866	11/03/2020	2020 General Election	4	Lee City Hall	428	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	17
+MAD	Madison	10866	11/03/2020	2020 General Election	5	Lee City Hall	1168	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	53
+MAD	Madison	10866	11/03/2020	2020 General Election	6	Lee City Hall	297	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	14
+MAD	Madison	10866	11/03/2020	2020 General Election	7	Lee City Hall	1222	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	54
+MAD	Madison	10866	11/03/2020	2020 General Election	8	Lee City Hall	1085	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	39
+MAD	Madison	10866	11/03/2020	2020 General Election	9	Lee City Hall	280	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	21
+MAD	Madison	10866	11/03/2020	2020 General Election	10	Lee City Hall	1535	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	83
+MAD	Madison	10866	11/03/2020	2020 General Election	11	Lee City Hall	1014	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	44

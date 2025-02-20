@@ -1,0 +1,394 @@
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	690
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	538
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	855
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	895
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	Trump / Vance	REP	0	84375	318
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	69
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	60
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	81
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	80
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	Harris / Walz	DEM	0	88636	151
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	Oliver / ter Maat	LPF	0	88618	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	De la Cruz / Garcia	PSL	0	88623	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	Terry / Broden	CPF	0	88632	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	Sonski / Onak	ASP	0	88642	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	Stein / Ware	GRE	0	88647	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	6
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	WriteinVotes	 	0	900	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	OverVotes	 	0	901	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	4
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	3
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	5
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	President and Vice President	 	100000	UnderVotes	 	0	902	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	648
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	528
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	827
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	860
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	84508	320
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	80
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	59
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	83
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	99
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	Debbie Mucarsel-Powell	DEM	109905078	84762	133
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	11
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	6
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	Feena Bonoan	LPF	131799593	84611	4
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	4
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	3
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	85389	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	12
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	3
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	16
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	9
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	Ben Everidge	NPA	113136966	85423	8
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	84048	137
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 2	140020	Yen Bailey	DEM	0	88611	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	546
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	541
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	849
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	879
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	83930	315
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	51
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	55
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	86
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	85
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Representative in Congress	 District 3	140030	Tom Wells	DEM	100528026	84214	139
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	10
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	20
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	20
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	702
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	544
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	855
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	884
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	83666	351
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	47
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	50
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	77
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	82
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Senator	 District 3	240030	Daryl Parks	DEM	105017014	84776	109
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	21
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	12
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	17
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	19
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	690
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	537
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	839
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	878
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	83445	324
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	56
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	60
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	77
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	83
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Representative	 District 7	260070	Kenny Beasley	DEM	126953764	85113	134
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	24
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	9
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	34
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	24
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	17
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	County Commissioner	 District 5	380050	Andrew Branche	REP	122927403	86540	557
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	County Commissioner	 District 5	380050	Andrew Branche	REP	122927403	86540	429
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	County Commissioner	 District 5	380050	Andrew Branche	REP	122927403	86540	675
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	County Commissioner	 District 5	380050	Andrew Branche	REP	122927403	86540	737
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	County Commissioner	 District 5	380050	Andrew Branche	REP	122927403	86540	239
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	County Commissioner	 District 5	380050	Earnest L. Jones	DEM	104748007	86541	189
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	County Commissioner	 District 5	380050	Earnest L. Jones	DEM	104748007	86541	162
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	County Commissioner	 District 5	380050	Earnest L. Jones	DEM	104748007	86541	255
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	County Commissioner	 District 5	380050	Earnest L. Jones	DEM	104748007	86541	220
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	County Commissioner	 District 5	380050	Earnest L. Jones	DEM	104748007	86541	225
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	County Commissioner	 District 5	380050	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	24
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	19
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	27
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	County Commissioner	 District 5	380050	UnderVotes	 	0	902	10
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	429
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	368
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	561
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	571
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	Yes	NOP	118663911	10	272
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	263
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	182
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	310
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	326
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	No	NOP	118663911	20	158
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	78
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	55
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	79
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	86
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Renatha Francis	Justice of the Supreme Court	500001	UnderVotes	 	0	902	44
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	421
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	360
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	556
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	574
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	Yes	NOP	105162710	10	267
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	262
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	183
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	307
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	307
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	No	NOP	105162710	20	160
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	86
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	63
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	87
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	103
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Meredith Sasso	Justice of the Supreme Court	500002	UnderVotes	 	0	902	47
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	431
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	381
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	544
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	596
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	Yes	NOP	105198266	10	274
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	252
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	168
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	314
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	307
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	No	NOP	105198266	20	157
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	86
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	90
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	82
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520101	UnderVotes	 	0	902	43
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	426
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	367
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	555
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	589
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	Yes	NOP	105011721	10	266
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	258
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	179
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	307
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	315
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	No	NOP	105011721	20	165
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	86
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	60
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	88
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	80
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of Bradford L. Thomas	First District Court of Appeal	520102	UnderVotes	 	0	902	44
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	429
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	370
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	555
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	577
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	Yes	NOP	105044161	10	279
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	257
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	177
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	308
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	326
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	No	NOP	105044161	20	151
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	84
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	59
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	87
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	82
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Retention of M. Kemmerly Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	45
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	429
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	372
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	545
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	576
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	Yes for Approval	NOP	0	10	274
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	302
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	215
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	365
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	364
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	No for Rejection	NOP	0	20	173
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	2
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	38
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	19
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	38
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	45
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 1: Partisan Election of Members of District School Boards	 	900001	UnderVotes	 	0	902	27
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	639
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	510
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	786
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	836
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	Yes for Approval	NOP	0	10	395
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	116
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	87
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	143
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	128
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	No for Rejection	NOP	0	20	65
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	8
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	20
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	21
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 2: Right to Fish and Hunt	 	900002	UnderVotes	 	0	902	15
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	251
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	254
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	361
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	302
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	Yes for Approval	NOP	0	10	220
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	514
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	341
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	577
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	665
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	No for Rejection	NOP	0	20	242
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	5
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	11
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	12
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	18
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 3: Adult Personal Use of Marijuana	 	900003	UnderVotes	 	0	902	13
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	161
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	155
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	196
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	193
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	Yes for Approval	NOP	0	10	177
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	598
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	430
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	732
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	767
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	No for Rejection	NOP	0	20	280
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	11
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	21
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	22
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	24
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 4: Amendment to Limit Government Interference with Abortion	 	900004	UnderVotes	 	0	902	17
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	418
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	345
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	587
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	539
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	Yes for Approval	NOP	0	10	277
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	319
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	229
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	317
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	395
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	No for Rejection	NOP	0	20	167
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	33
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	32
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	46
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	51
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 5: Annual Adjustments to the Value of Certain Homestead Exemptions	 	900005	UnderVotes	 	0	902	31
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	410
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	302
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	509
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	504
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	Yes for Approval	NOP	0	10	244
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	323
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	275
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	388
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	427
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	No for Rejection	NOP	0	20	206
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	1
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	OverVotes	 	0	901	0
+LAF	Lafayette	43888	11/05/2024	2024 General Election	1	Day Community Center	888	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	36
+LAF	Lafayette	43888	11/05/2024	2024 General Election	2	Mayo Community Center - D2	698	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	28
+LAF	Lafayette	43888	11/05/2024	2024 General Election	3	Airline Community Center	1103	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	53
+LAF	Lafayette	43888	11/05/2024	2024 General Election	4	4th District Community Center	1109	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	53
+LAF	Lafayette	43888	11/05/2024	2024 General Election	5	Mayo Community Center - D5	562	0	0	0	Amendment No. 6: Repeal of Public Campaign Financing Requirement	 	900006	UnderVotes	 	0	902	25

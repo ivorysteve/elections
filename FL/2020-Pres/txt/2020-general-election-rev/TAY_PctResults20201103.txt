@@ -1,0 +1,1092 @@
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	409
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	769
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	721
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	117
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	683
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	427
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1054
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	513
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	487
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	474
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	567
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	446
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	156
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	928
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	260
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	121
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	126
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	9
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	114
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	62
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	110
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	177
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	71
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	90
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	43
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	339
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	657
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	120
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	11
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	8
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	3
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	6
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	5
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	13
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	507
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	817
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	760
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	114
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	705
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	428
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1079
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	584
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	499
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	509
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	573
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	585
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	414
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	967
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	14
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	15
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	2
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	10
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	6
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	21
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	24
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	8
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	16
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	4
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	54
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	81
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	16
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	143
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	72
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	82
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	12
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	89
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	58
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	75
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	93
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	53
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	45
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	159
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	341
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	80
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	419
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	748
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	702
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	108
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	660
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	409
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	1024
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	493
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	468
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	457
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	540
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	446
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	188
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Senator	 District 3	240030	Marva Harris Preston	REP	101469260	74381	907
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	260
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	136
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	133
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	12
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	113
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	68
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	128
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	184
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	70
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	99
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	62
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	330
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	635
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	73719	128
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	8
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	20
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	21
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	8
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	31
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	15
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	24
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	14
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	12
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	22
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	13
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	28
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	422
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	775
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	724
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	114
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	669
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	419
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	1052
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	516
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	481
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	477
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	562
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	465
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	205
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Representative	 District 7	260070	Jason Shoaf	REP	105170217	74423	930
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	249
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	101
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	109
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	10
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	97
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	48
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	95
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	152
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	56
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	83
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	38
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	309
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	599
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Representative	 District 7	260070	Taymour Khan	DEM	119535104	76618	90
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Representative	 District 7	260070	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	15
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	28
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	24
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	4
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	38
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	25
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	28
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	33
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	23
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	10
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	14
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	24
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	32
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	State Representative	 District 7	260070	UnderVotes	 	0	902	43
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	378
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	574
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	681
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	89
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	586
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	305
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	771
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	415
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	325
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	361
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	437
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	389
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	258
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Property Appraiser	 	340000	Shawna Beach	REP	114449211	77829	666
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	290
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	308
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	154
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	35
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	190
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	175
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	389
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	253
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	221
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	201
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	164
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	383
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	541
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Property Appraiser	 	340000	Abbey Lundy Tharpe	NPA	108382775	77789	379
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	19
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	22
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	22
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	4
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	28
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	12
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	15
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	33
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	14
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	8
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	13
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	26
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	36
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	18
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	381
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	563
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	531
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	64
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	480
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	275
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	675
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	413
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	351
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	356
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	344
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	450
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	394
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	643
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	235
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	247
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	232
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	42
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	210
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	144
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	380
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	218
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	152
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	164
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	207
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	268
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	340
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	301
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	71
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	94
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	94
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	22
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	114
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	73
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	120
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	70
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	57
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	50
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	63
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	80
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	101
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	119
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	447
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	585
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	569
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	64
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	499
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	281
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	707
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	454
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	367
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	376
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	352
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	541
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	522
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	672
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	185
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	231
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	200
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	40
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	191
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	138
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	353
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	174
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	140
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	146
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	204
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	193
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	226
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	273
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	55
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	24
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	114
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	73
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	115
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	73
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	53
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	48
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	58
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	64
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	117
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	402
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	586
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	553
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	60
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	494
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	283
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	704
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	429
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	348
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	362
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	360
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	476
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	422
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	673
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	224
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	231
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	207
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	41
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	190
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	135
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	348
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	201
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	147
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	159
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	190
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	249
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	332
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	273
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	61
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	87
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	97
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	27
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	120
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	74
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	123
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	70
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	65
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	49
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	63
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	73
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	82
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	117
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	394
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	567
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	527
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	62
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	480
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	273
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	696
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	429
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	345
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	358
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	359
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	462
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	397
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	656
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	223
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	231
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	217
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	185
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	138
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	338
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	191
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	141
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	155
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	188
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	251
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	331
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	271
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	70
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	106
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	113
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	29
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	139
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	141
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	74
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	57
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	66
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	108
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	136
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	382
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	558
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	537
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	64
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	480
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	270
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	650
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	420
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	345
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	361
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	343
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	442
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	373
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	635
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	238
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	240
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	216
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	190
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	142
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	388
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	204
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	145
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	152
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	197
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	261
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	352
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	294
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	67
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	106
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	104
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	134
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	80
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	137
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	77
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	70
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	57
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	74
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	95
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	111
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	134
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	417
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	555
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	537
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	59
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	478
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	263
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	686
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	424
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	353
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	356
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	356
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	505
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	478
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	641
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	195
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	232
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	205
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	39
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	185
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	138
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	339
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	187
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	132
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	143
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	181
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	197
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	243
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	281
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	75
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	117
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	115
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	30
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	141
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	91
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	150
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	90
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	75
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	71
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	77
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	96
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	115
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	141
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	376
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	570
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	541
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	60
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	483
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	265
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	678
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	421
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	339
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	370
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	351
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	447
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	393
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	642
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	234
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	224
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	205
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	38
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	188
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	146
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	349
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	205
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	151
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	143
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	195
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	262
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	340
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	281
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	77
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	110
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	111
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	29
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	133
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	81
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	148
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	75
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	70
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	57
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	68
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	89
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	103
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	140
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	560
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	809
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	750
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	106
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	702
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	428
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1014
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	574
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	486
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	498
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	539
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	613
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	567
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	928
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	106
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	53
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	77
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	10
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	55
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	111
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	91
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	48
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	51
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	57
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	141
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	206
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	84
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	21
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	42
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	30
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	12
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	47
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	27
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	50
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	36
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	26
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	21
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	18
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	44
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	63
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	51
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	361
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	375
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	328
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	44
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	289
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	165
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	405
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	282
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	220
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	238
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	194
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	425
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	620
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	350
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	310
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	493
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	504
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	72
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	475
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	305
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	725
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	391
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	317
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	312
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	403
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	342
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	156
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	668
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	16
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	36
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	25
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	12
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	40
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	22
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	44
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	28
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	23
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	20
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	17
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	31
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	60
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	44
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	370
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	489
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	438
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	74
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	389
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	265
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	570
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	375
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	266
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	313
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	298
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	451
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	473
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	503
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	297
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	358
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	390
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	359
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	196
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	533
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	276
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	261
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	225
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	289
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	306
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	291
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	494
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	20
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	57
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	29
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	17
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	56
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	31
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	71
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	50
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	32
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	32
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	27
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	41
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	72
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	66
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	332
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	506
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	444
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	72
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	381
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	247
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	626
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	350
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	279
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	303
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	342
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	423
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	436
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	574
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	330
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	333
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	371
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	355
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	206
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	461
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	290
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	244
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	228
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	243
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	322
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	317
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	410
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	24
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	65
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	42
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	19
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	68
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	39
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	88
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	61
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	39
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	29
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	53
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	83
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	78
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	485
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	595
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	596
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	89
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	534
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	308
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	776
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	458
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	355
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	362
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	398
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	555
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	546
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	677
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	165
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	218
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	197
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	21
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	181
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	129
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	288
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	182
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	153
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	157
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	165
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	182
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	192
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	278
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	37
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	91
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	64
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	18
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	89
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	55
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	111
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	61
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	52
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	51
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	51
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	61
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	98
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	108
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	609
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	789
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	762
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	109
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	692
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	421
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	985
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	562
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	483
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	496
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	519
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	655
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	667
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	910
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	59
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	64
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	66
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	4
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	69
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	43
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	117
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	92
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	47
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	45
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	69
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	94
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	91
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	97
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+TAY	Taylor	10866	11/03/2020	2020 General Election	1	1 1st United Methodist Ch	873	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	19
+TAY	Taylor	10866	11/03/2020	2020 General Election	2	2 Big Bend Technical College	1164	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	51
+TAY	Taylor	10866	11/03/2020	2020 General Election	3	3 Blue Creek Bapt Church	1011	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	29
+TAY	Taylor	10866	11/03/2020	2020 General Election	4	4 Salem Baptist Church	159	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	15
+TAY	Taylor	10866	11/03/2020	2020 General Election	5	5 Steinhatchee Comm Cntr	946	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	43
+TAY	Taylor	10866	11/03/2020	2020 General Election	6	6 Shady Gr Missnry Bapt Ch	565	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	28
+TAY	Taylor	10866	11/03/2020	2020 General Election	7	7 Johnson Strip Rd Voting	1434	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	73
+TAY	Taylor	10866	11/03/2020	2020 General Election	8	8 United Steel Workers Bdg	895	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	46
+TAY	Taylor	10866	11/03/2020	2020 General Election	9	9 Forest Capital Hall	730	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	30
+TAY	Taylor	10866	11/03/2020	2020 General Election	10	10 Lakeside Bapt Church	699	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	28
+TAY	Taylor	10866	11/03/2020	2020 General Election	11	11 Kelly Grade Voting House	769	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	26
+TAY	Taylor	10866	11/03/2020	2020 General Election	12	12 Perry Shrine Bldg	1036	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	49
+TAY	Taylor	10866	11/03/2020	2020 General Election	13	13 Jerkins Bldg	1143	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	78
+TAY	Taylor	10866	11/03/2020	2020 General Election	14	14 Mt. Carmel Bapt Church	1355	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	56

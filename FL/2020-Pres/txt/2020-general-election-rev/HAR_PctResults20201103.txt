@@ -1,0 +1,900 @@
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	240
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	403
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	334
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	480
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	384
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	340
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1191
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1116
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	375
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	335
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	895
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	34
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	304
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	128
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	162
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	65
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	149
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	407
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	232
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	242
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	207
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	218
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	150
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	9
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	233
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	371
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	304
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	443
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	376
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	319
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	1128
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	24
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	1058
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	354
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	300
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Representative in Congress	 District 17	140170	Greg Steube	REP	105486919	75229	861
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	35
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	324
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	141
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	170
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	62
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	166
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	423
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	230
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	261
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	218
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	220
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Representative in Congress	 District 17	140170	Allen Ellison	DEM	104319378	74970	172
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	11
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	15
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	18
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	9
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	23
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	24
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	9
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	9
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Representative in Congress	 District 17	140170	Theodore "Pink Tie" Murray	NPA	113733240	74678	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Representative in Congress	 District 17	140170	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	8
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	19
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	12
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	22
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	14
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	9
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	46
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	6
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	25
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	15
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Representative in Congress	 District 17	140170	UnderVotes	 	0	902	21
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	240
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	423
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	341
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	496
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	382
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	344
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	1195
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	36
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	1098
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	383
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	330
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	State Representative	 District 56	260560	Melony Bell	REP	113462928	74027	888
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	30
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	283
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	118
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	135
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	63
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	145
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	379
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	222
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	239
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	195
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	202
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	State Representative	 District 56	260560	James Davis	DEM	0	76187	142
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	State Representative	 District 56	260560	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	8
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	18
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	14
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	22
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	11
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	14
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	48
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	7
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	31
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	18
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	26
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	State Representative	 District 56	260560	UnderVotes	 	0	902	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	173
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	299
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	229
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	368
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	326
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	239
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	970
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	55
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	882
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	288
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	248
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Sheriff	 	335000	Vincent (Vent) M. Crawford	REP	104311628	77293	683
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	103
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	406
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	228
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	274
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	127
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	260
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	611
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	200
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	472
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	296
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	287
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Sheriff	 	335000	Kevin T. White	NPA	104314404	77231	366
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Sheriff	 	335000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	20
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	15
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	39
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	14
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	12
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	23
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Sheriff	 	335000	UnderVotes	 	0	902	10
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	142
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	290
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	225
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	270
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	282
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	202
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	891
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	21
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	731
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	222
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	215
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Supervisor of Elections	 	375000	Patty Clark	REP	104321893	77288	532
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	131
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	416
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	230
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	367
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	163
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	291
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	673
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	237
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	600
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	363
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	317
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Supervisor of Elections	 	375000	Diane Smith	DEM	104312337	77283	504
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Supervisor of Elections	 	375000	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	4
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	18
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	17
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	15
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	11
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	10
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	56
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	7
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	37
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	11
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	26
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Supervisor of Elections	 	375000	UnderVotes	 	0	902	22
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	182
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	469
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	305
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	429
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	270
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	332
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	1004
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	145
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	853
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	381
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	372
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	664
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	70
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	188
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	126
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	168
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	133
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	133
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	419
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	92
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	369
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	153
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	128
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	272
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	26
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	68
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	42
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	55
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	53
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	38
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	199
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	28
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	146
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	62
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	58
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	123
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	188
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	445
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	299
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	444
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	273
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	348
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	1043
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	136
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	855
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	384
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	362
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	Yes	NOP	101847512	10	656
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	65
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	210
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	129
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	157
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	122
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	118
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	377
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	95
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	371
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	150
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	133
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	No	NOP	101847512	20	276
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	25
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	70
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	45
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	52
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	61
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	37
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	202
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	34
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	143
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	62
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	63
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Drew Atkinson	Second District Court of Appeal	520201	UnderVotes	 	0	902	127
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	161
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	403
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	271
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	385
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	238
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	327
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	968
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	129
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	771
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	330
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	324
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	588
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	88
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	236
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	152
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	196
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	153
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	131
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	419
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	96
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	430
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	182
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	156
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	334
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	86
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	49
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	72
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	65
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	45
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	234
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	40
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	167
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	83
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	78
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	137
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	181
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	440
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	293
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	428
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	256
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	341
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	1004
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	128
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	814
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	355
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	339
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	637
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	65
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	200
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	131
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	153
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	131
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	116
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	365
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	98
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	375
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	155
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	138
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	275
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	32
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	85
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	49
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	72
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	69
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	46
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	253
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	39
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	180
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	86
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	81
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	147
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	185
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	455
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	307
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	439
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	264
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	354
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	1021
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	148
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	849
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	382
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	365
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	Yes	NOP	113705457	10	652
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	64
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	186
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	117
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	139
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	128
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	104
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	357
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	81
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	348
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	131
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	113
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	No	NOP	113705457	20	260
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	84
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	49
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	75
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	64
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	45
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	244
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	36
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	172
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	83
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	80
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Retention of Andrea Teves Smith	Second District Court of Appeal	520204	UnderVotes	 	0	902	147
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	119
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	276
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	166
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	278
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	134
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	197
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	522
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	102
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	512
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	237
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	192
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	School Board	 District 2	610002	Dick Daggett	NOP	104311359	77271	378
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	140
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	385
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	273
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	342
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	274
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	277
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	918
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	126
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	775
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	324
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	311
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	School Board	 District 2	610002	Mildred Carter Smith	NOP	104310399	77269	627
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	3
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	19
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	64
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	33
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	33
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	48
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	180
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	37
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	82
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	35
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	55
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	54
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	238
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	594
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	396
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	549
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	397
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	437
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1347
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	193
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1199
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	495
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	455
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	897
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	34
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	111
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	56
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	81
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	43
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	49
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	216
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	48
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	134
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	83
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	78
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	137
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	6
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	19
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	21
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	23
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	58
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	24
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	35
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	18
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	25
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	25
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	80
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	356
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	206
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	234
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	139
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	223
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	709
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	209
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	443
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	270
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	286
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	269
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	193
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	349
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	244
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	399
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	303
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	258
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	858
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	33
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	892
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	311
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	242
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	757
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	20
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	22
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	20
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	14
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	21
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	54
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	23
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	32
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	15
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	33
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	107
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	370
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	236
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	292
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	191
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	265
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	810
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	161
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	601
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	309
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	324
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	388
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	165
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	329
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	217
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	322
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	239
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	225
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	735
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	82
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	723
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	262
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	198
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	631
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	5
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	25
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	20
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	35
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	28
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	11
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	71
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	20
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	40
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	22
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	31
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	39
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	151
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	381
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	287
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	359
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	233
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	298
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	878
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	146
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	756
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	346
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	297
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	619
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	117
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	307
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	160
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	257
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	196
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	189
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	644
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	89
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	556
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	226
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	223
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	395
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	2
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	9
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	36
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	26
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	31
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	29
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	14
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	94
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	28
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	53
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	21
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	33
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	44
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	166
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	457
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	309
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	457
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	287
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	355
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	1062
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	158
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	913
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	405
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	403
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	749
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	99
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	234
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	133
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	154
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	145
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	124
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	454
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	78
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	393
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	152
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	113
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	269
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	12
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	33
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	32
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	38
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	26
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	22
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	99
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	27
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	59
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	36
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	37
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	40
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	234
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	606
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	388
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	556
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	379
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	443
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1380
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	215
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1129
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	501
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	482
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	911
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	36
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	86
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	55
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	62
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	53
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	38
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	152
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	21
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	183
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	59
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	41
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	104
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+HAR	Hardee	10866	11/03/2020	2020 General Election	01	Fort Green Baptist Church	361	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	7
+HAR	Hardee	10866	11/03/2020	2020 General Election	02	Bowling Green Faith Assembly of God	1148	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	31
+HAR	Hardee	10866	11/03/2020	2020 General Election	03	Bowling Green Council Cambers	721	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	31
+HAR	Hardee	10866	11/03/2020	2020 General Election	04	First United Methodist Church of Wauchula	971	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	31
+HAR	Hardee	10866	11/03/2020	2020 General Election	05	Ona Baptist Church	602	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	26
+HAR	Hardee	10866	11/03/2020	2020 General Election	06	Courthouse Annex	818	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	20
+HAR	Hardee	10866	11/03/2020	2020 General Election	07	Zolfo Springs Civic Center	2443	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	84
+HAR	Hardee	10866	11/03/2020	2020 General Election	08	First Missionary Baptist Church	476	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	27
+HAR	Hardee	10866	11/03/2020	2020 General Election	09	New Hope Baptist Church	2004	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	53
+HAR	Hardee	10866	11/03/2020	2020 General Election	10	Wauchula Old City Hall	1083	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	33
+HAR	Hardee	10866	11/03/2020	2020 General Election	11	 PRECO Main Bldg	1034	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	30
+HAR	Hardee	10866	11/03/2020	2020 General Election	12	Civic Center	1408	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	43

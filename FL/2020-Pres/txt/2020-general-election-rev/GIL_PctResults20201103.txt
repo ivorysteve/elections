@@ -1,0 +1,740 @@
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	722
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	344
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	144
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1214
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1055
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1031
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	575
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	1226
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	804
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	Trump / Pence	REP	0	74773	780
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	162
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	74
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	101
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	191
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	187
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	231
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	113
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	231
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	176
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	Biden / Harris	DEM	0	74777	234
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	4
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	5
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	9
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	8
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	7
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	6
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	Jorgensen / Cohen	LPF	0	78900	10
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	De La Fuente / Richardson	REF	0	74772	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	La Riva / Freeman	PSL	0	78913	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	Hawkins / Walker	GRE	0	78918	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	Blankenship / Mohr	CPF	0	78922	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	4
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	6
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	7
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	President of the United States	 	100000	UnderVotes	 	0	902	5
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	784
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	389
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	182
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1272
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1125
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1113
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	609
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	1298
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	851
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	74603	861
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	19
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	8
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	15
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	18
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	30
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	43
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	16
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	54
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	24
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Representative in Congress	 District 2	140020	WriteinVotes	 	0	900	38
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	95
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	29
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	53
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	134
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	105
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	133
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	71
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	124
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	122
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	133
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	716
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	357
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	137
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1214
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1039
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1026
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	570
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	1217
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	798
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Senator	 District 5	240050	Jennifer Bradley	REP	102934606	74446	788
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	147
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	57
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	106
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	156
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	169
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	210
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	104
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	216
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	166
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Senator	 District 5	240050	Stacey L. Peters	DEM	107855043	79008	212
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Senator	 District 5	240050	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	35
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	12
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	7
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	54
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	52
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	53
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	22
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	43
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	33
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Senator	 District 5	240050	UnderVotes	 	0	902	34
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	732
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	353
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	147
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	1234
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	1070
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	1037
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	578
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	1226
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	812
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	73976	812
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	144
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	69
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	96
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	157
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	161
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	215
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	104
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	223
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	167
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Representative	 District 21	260210	Kayser Enneking	DEM	100424810	74582	202
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	22
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	4
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	7
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	33
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	29
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	37
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	14
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	27
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	18
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	20
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	537
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	262
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	138
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	900
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	752
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	778
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	426
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	920
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	622
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	Yes	NOP	105143695	10	631
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	251
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	115
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	80
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	361
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	376
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	392
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	202
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	403
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	262
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	No	NOP	105143695	20	275
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	109
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	49
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	32
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	163
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	132
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	119
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	68
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	152
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	113
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Carlos G. Muñiz	Justice of the Supreme Court	500001	UnderVotes	 	0	902	127
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	542
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	262
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	151
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	869
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	720
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	779
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	429
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	913
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	594
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	Yes	NOP	104990520	10	631
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	246
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	108
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	67
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	384
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	394
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	361
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	188
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	405
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	277
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	No	NOP	104990520	20	257
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	109
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	54
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	31
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	171
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	144
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	149
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	77
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	158
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	125
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Joseph Lewis Jr	First District Court of Appeal	520101	UnderVotes	 	0	902	145
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	556
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	270
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	147
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	892
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	736
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	772
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	441
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	917
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	622
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	Yes	NOP	103576421	10	633
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	225
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	102
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	70
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	350
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	372
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	361
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	169
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	390
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	243
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	No	NOP	103576421	20	241
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	4
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	116
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	54
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	32
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	178
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	152
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	154
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	86
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	167
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	132
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Scott Makar	First District Court of Appeal	520102	UnderVotes	 	0	902	158
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	556
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	269
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	146
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	886
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	753
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	796
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	433
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	930
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	615
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	Yes	NOP	105227170	10	633
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	223
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	100
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	69
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	355
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	354
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	338
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	172
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	372
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	253
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	No	NOP	105227170	20	241
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	118
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	57
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	34
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	183
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	152
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	155
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	90
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	174
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	128
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Rachel Nordby	First District Court of Appeal	520103	UnderVotes	 	0	902	159
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	537
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	262
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	144
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	878
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	722
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	757
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	414
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	899
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	580
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	615
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	241
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	107
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	70
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	360
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	377
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	375
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	191
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	400
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	280
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	253
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	119
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	57
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	36
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	186
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	160
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	157
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	91
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	177
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	137
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	165
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	541
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	267
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	141
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	850
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	729
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	755
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	428
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	906
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	588
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	613
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	237
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	102
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	71
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	383
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	375
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	376
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	178
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	392
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	278
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	256
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	119
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	57
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	38
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	191
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	156
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	158
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	90
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	178
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	131
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	163
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	553
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	264
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	139
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	890
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	741
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	783
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	428
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	923
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	617
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	Yes	NOP	112875068	10	644
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	226
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	105
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	74
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	346
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	360
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	347
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	179
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	373
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	243
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	No	NOP	112875068	20	231
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	OverVotes	 	0	901	3
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	118
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	57
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	37
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	188
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	159
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	159
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	89
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	179
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	137
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Retention of Adam S. Tanenbaum	First District Court of Appeal	520106	UnderVotes	 	0	902	156
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	790
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	381
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	203
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1271
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1134
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1141
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	614
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	1296
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	856
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	Yes for Approval	NOP	0	10	899
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	81
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	35
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	37
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	107
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	85
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	111
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	66
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	146
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	105
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	No for Rejection	NOP	0	20	110
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	27
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	10
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	10
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	46
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	41
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	37
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	16
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	33
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	36
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 1: Citizenship Requirement to Vote in Florida Elections	 	900001	UnderVotes	 	0	902	24
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	287
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	128
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	110
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	398
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	374
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	450
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	225
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	455
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	303
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	Yes for Approval	NOP	0	10	364
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	584
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	290
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	128
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	998
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	852
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	806
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	454
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	979
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	670
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	No for Rejection	NOP	0	20	643
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	27
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	8
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	12
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	28
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	33
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	33
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	17
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	42
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	23
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 2: Raising Florida’s Minimum Wage	 	900002	UnderVotes	 	0	902	25
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	366
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	211
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	125
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	603
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	565
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	606
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	308
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	581
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	421
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	Yes for Approval	NOP	0	10	523
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	466
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	194
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	103
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	746
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	619
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	604
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	363
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	812
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	515
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	No for Rejection	NOP	0	20	447
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	2
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	65
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	21
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	22
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	75
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	76
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	78
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	25
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	83
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	59
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 3: All Voters Vote in Primary Elections for State Legislature, Governor, and Cabinet	 Governor, and Cabinet	900003	UnderVotes	 	0	902	63
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	404
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	184
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	124
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	646
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	503
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	561
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	325
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	648
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	413
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	Yes for Approval	NOP	0	10	482
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	416
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	215
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	99
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	683
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	662
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	643
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	343
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	727
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	516
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	No for Rejection	NOP	0	20	479
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	78
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	26
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	27
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	95
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	95
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	85
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	28
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	101
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	68
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 4: Voter Approval of Constitutional Amendments	 	900004	UnderVotes	 	0	902	73
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	595
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	301
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	163
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	987
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	819
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	876
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	482
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	992
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	668
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	Yes for Approval	NOP	0	10	710
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	230
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	105
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	63
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	349
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	366
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	337
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	190
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	399
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	265
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	No for Rejection	NOP	0	20	263
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	73
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	20
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	24
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	87
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	74
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	76
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	24
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	85
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	63
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 5: Limitations on Homestead Property Tax Assessments; increased portability period to transfer accrued benefit	 	900005	UnderVotes	 	0	902	60
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	743
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	373
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	201
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1223
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1047
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1094
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	610
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	1243
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	826
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	Yes for Approval	NOP	0	10	921
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	103
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	36
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	26
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	131
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	143
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	123
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	69
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	175
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	122
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	No for Rejection	NOP	0	20	67
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	OverVotes	 	0	901	1
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1A	1A Trenton Center 	1153	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	52
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1B	1B County Library 	537	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	17
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	1C	1C County Library 	365	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	23
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	2A	2A Donnie Center 	1745	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	70
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	3A	3A Bell Community Center 	1610	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	69
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	4A	4A Cruse Center 	1708	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	72
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	5A	5A N Gilchrist Fire Station 	920	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	17
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	6A	6A Osteen Center 	1842	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	58
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	7A	7A Osceola Center 	1278	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	49
+GIL	Gilchrist	10866	11/03/2020	2020 General Election	8A	8A Southeast Center 	1358	0	0	0	Amendment No. 6: Ad Valorem Tax Discount for Spouses of Certain Deceased Veterans Who Had Permanent, Combat-Related Disabilities	 Combat-Related Disabilities	900006	UnderVotes	 	0	902	45
