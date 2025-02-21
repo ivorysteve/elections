@@ -4,4 +4,4 @@ To process data for FL 2020 Presidential Race:
 - Open ZIP file.
 - Concatonate all .txt files into a single 'all.csv' file.
 - Open this file with Excel.  Transform first column into delimited data.  Save file.
-- Run 'python3 bin/readFlPres2020CsvFile.py' to generate data.
+- Run 'python3 bin/csv/readFlPres2020CsvFile.py' from the 'elections' folder to generate data.
