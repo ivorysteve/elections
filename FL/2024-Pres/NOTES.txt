@@ -1,1 +1,7 @@
-Cat all txt files to "all.csv" and run python3 bin/readCsvFile.py to generate data.
+To process data for FL 2024 Presidential Race:
+
+- Using URL, download the ZIP file.
+- Open ZIP file.
+- Concatonate all .txt files into a single 'all.csv' file.
+- Open this file with Excel.  Transform first column into delimited data.  Save file.
+- Run 'python3 bin/csv/readFlPres2024CsvFile.py' from the 'elections' folder to generate data.
