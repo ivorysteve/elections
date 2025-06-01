@@ -14,4 +14,4 @@ class Candidate:
 
     # String method
     def __str__(self):
-        return f"{self.name}: {self.votes_ed} election day, {self.votes_mail} mail-in, {self.votes_prov} provisional: {self.votes_total} total"
+        return f"{self.name}: {self.votes_ed} election day, {self.votes_mail} mail-in, {self.votes_prov} provisional, {self.votes_absentee} abs: {self.votes_total} total"
